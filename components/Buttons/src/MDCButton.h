@@ -20,7 +20,7 @@
 #import "MaterialShapes.h"
 
 /**
- A Material flat, raised or floating button.
+
 
  All buttons display animated ink splashes when the user interacts with the button.
 

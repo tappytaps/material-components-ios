@@ -12,9 +12,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCTabBarIndicatorView.h"
+#import <MaterialComponents/MDCTabBarIndicatorView.h>
 
-#import "MDCTabBarIndicatorAttributes.h"
+#import <MaterialComponents/MDCTabBarIndicatorAttributes.h>
 
 /** Content view that displays a filled path and supports animation between states. */
 @interface MDCTabBarIndicatorShapeView : UIView

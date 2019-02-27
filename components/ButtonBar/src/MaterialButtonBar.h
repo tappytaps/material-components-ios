@@ -12,5 +12,5 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCButtonBar.h"
-#import "MDCButtonBarButton.h"
+#import <MaterialComponents/MDCButtonBar.h>
+#import <MaterialComponents/MDCButtonBarButton.h>

@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCPaletteNames.h"
+#import <MaterialComponents/MDCPaletteNames.h>
 
 BOOL MDCPaletteIsTintOrAccentName(NSString* _Nonnull name) {
   return [name isEqualToString:MDC_PALETTE_TINT_50_INTERNAL_NAME] ||

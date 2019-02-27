@@ -14,8 +14,8 @@
 
 #import <Foundation/Foundation.h>
 
-#import "MDCTextFieldSnapshotTestCase.h"
-#import "MaterialTextFields.h"
+#import <MaterialComponents/MDCTextFieldSnapshotTestCase.h>
+#import <MaterialComponents/MaterialTextFields.h>
 
 /**
  Defines several methods that allow subclasses to define "hook" methods that execute after different

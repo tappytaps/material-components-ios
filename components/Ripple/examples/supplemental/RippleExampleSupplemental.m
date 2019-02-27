@@ -17,7 +17,7 @@
  instructions. It is not necessary to import this file to use Material Components for iOS.
  */
 
-#import "RippleExampleSupplemental.h"
+#import <MaterialComponents/RippleExampleSupplemental.h>
 
 @implementation RippleSurfaces
 

@@ -14,9 +14,9 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MaterialButtonBar.h"
-#import "MaterialIcons+ic_check_circle.h"
-#import "MaterialIcons+ic_info.h"
+#import <MaterialComponents/MaterialButtonBar.h>
+#import <MaterialComponents/MaterialIcons+ic_check_circle.h>
+#import <MaterialComponents/MaterialIcons+ic_info.h>
 
 @interface ButtonBarIconExample : UIViewController
 @end

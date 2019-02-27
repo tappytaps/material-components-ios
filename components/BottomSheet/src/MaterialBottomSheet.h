@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCBottomSheetController.h"
-#import "MDCBottomSheetPresentationController.h"
-#import "MDCBottomSheetTransitionController.h"
-#import "UIViewController+MaterialBottomSheet.h"
+#import <MaterialComponents/MDCBottomSheetController.h>
+#import <MaterialComponents/MDCBottomSheetPresentationController.h>
+#import <MaterialComponents/MDCBottomSheetTransitionController.h>
+#import <MaterialComponents/UIViewController+MaterialBottomSheet.h>

@@ -12,9 +12,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCChipViewScheme.h"
+#import <MaterialComponents/MDCChipViewScheme.h>
 
-#import "MaterialChips.h"
+#import <MaterialComponents/MaterialChips.h>
 
 #import <Foundation/Foundation.h>
 

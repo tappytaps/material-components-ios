@@ -12,9 +12,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCBottomSheetTransitionController.h"
+#import <MaterialComponents/MDCBottomSheetTransitionController.h>
 
-#import "MDCBottomSheetPresentationController.h"
+#import <MaterialComponents/MDCBottomSheetPresentationController.h>
 
 static const NSTimeInterval MDCBottomSheetTransitionDuration = 0.25;
 

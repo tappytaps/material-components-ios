@@ -12,10 +12,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCSlider.h"
+#import <MaterialComponents/MDCSlider.h>
 
-#import "MaterialPalettes.h"
-#import "MaterialThumbTrack.h"
+#import <MaterialComponents/MaterialPalettes.h>
+#import <MaterialComponents/MaterialThumbTrack.h>
 #import "private/MDCSlider+Private.h"
 #import "private/MDCSlider_Subclassable.h"
 

@@ -17,7 +17,7 @@
  instructions. It is not necessary to import this file to use Material Components for iOS.
  */
 
-#import "DialogsKeyboardExampleViewControllerSupplemental.h"
+#import <MaterialComponents/DialogsKeyboardExampleViewControllerSupplemental.h>
 
 #pragma mark - DialogsKeyboardExampleViewController
 

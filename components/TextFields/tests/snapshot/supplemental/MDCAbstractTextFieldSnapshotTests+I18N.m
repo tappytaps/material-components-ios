@@ -15,8 +15,8 @@
 #import <MDFInternationalization/MDFInternationalization.h>
 #import <UIKit/UIKit.h>
 
-#import "MDCAbstractTextFieldSnapshotTests+I18N.h"
-#import "MDCTextFieldSnapshotTestsStrings.h"
+#import <MaterialComponents/MDCAbstractTextFieldSnapshotTests+I18N.h>
+#import <MaterialComponents/MDCTextFieldSnapshotTestsStrings.h>
 
 @implementation MDCAbstractTextFieldSnapshotTests (I18N)
 

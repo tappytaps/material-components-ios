@@ -12,19 +12,19 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCAppBar.h"
+#import <MaterialComponents/MDCAppBar.h>
 
-#import "MDCAppBarContainerViewController.h"
+#import <MaterialComponents/MDCAppBarContainerViewController.h>
 
 #import <MDFInternationalization/MDFInternationalization.h>
 #import <MDFTextAccessibility/MDFTextAccessibility.h>
-#import "MaterialApplication.h"
-#import "MaterialFlexibleHeader.h"
-#import "MaterialIcons+ic_arrow_back.h"
-#import "MaterialShadowElevations.h"
-#import "MaterialShadowLayer.h"
-#import "MaterialTypography.h"
-#import "MaterialUIMetrics.h"
+#import <MaterialComponents/MaterialApplication.h>
+#import <MaterialComponents/MaterialFlexibleHeader.h>
+#import <MaterialComponents/MaterialIcons+ic_arrow_back.h>
+#import <MaterialComponents/MaterialShadowElevations.h>
+#import <MaterialComponents/MaterialShadowLayer.h>
+#import <MaterialComponents/MaterialTypography.h>
+#import <MaterialComponents/MaterialUIMetrics.h>
 #import "private/MaterialAppBarStrings.h"
 #import "private/MaterialAppBarStrings_table.h"
 

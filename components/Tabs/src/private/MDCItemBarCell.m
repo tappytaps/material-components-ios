@@ -12,17 +12,17 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCItemBarCell.h"
-#import "MDCItemBarCell+Private.h"
+#import <MaterialComponents/MDCItemBarCell.h>
+#import <MaterialComponents/MDCItemBarCell+Private.h>
 
 #import <MDFInternationalization/MDFInternationalization.h>
 
-#import "MDCItemBarStringConstants.h"
-#import "MDCItemBarStyle.h"
-#import "MaterialAnimationTiming.h"
-#import "MaterialInk.h"
-#import "MaterialMath.h"
-#import "MaterialTypography.h"
+#import <MaterialComponents/MDCItemBarStringConstants.h>
+#import <MaterialComponents/MDCItemBarStyle.h>
+#import <MaterialComponents/MaterialAnimationTiming.h>
+#import <MaterialComponents/MaterialInk.h>
+#import <MaterialComponents/MaterialMath.h>
+#import <MaterialComponents/MaterialTypography.h>
 
 /// Size of image in points.
 static const CGSize kImageSize = {24, 24};

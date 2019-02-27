@@ -25,7 +25,7 @@ MDCNavigationBarTypographyThemer.applyTypographyScheme(typographyScheme, to: com
 
 ```objc
 // Step 1: Import the TypographyThemer extension
-#import "MaterialNavigationBar+TypographyThemer.h"
+#import <MaterialComponents/MaterialNavigationBar+TypographyThemer.h>
 
 // Step 2: Create or get a typography scheme
 id<MDCTypographyScheming> typographyScheme = [[MDCTypographyScheme alloc] init];

@@ -25,7 +25,7 @@ MDCAlertColorThemer.applySemanticColorScheme(colorScheme, to: component)
 
 ```objc
 // Step 1: Import the ColorThemer extension
-#import "MaterialDialogs+ColorThemer.h"
+#import <MaterialComponents/MaterialDialogs+ColorThemer.h>
 
 // Step 2: Create or get a color scheme
 id<MDCColorScheming> colorScheme = [[MDCSemanticColorScheme alloc] initWithDefaults:MDCColorSchemeDefaultsMaterial201804];

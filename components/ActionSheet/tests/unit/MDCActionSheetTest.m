@@ -12,12 +12,12 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MaterialMath.h"
+#import <MaterialComponents/MaterialMath.h>
 
 #import <XCTest/XCTest.h>
 
 #import "../../src/private/MDCActionSheetHeaderView.h"
-#import "MDCActionSheetTestHelper.h"
+#import <MaterialComponents/MDCActionSheetTestHelper.h>
 
 static const CGFloat kSafeAreaAmount = 20;
 

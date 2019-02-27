@@ -12,9 +12,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MaterialColorScheme.h"
-#import "MaterialTabs+ColorThemer.h"
-#import "MaterialTabs.h"
+#import <MaterialComponents/MaterialColorScheme.h>
+#import <MaterialComponents/MaterialTabs+ColorThemer.h>
+#import <MaterialComponents/MaterialTabs.h>
 
 @interface BottomNavigationBarExample : UIViewController <MDCTabBarDelegate>
 @property(nonatomic, strong) MDCSemanticColorScheme *colorScheme;

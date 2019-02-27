@@ -12,9 +12,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCFlexibleHeaderMinMaxHeight.h"
+#import <MaterialComponents/MDCFlexibleHeaderMinMaxHeight.h>
 
-#import "MDCFlexibleHeaderTopSafeArea.h"
+#import <MaterialComponents/MDCFlexibleHeaderTopSafeArea.h>
 
 // The default maximum height for the header. Does not include the status bar height.
 static const CGFloat kFlexibleHeaderDefaultHeight = 56;

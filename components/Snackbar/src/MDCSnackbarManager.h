@@ -13,7 +13,7 @@
 // limitations under the License.
 
 #import <UIKit/UIKit.h>
-#import "MDCSnackbarAlignment.h"
+#import <MaterialComponents/MDCSnackbarAlignment.h>
 
 @class MDCSnackbarMessage;
 @class MDCSnackbarMessageView;

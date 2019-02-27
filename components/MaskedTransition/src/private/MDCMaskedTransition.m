@@ -15,13 +15,13 @@
 #import <CoreGraphics/CoreGraphics.h>
 #import <QuartzCore/QuartzCore.h>
 
-#import "MDCMaskedTransition.h"
+#import <MaterialComponents/MDCMaskedTransition.h>
 
 #import <MotionAnimator/MotionAnimator.h>
 
-#import "MDCMaskedPresentationController.h"
-#import "MDCMaskedTransitionMotionForContext.h"
-#import "MDCMaskedTransitionMotionSpecs.h"
+#import <MaterialComponents/MDCMaskedPresentationController.h>
+#import <MaterialComponents/MDCMaskedTransitionMotionForContext.h>
+#import <MaterialComponents/MDCMaskedTransitionMotionSpecs.h>
 
 // Math utilities
 

@@ -12,8 +12,8 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MaterialFeatureHighlight+FeatureHighlightAccessibilityMutator.h"
-#import "MaterialFeatureHighlight.h"
+#import <MaterialComponents/MaterialFeatureHighlight+FeatureHighlightAccessibilityMutator.h>
+#import <MaterialComponents/MaterialFeatureHighlight.h>
 #import "supplemental/FeatureHighlightExampleSupplemental.h"
 
 @implementation FeatureHighlightColorExample

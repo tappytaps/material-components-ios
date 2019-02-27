@@ -13,8 +13,8 @@
 // limitations under the License.
 
 #import "supplemental/CollectionListCellExampleTypicalUse.h"
-#import "MaterialIcons+ic_info.h"
-#import "MaterialTypographyScheme.h"
+#import <MaterialComponents/MaterialIcons+ic_info.h>
+#import <MaterialComponents/MaterialTypographyScheme.h>
 #import "supplemental/CollectionViewListCell.h"
 
 static NSString *const kReusableIdentifierItem = @"itemCellIdentifier";

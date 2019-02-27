@@ -14,8 +14,8 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MDCSnapshotFakeTextInput.h"
-#import "MaterialTextFields.h"
+#import <MaterialComponents/MDCSnapshotFakeTextInput.h>
+#import <MaterialComponents/MaterialTextFields.h>
 
 /**
  A test fake MDCMultilineTextField implementation for Snapshot testing.

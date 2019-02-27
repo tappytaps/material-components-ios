@@ -19,10 +19,10 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MaterialColorScheme.h"
-#import "MaterialContainerScheme.h"
-#import "MaterialShapeScheme.h"
-#import "MaterialTypographyScheme.h"
+#import <MaterialComponents/MaterialColorScheme.h>
+#import <MaterialComponents/MaterialContainerScheme.h>
+#import <MaterialComponents/MaterialShapeScheme.h>
+#import <MaterialComponents/MaterialTypographyScheme.h>
 
 @interface ButtonsTypicalUseViewController : UIViewController
 

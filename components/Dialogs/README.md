@@ -108,7 +108,7 @@ import MaterialComponents.MaterialDialogs
 #### Objective-C
 
 ```objc
-#import "MaterialDialogs.h"
+#import <MaterialComponents/MaterialDialogs.h>
 ```
 <!--</div>-->
 
@@ -222,8 +222,8 @@ alertController.applyTheme(withScheme: containerScheme)
 
 ```objc
 // Step 1: Import the Dialog theming extension and container scheme
-#import "MaterialDialogs+Theming.h"
-#import "MaterialContainerScheme.h"
+#import <MaterialComponents/MaterialDialogs+Theming.h>
+#import <MaterialComponents/MaterialContainerScheme.h>
 
 // Step 2: Create or get a container scheme
 MDCContainerScheme *containerScheme = [[MDCContainerScheme alloc] init];
@@ -323,7 +323,7 @@ MDCAlertControllerThemer.applyScheme(scheme, to: alertController)
 
 ```objc
 // Step 1: Import the DialogThemer extension
-#import "MaterialDialogs+DialogThemer.h"
+#import <MaterialComponents/MaterialDialogs+DialogThemer.h>
 
 // Step 2: Create or get a alert scheme
 MDCAlertScheme *alertScheme = [[MDCAlertScheme alloc] init];

@@ -15,8 +15,8 @@
 #import <CoreGraphics/CoreGraphics.h>
 #import <UIKit/UIKit.h>
 
-#import "MDCCollectionViewEditingDelegate.h"
-#import "MDCCollectionViewStylingDelegate.h"
+#import <MaterialComponents/MDCCollectionViewEditingDelegate.h>
+#import <MaterialComponents/MDCCollectionViewStylingDelegate.h>
 
 @protocol MDCCollectionViewEditing;
 @protocol MDCCollectionViewStyling;

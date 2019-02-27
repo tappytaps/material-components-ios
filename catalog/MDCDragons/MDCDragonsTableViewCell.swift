@@ -14,7 +14,7 @@
 
 import UIKit
 import CatalogByConvention
-import MaterialComponents.MaterialIcons_ic_arrow_back
+import MaterialComponents.Materialprivate_Icons_icons_ic_arrow_back_ic_arrow_back
 
 class MDCDragonsTableViewCell: UITableViewCell {
 

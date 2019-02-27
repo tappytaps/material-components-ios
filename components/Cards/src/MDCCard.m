@@ -12,11 +12,11 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCCard.h"
+#import <MaterialComponents/MDCCard.h>
 #import "private/MDCCard+Private.h"
 
-#import "MaterialMath.h"
-#import "MaterialShapesNew.h"
+#import <MaterialComponents/MaterialMath.h>
+#import <MaterialComponents/MaterialShapesNew.h>
 
 static const CGFloat MDCCardShadowElevationNormal = 1;
 static const CGFloat MDCCardShadowElevationHighlighted = 8;

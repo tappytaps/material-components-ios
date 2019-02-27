@@ -17,7 +17,7 @@
  instructions. It is not necessary to import this file to use Material Components for iOS.
  */
 
-#import "FlexibleHeaderConfiguratorControlItem.h"
+#import <MaterialComponents/FlexibleHeaderConfiguratorControlItem.h>
 
 @implementation FlexibleHeaderConfiguratorControlItem
 

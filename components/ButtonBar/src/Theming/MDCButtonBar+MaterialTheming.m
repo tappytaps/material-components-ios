@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCButtonBar+MaterialTheming.h"
+#import <MaterialComponents/MDCButtonBar+MaterialTheming.h>
 
 #import <MaterialComponents/MaterialButtonBar+ColorThemer.h>
 #import <MaterialComponents/MaterialButtonBar+TypographyThemer.h>

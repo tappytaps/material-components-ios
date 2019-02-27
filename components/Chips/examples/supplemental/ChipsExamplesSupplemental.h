@@ -13,7 +13,7 @@
 // limitations under the License.
 
 #import <UIKit/UIKit.h>
-#import "MaterialContainerScheme.h"
+#import <MaterialComponents/MaterialContainerScheme.h>
 
 @class MDCChipView;
 @class ChipModel;

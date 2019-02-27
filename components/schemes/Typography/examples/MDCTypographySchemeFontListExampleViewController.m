@@ -12,10 +12,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCTypographySchemeFontListExampleViewController.h"
+#import <MaterialComponents/MDCTypographySchemeFontListExampleViewController.h>
 
-#import "MaterialColorScheme.h"
-#import "MaterialTypographyScheme.h"
+#import <MaterialComponents/MaterialColorScheme.h>
+#import <MaterialComponents/MaterialTypographyScheme.h>
 
 @interface HairlineSeparatorView : UITableViewCell
 

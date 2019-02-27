@@ -17,7 +17,7 @@
  It is not necessary to import this file to use Material Components for iOS.
  */
 
-#import "SliderCollectionSupplemental.h"
+#import <MaterialComponents/SliderCollectionSupplemental.h>
 
 @implementation SliderCollectionViewController (CatalogByConvention)
 

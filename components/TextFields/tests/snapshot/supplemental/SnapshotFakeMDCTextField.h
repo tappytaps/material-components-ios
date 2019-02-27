@@ -12,8 +12,8 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCSnapshotFakeTextInput.h"
-#import "MaterialTextFields.h"
+#import <MaterialComponents/MDCSnapshotFakeTextInput.h>
+#import <MaterialComponents/MaterialTextFields.h>
 
 /**
  A test fake MDCTextField implementation for Snapshot testing.

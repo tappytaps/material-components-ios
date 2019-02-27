@@ -12,10 +12,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "SliderAutolayoutExampleViewController.h"
+#import <MaterialComponents/SliderAutolayoutExampleViewController.h>
 
-#import "MaterialSlider+ColorThemer.h"
-#import "MaterialSlider.h"
+#import <MaterialComponents/MaterialSlider+ColorThemer.h>
+#import <MaterialComponents/MaterialSlider.h>
 
 @interface SliderAutolayoutExampleViewController ()
 @property(weak, nonatomic) IBOutlet UISlider *vanillaSlider;

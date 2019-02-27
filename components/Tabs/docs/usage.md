@@ -12,7 +12,7 @@ import MaterialComponents
 #### Objective-C
 
 ```objc
-#import "MaterialTabs.h"
+#import <MaterialComponents/MaterialTabs.h>
 ```
 
 <!--</div>-->

@@ -12,11 +12,11 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCButtonTitleColorAccessibilityMutator.h"
+#import <MaterialComponents/MDCButtonTitleColorAccessibilityMutator.h>
 
 #import <MDFTextAccessibility/MDFTextAccessibility.h>
-#import "MaterialButtons.h"
-#import "MaterialTypography.h"
+#import <MaterialComponents/MaterialButtons.h>
+#import <MaterialComponents/MaterialTypography.h>
 
 @implementation MDCButtonTitleColorAccessibilityMutator
 

@@ -12,10 +12,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCSimpleTextFieldLayout.h"
+#import <MaterialComponents/MDCSimpleTextFieldLayout.h>
 
-#import "MDCContainedInputView.h"
-#import "MDCSimpleTextField.h"
+#import <MaterialComponents/MDCContainedInputView.h>
+#import <MaterialComponents/MDCSimpleTextField.h>
 
 static const CGFloat kLeadingMargin = (CGFloat)12.0;
 static const CGFloat kTrailingMargin = (CGFloat)12.0;

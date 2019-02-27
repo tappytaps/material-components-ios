@@ -14,9 +14,9 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MDCTabBarAlignment.h"
-#import "MDCTabBarItemAppearance.h"
-#import "MDCTabBarTextTransform.h"
+#import <MaterialComponents/MDCTabBarAlignment.h>
+#import <MaterialComponents/MDCTabBarItemAppearance.h>
+#import <MaterialComponents/MDCTabBarTextTransform.h>
 
 @class MDCTabBarItem;
 @protocol MDCTabBarDelegate;

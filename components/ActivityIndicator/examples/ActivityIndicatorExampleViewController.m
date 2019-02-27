@@ -14,9 +14,9 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MaterialActivityIndicator+ColorThemer.h"
-#import "MaterialActivityIndicator.h"
-#import "MaterialPalettes.h"
+#import <MaterialComponents/MaterialActivityIndicator+ColorThemer.h>
+#import <MaterialComponents/MaterialActivityIndicator.h>
+#import <MaterialComponents/MaterialPalettes.h>
 #import "supplemental/ActivityIndicatorExampleViewControllerSupplemental.h"
 
 #define MDC_CATALOG_BLACK [UIColor colorWithWhite:(CGFloat)0.1 alpha:1]

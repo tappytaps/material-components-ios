@@ -14,7 +14,7 @@
  limitations under the License.
  */
 
-#import "MDCSelfSizingStereoCellLayout.h"
+#import <MaterialComponents/MDCSelfSizingStereoCellLayout.h>
 
 static const CGFloat kVerticalMarginMin = 8.0;
 static const CGFloat kVerticalMarginMax = 16.0;

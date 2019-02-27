@@ -14,10 +14,10 @@
 
 #import "supplemental/TabBarIconExampleSupplemental.h"
 
-#import "MaterialAppBar.h"
-#import "MaterialColorScheme.h"
-#import "MaterialTabs+ColorThemer.h"
-#import "MaterialTabs.h"
+#import <MaterialComponents/MaterialAppBar.h>
+#import <MaterialComponents/MaterialColorScheme.h>
+#import <MaterialComponents/MaterialTabs+ColorThemer.h>
+#import <MaterialComponents/MaterialTabs.h>
 
 @interface TabBarIconExample ()
 @property(nonatomic, strong) UIBarButtonItem *addStarButtonItem;

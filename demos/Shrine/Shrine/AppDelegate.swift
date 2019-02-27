@@ -15,7 +15,7 @@
  */
 
 import UIKit
-import MaterialComponents.MaterialIcons_ic_arrow_back
+import MaterialComponents.Materialprivate_Icons_icons_ic_arrow_back_ic_arrow_back
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {

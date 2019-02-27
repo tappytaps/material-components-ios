@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCIcons.h"
+#import <MaterialComponents/MDCIcons.h>
 
 /**
  The MDCIcons class is designed to be extended by adding individual icon extensions to a project.

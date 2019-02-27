@@ -15,12 +15,12 @@
 #import <CoreGraphics/CoreGraphics.h>
 #import <QuartzCore/QuartzCore.h>
 
-#import "MDCMaskedPresentationController.h"
+#import <MaterialComponents/MDCMaskedPresentationController.h>
 
 #import <MotionAnimator/MotionAnimator.h>
 #import <MotionTransitioning/MotionTransitioning.h>
 
-#import "MDCMaskedTransitionMotionForContext.h"
+#import <MaterialComponents/MDCMaskedTransitionMotionForContext.h>
 
 @implementation MDCMaskedPresentationController {
   CGRect (^_calculateFrameOfPresentedView)(UIPresentationController *);

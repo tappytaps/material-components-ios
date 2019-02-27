@@ -12,15 +12,15 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "ActionSheetComparisonExampleViewController.h"
+#import <MaterialComponents/ActionSheetComparisonExampleViewController.h>
 
-#import "MaterialActionSheet+Theming.h"
-#import "MaterialActionSheet.h"
-#import "MaterialButtons+Theming.h"
-#import "MaterialButtons.h"
-#import "MaterialColorScheme.h"
-#import "MaterialContainerScheme.h"
-#import "MaterialTypographyScheme.h"
+#import <MaterialComponents/MaterialActionSheet+Theming.h>
+#import <MaterialComponents/MaterialActionSheet.h>
+#import <MaterialComponents/MaterialButtons+Theming.h>
+#import <MaterialComponents/MaterialButtons.h>
+#import <MaterialComponents/MaterialColorScheme.h>
+#import <MaterialComponents/MaterialContainerScheme.h>
+#import <MaterialComponents/MaterialTypographyScheme.h>
 
 @interface ActionSheetComparisonExampleViewController ()
 

@@ -12,12 +12,12 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCCardCollectionCell.h"
+#import <MaterialComponents/MDCCardCollectionCell.h>
 #import "private/MDCCardCollectionCell+Private.h"
 
-#import "MaterialIcons+ic_check_circle.h"
-#import "MaterialMath.h"
-#import "MaterialShapesNew.h"
+#import <MaterialComponents/MaterialIcons+ic_check_circle.h>
+#import <MaterialComponents/MaterialMath.h>
+#import <MaterialComponents/MaterialShapesNew.h>
 
 static const CGFloat MDCCardCellCornerRadiusDefault = 4;
 static const CGFloat MDCCardCellSelectedImagePadding = 8;

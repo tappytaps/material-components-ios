@@ -14,11 +14,11 @@
 
 #import <XCTest/XCTest.h>
 
-#import "MaterialButtons+ButtonThemer.h"
-#import "MaterialButtons.h"
-#import "MaterialColorScheme.h"
-#import "MaterialPalettes.h"
-#import "MaterialTypographyScheme.h"
+#import <MaterialComponents/MaterialButtons+ButtonThemer.h>
+#import <MaterialComponents/MaterialButtons.h>
+#import <MaterialComponents/MaterialColorScheme.h>
+#import <MaterialComponents/MaterialPalettes.h>
+#import <MaterialComponents/MaterialTypographyScheme.h>
 
 static const CGFloat kEpsilonAccuracy = (CGFloat)0.001;
 

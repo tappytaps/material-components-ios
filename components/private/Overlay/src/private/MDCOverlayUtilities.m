@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCOverlayUtilities.h"
+#import <MaterialComponents/MDCOverlayUtilities.h>
 
 CGRect MDCOverlayConvertRectToView(CGRect screenRect, UIView *target) {
   if (target != nil && !CGRectIsNull(screenRect)) {

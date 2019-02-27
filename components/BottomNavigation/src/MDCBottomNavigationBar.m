@@ -14,14 +14,14 @@
 #import <CoreGraphics/CoreGraphics.h>
 #import <Foundation/Foundation.h>
 
-#import "MDCBottomNavigationBar.h"
+#import <MaterialComponents/MDCBottomNavigationBar.h>
 
 #import <MDFInternationalization/MDFInternationalization.h>
 
-#import "MaterialMath.h"
-#import "MaterialShadowElevations.h"
-#import "MaterialShadowLayer.h"
-#import "MaterialTypography.h"
+#import <MaterialComponents/MaterialMath.h>
+#import <MaterialComponents/MaterialShadowElevations.h>
+#import <MaterialComponents/MaterialShadowLayer.h>
+#import <MaterialComponents/MaterialTypography.h>
 #import "private/MDCBottomNavigationItemView.h"
 #import "private/MaterialBottomNavigationStrings.h"
 #import "private/MaterialBottomNavigationStrings_table.h"

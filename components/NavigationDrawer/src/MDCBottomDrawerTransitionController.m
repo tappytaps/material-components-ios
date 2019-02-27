@@ -12,9 +12,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCBottomDrawerTransitionController.h"
+#import <MaterialComponents/MDCBottomDrawerTransitionController.h>
 
-#import "MDCBottomDrawerPresentationController.h"
+#import <MaterialComponents/MDCBottomDrawerPresentationController.h>
 
 static const NSTimeInterval kOpenAnimationDuration = 0.34;
 static const NSTimeInterval kCloseAnimationDuration = 0.3;

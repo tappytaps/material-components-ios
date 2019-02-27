@@ -12,9 +12,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "TypographyCustomFontViewController.h"
+#import <MaterialComponents/TypographyCustomFontViewController.h>
 
-#import "MaterialTypography.h"
+#import <MaterialComponents/MaterialTypography.h>
 
 @implementation TypographyCustomFontViewController {
   NSArray<NSString *> *_strings;

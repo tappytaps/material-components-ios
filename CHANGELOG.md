@@ -6864,9 +6864,9 @@ While Objective-C imports would change like so:
 
 ```objc
 // Before
-#import "MDCAppBarColorThemer.h"
+#import <MaterialComponents/MDCAppBarColorThemer.h>
 // After
-#import "MaterialAppBar+ColorThemer.h"
+#import <MaterialComponents/MaterialAppBar+ColorThemer.h>
 ```
 
 We are focused on polishing the Catalog with the new theming systems and updating our component

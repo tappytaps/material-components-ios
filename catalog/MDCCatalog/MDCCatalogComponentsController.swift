@@ -17,7 +17,7 @@ import MaterialCatalog
 
 import MaterialComponents.MaterialFlexibleHeader
 import MaterialComponents.MaterialFlexibleHeader_ColorThemer
-import MaterialComponents.MaterialIcons_ic_arrow_back
+import MaterialComponents.Materialprivate_Icons_icons_ic_arrow_back_ic_arrow_back
 import MaterialComponents.MaterialInk
 import MaterialComponents.MaterialLibraryInfo
 import MaterialComponents.MaterialShadowElevations

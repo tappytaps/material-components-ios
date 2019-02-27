@@ -12,10 +12,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCFlexibleHeaderContainerViewController.h"
+#import <MaterialComponents/MDCFlexibleHeaderContainerViewController.h>
 
-#import "MDCFlexibleHeaderView.h"
-#import "MDCFlexibleHeaderViewController.h"
+#import <MaterialComponents/MDCFlexibleHeaderView.h>
+#import <MaterialComponents/MDCFlexibleHeaderViewController.h>
 
 @implementation MDCFlexibleHeaderContainerViewController
 

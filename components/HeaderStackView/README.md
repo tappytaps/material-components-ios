@@ -73,7 +73,7 @@ import MaterialComponents.MaterialHeaderStackView
 #### Objective-C
 
 ```objc
-#import "MaterialHeaderStackView.h"
+#import <MaterialComponents/MaterialHeaderStackView.h>
 ```
 <!--</div>-->
 

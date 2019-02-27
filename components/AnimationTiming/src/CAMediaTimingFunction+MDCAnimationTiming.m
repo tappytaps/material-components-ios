@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "CAMediaTimingFunction+MDCAnimationTiming.h"
+#import <MaterialComponents/CAMediaTimingFunction+MDCAnimationTiming.h>
 
 @implementation CAMediaTimingFunction (MDCAnimationTiming)
 

@@ -15,7 +15,7 @@
 #import <CoreGraphics/CoreGraphics.h>
 #import <Foundation/Foundation.h>
 
-#import "MDCButton.h"
+#import <MaterialComponents/MDCButton.h>
 
 /**
  Shapes for Material Floating buttons.

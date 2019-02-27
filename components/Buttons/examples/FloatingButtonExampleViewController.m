@@ -14,8 +14,8 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MaterialButtons.h"
-#import "MaterialButtons+Theming.h"
+#import <MaterialComponents/MaterialButtons.h>
+#import <MaterialComponents/MaterialButtons+Theming.h>
 
 NSString *kButtonLabel = @"Create";
 NSString *kMiniButtonLabel = @"Add";

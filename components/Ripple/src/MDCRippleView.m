@@ -12,10 +12,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCRippleView.h"
+#import <MaterialComponents/MDCRippleView.h>
 #import "private/MDCRippleLayer.h"
 
-#import "MaterialMath.h"
+#import <MaterialComponents/MaterialMath.h>
 
 @interface MDCRippleView () <MDCRippleLayerDelegate>
 @property(nonatomic, strong) MDCRippleLayer *activeRippleLayer;

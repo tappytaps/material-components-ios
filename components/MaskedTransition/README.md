@@ -64,7 +64,7 @@ import MaterialComponents.MaterialMaskedTransition
 #### Objective-C
 
 ```objc
-#import "MaterialMaskedTransition.h"
+#import <MaterialComponents/MaterialMaskedTransition.h>
 ```
 <!--</div>-->
 

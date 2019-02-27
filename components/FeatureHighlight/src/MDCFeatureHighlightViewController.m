@@ -12,12 +12,12 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCFeatureHighlightViewController.h"
+#import <MaterialComponents/MDCFeatureHighlightViewController.h>
 
 #import <MDFTextAccessibility/MDFTextAccessibility.h>
-#import "MaterialFeatureHighlightStrings.h"
-#import "MaterialFeatureHighlightStrings_table.h"
-#import "MaterialTypography.h"
+#import <MaterialComponents/MaterialFeatureHighlightStrings.h>
+#import <MaterialComponents/MaterialFeatureHighlightStrings_table.h>
+#import <MaterialComponents/MaterialTypography.h>
 #import "private/MDCFeatureHighlightAnimationController.h"
 #import "private/MDCFeatureHighlightView+Private.h"
 

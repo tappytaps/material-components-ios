@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCActionSheetHeaderView.h"
+#import <MaterialComponents/MDCActionSheetHeaderView.h>
 
 #import <MaterialComponents/MaterialMath.h>
 #import <MaterialComponents/MaterialTypography.h>

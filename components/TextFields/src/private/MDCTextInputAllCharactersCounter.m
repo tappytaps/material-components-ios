@@ -12,9 +12,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCTextInputCharacterCounter.h"
+#import <MaterialComponents/MDCTextInputCharacterCounter.h>
 
-#import "MDCTextInput.h"
+#import <MaterialComponents/MDCTextInput.h>
 
 @implementation MDCTextInputAllCharactersCounter
 

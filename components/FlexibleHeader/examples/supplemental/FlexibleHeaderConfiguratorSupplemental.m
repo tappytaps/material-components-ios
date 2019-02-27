@@ -17,9 +17,9 @@
  instructions. It is not necessary to import this file to use Material Components for iOS.
  */
 
-#import "FlexibleHeaderConfiguratorSupplemental.h"
+#import <MaterialComponents/FlexibleHeaderConfiguratorSupplemental.h>
 
-#import "FlexibleHeaderConfiguratorControlItem.h"
+#import <MaterialComponents/FlexibleHeaderConfiguratorControlItem.h>
 
 static const UITableViewStyle kStyle = UITableViewStyleGrouped;
 

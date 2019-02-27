@@ -17,9 +17,9 @@
  instructions. It is not necessary to import this file to use Material Components iOS.
  */
 
-#import "FlexibleHeaderUINavigationBarSupplemental.h"
+#import <MaterialComponents/FlexibleHeaderUINavigationBarSupplemental.h>
 
-#import "MaterialFlexibleHeader.h"
+#import <MaterialComponents/MaterialFlexibleHeader.h>
 
 @implementation FlexibleHeaderUINavigationBarExample (CatalogByConvention)
 

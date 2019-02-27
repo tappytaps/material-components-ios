@@ -14,10 +14,10 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MaterialBottomAppBar+ColorThemer.h"
-#import "MaterialBottomAppBar.h"
-#import "MaterialButtons+Theming.h"
-#import "MaterialContainerScheme.h"
+#import <MaterialComponents/MaterialBottomAppBar+ColorThemer.h>
+#import <MaterialComponents/MaterialBottomAppBar.h>
+#import <MaterialComponents/MaterialButtons+Theming.h>
+#import <MaterialComponents/MaterialContainerScheme.h>
 
 #import "supplemental/BottomAppBarTypicalUseSupplemental.h"
 

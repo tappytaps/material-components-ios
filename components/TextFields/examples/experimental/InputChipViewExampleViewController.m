@@ -12,18 +12,18 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "InputChipViewExampleViewController.h"
+#import <MaterialComponents/InputChipViewExampleViewController.h>
 
-#import "MaterialButtons.h"
+#import <MaterialComponents/MaterialButtons.h>
 
-#import "MaterialButtons+Theming.h"
-#import "MaterialColorScheme.h"
+#import <MaterialComponents/MaterialButtons+Theming.h>
+#import <MaterialComponents/MaterialColorScheme.h>
 #import "supplemental/InputChipView.h"
 
-#import "MaterialAppBar+ColorThemer.h"
-#import "MaterialAppBar+TypographyThemer.h"
-#import "MaterialButtons+ButtonThemer.h"
-#import "MaterialChips.h"
+#import <MaterialComponents/MaterialAppBar+ColorThemer.h>
+#import <MaterialComponents/MaterialAppBar+TypographyThemer.h>
+#import <MaterialComponents/MaterialButtons+ButtonThemer.h>
+#import <MaterialComponents/MaterialChips.h>
 
 #import "supplemental/InputChipView+MaterialTheming.h"
 

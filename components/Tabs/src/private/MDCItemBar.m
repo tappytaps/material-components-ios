@@ -12,17 +12,17 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCItemBar.h"
+#import <MaterialComponents/MDCItemBar.h>
 
 #import <MDFInternationalization/MDFInternationalization.h>
 
-#import "MDCItemBarCell.h"
-#import "MDCItemBarStyle.h"
-#import "MDCTabBarIndicatorAttributes.h"
-#import "MDCTabBarIndicatorTemplate.h"
-#import "MDCTabBarIndicatorView.h"
-#import "MDCTabBarPrivateIndicatorContext.h"
-#import "MaterialAnimationTiming.h"
+#import <MaterialComponents/MDCItemBarCell.h>
+#import <MaterialComponents/MDCItemBarStyle.h>
+#import <MaterialComponents/MDCTabBarIndicatorAttributes.h>
+#import <MaterialComponents/MDCTabBarIndicatorTemplate.h>
+#import <MaterialComponents/MDCTabBarIndicatorView.h>
+#import <MaterialComponents/MDCTabBarPrivateIndicatorContext.h>
+#import <MaterialComponents/MaterialAnimationTiming.h>
 
 /// Cell reuse identifier for item bar cells.
 static NSString *const kItemReuseID = @"MDCItem";

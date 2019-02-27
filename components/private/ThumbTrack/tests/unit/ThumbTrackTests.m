@@ -13,8 +13,8 @@
 // limitations under the License.
 
 #import <XCTest/XCTest.h>
-#import "MDCThumbTrack+Private.h"
-#import "MaterialThumbTrack.h"
+#import <MaterialComponents/MDCThumbTrack+Private.h>
+#import <MaterialComponents/MaterialThumbTrack.h>
 
 @interface ThumbTrackTests : XCTestCase
 

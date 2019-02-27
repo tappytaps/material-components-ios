@@ -14,13 +14,13 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MaterialButtons.h"
-#import "MaterialCollections.h"
-#import "MaterialColorScheme.h"
-#import "MaterialDialogs+Theming.h"
-#import "MaterialDialogs.h"
-#import "MaterialTypography.h"
-#import "MaterialTypographyScheme.h"
+#import <MaterialComponents/MaterialButtons.h>
+#import <MaterialComponents/MaterialCollections.h>
+#import <MaterialComponents/MaterialColorScheme.h>
+#import <MaterialComponents/MaterialDialogs+Theming.h>
+#import <MaterialComponents/MaterialDialogs.h>
+#import <MaterialComponents/MaterialTypography.h>
+#import <MaterialComponents/MaterialTypographyScheme.h>
 
 static NSString *const kReusableIdentifierItem = @"cell";
 

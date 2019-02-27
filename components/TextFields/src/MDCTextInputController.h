@@ -14,7 +14,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MDCTextFieldPositioningDelegate.h"
+#import <MaterialComponents/MDCTextFieldPositioningDelegate.h>
 
 @protocol MDCTextInput;
 @protocol MDCTextInputCharacterCounter;

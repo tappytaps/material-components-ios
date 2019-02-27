@@ -13,7 +13,7 @@
 // limitations under the License.
 
 #import <MaterialComponents/MaterialChips.h>
-#import "MaterialContainerScheme.h"
+#import <MaterialComponents/MaterialContainerScheme.h>
 
 /**
  This category is used to style MDCChipView instances to a specific Material style which can be

@@ -12,17 +12,17 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "SimpleTextFieldManualLayoutExampleViewController.h"
+#import <MaterialComponents/SimpleTextFieldManualLayoutExampleViewController.h>
 
-#import "MaterialButtons.h"
+#import <MaterialComponents/MaterialButtons.h>
 
-#import "MaterialButtons+Theming.h"
-#import "MaterialColorScheme.h"
+#import <MaterialComponents/MaterialButtons+Theming.h>
+#import <MaterialComponents/MaterialColorScheme.h>
 #import "supplemental/MDCSimpleTextField.h"
 
-#import "MaterialAppBar+ColorThemer.h"
-#import "MaterialAppBar+TypographyThemer.h"
-#import "MaterialButtons+ButtonThemer.h"
+#import <MaterialComponents/MaterialAppBar+ColorThemer.h>
+#import <MaterialComponents/MaterialAppBar+TypographyThemer.h>
+#import <MaterialComponents/MaterialButtons+ButtonThemer.h>
 
 #import "supplemental/MDCSimpleTextField+MaterialTheming.h"
 

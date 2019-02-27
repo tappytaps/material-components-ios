@@ -14,7 +14,7 @@
 
 #import <CoreGraphics/CoreGraphics.h>
 
-#import "MaterialShapesNew.h"
+#import <MaterialComponents/MaterialShapesNew.h>
 
 typedef enum : NSUInteger {
   MDCTriangleEdgeStyleHandle,

@@ -12,15 +12,15 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCSimpleTextField.h"
+#import <MaterialComponents/MDCSimpleTextField.h>
 
 #import <Foundation/Foundation.h>
 
 #import <MDFInternationalization/MDFInternationalization.h>
 
-#import "MDCContainerStylePathDrawingUtils.h"
-#import "MDCSimpleTextFieldLayout.h"
-#import "MaterialMath.h"
+#import <MaterialComponents/MDCContainerStylePathDrawingUtils.h>
+#import <MaterialComponents/MDCSimpleTextFieldLayout.h>
+#import <MaterialComponents/MaterialMath.h>
 
 static const CGFloat kFloatingPlaceholderAnimationVelocityInPointsPerSecond = (CGFloat)200;
 

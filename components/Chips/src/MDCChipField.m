@@ -12,12 +12,12 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCChipField.h"
+#import <MaterialComponents/MDCChipField.h>
 
 #import <MDFInternationalization/MDFInternationalization.h>
 
-#import "MaterialMath.h"
-#import "MaterialTextFields.h"
+#import <MaterialComponents/MaterialMath.h>
+#import <MaterialComponents/MaterialTextFields.h>
 
 NSString *const MDCEmptyTextString = @"";
 NSString *const MDCChipDelimiterSpace = @" ";

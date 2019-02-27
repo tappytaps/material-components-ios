@@ -13,7 +13,7 @@
 // limitations under the License.
 
 #import <MaterialComponents/MaterialCards.h>
-#import "MaterialContainerScheme.h"
+#import <MaterialComponents/MaterialContainerScheme.h>
 
 /**
  This category is used to style MDCCard instances to a specific Material style which can be found

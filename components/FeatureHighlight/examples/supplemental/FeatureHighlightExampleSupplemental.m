@@ -12,14 +12,14 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "FeatureHighlightExampleSupplemental.h"
+#import <MaterialComponents/FeatureHighlightExampleSupplemental.h>
 
-#import "MaterialButtons+ButtonThemer.h"
-#import "MaterialButtons+Theming.h"
-#import "MaterialButtons.h"
-#import "MaterialMath.h"
-#import "MaterialPalettes.h"
-#import "MaterialTypography.h"
+#import <MaterialComponents/MaterialButtons+ButtonThemer.h>
+#import <MaterialComponents/MaterialButtons+Theming.h>
+#import <MaterialComponents/MaterialButtons.h>
+#import <MaterialComponents/MaterialMath.h>
+#import <MaterialComponents/MaterialPalettes.h>
+#import <MaterialComponents/MaterialTypography.h>
 
 static NSString *const reuseIdentifier = @"Cell";
 

@@ -17,7 +17,7 @@
 import UIKit
 import MaterialComponents.MaterialAppBar
 import MaterialComponents.MaterialButtons
-import MaterialComponents.MaterialIcons_ic_arrow_back
+import MaterialComponents.Materialprivate_Icons_icons_ic_arrow_back_ic_arrow_back
 import RemoteImageServiceForMDCDemos
 
 class ShrineDetailView: UIScrollView {

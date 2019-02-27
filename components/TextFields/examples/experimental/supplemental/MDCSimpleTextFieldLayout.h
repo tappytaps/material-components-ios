@@ -15,7 +15,7 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 
-#import "MDCContainedInputView.h"
+#import <MaterialComponents/MDCContainedInputView.h>
 
 @protocol MDCContainedInputViewStyle;
 

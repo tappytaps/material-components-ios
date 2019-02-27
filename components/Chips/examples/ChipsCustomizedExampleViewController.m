@@ -14,8 +14,8 @@
 
 #import "supplemental/ChipsExamplesSupplemental.h"
 
-#import "MaterialChips+Theming.h"
-#import "MaterialChips.h"
+#import <MaterialComponents/MaterialChips+Theming.h>
+#import <MaterialComponents/MaterialChips.h>
 
 @implementation ChipsCustomizedExampleViewController {
   UICollectionView *_collectionView;

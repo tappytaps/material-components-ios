@@ -12,20 +12,20 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCTextInputControllerFilled.h"
+#import <MaterialComponents/MDCTextInputControllerFilled.h>
 
 #import <MDFInternationalization/MDFInternationalization.h>
 
-#import "MDCMultilineTextField.h"
-#import "MDCTextInput.h"
-#import "MDCTextInputBorderView.h"
-#import "MDCTextInputController.h"
-#import "MDCTextInputControllerBase.h"
-#import "MDCTextInputControllerFloatingPlaceholder.h"
+#import <MaterialComponents/MDCMultilineTextField.h>
+#import <MaterialComponents/MDCTextInput.h>
+#import <MaterialComponents/MDCTextInputBorderView.h>
+#import <MaterialComponents/MDCTextInputController.h>
+#import <MaterialComponents/MDCTextInputControllerBase.h>
+#import <MaterialComponents/MDCTextInputControllerFloatingPlaceholder.h>
 #import "private/MDCTextInputArt.h"
 #import "private/MDCTextInputControllerBase+Subclassing.h"
 
-#import "MaterialMath.h"
+#import <MaterialComponents/MaterialMath.h>
 
 /**
  Note: Right now this is a subclass of MDCTextInputControllerBase since they share a vast

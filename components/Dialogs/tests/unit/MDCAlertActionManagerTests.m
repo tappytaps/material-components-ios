@@ -13,9 +13,9 @@
 // limitations under the License.
 
 #import <XCTest/XCTest.h>
-#import "MDCAlertActionManager.h"
-#import "MDCAlertController+ButtonForAction.h"
-#import "MDCAlertControllerView+Private.h"
+#import <MaterialComponents/MDCAlertActionManager.h>
+#import <MaterialComponents/MDCAlertController+ButtonForAction.h>
+#import <MaterialComponents/MDCAlertControllerView+Private.h>
 
 @interface MDCAlertActionManagerTests : XCTestCase
 

@@ -14,7 +14,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import "BottomNavigationTypicalUseSupplemental.h"
+#import <MaterialComponents/BottomNavigationTypicalUseSupplemental.h>
 
 @implementation BottomNavigationTypicalUseExample (CatalogByConvention)
 

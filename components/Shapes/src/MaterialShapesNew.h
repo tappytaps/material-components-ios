@@ -12,10 +12,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCCornerTreatmentNew.h"
-#import "MDCEdgeTreatmentNew.h"
-#import "MDCPathGeneratorNew.h"
-#import "MDCRectangleShapeGeneratorNew.h"
-#import "MDCShapeGeneratingNew.h"
-#import "MDCShapedShadowLayerNew.h"
-#import "MDCShapedViewNew.h"
+#import <MaterialComponents/MDCCornerTreatmentNew.h>
+#import <MaterialComponents/MDCEdgeTreatmentNew.h>
+#import <MaterialComponents/MDCPathGeneratorNew.h>
+#import <MaterialComponents/MDCRectangleShapeGeneratorNew.h>
+#import <MaterialComponents/MDCShapeGeneratingNew.h>
+#import <MaterialComponents/MDCShapedShadowLayerNew.h>
+#import <MaterialComponents/MDCShapedViewNew.h>

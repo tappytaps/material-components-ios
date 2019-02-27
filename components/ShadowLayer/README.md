@@ -87,7 +87,7 @@ import MaterialComponents
 #### Objective-C
 
 ```objc
-#import "MaterialShadowLayer.h"
+#import <MaterialComponents/MaterialShadowLayer.h>
 ```
 <!--</div>-->
 

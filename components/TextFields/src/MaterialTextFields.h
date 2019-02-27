@@ -12,19 +12,19 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCIntrinsicHeightTextView.h"
-#import "MDCMultilineTextField.h"
-#import "MDCMultilineTextInputDelegate.h"
-#import "MDCTextField.h"
-#import "MDCTextFieldPositioningDelegate.h"
-#import "MDCTextInput.h"
-#import "MDCTextInputCharacterCounter.h"
-#import "MDCTextInputController.h"
-#import "MDCTextInputControllerFilled.h"
-#import "MDCTextInputControllerFullWidth.h"
-#import "MDCTextInputControllerLegacyDefault.h"
-#import "MDCTextInputControllerLegacyFullWidth.h"
-#import "MDCTextInputControllerOutlined.h"
-#import "MDCTextInputControllerOutlinedTextArea.h"
-#import "MDCTextInputControllerUnderline.h"
-#import "MDCTextInputUnderlineView.h"
+#import <MaterialComponents/MDCIntrinsicHeightTextView.h>
+#import <MaterialComponents/MDCMultilineTextField.h>
+#import <MaterialComponents/MDCMultilineTextInputDelegate.h>
+#import <MaterialComponents/MDCTextField.h>
+#import <MaterialComponents/MDCTextFieldPositioningDelegate.h>
+#import <MaterialComponents/MDCTextInput.h>
+#import <MaterialComponents/MDCTextInputCharacterCounter.h>
+#import <MaterialComponents/MDCTextInputController.h>
+#import <MaterialComponents/MDCTextInputControllerFilled.h>
+#import <MaterialComponents/MDCTextInputControllerFullWidth.h>
+#import <MaterialComponents/MDCTextInputControllerLegacyDefault.h>
+#import <MaterialComponents/MDCTextInputControllerLegacyFullWidth.h>
+#import <MaterialComponents/MDCTextInputControllerOutlined.h>
+#import <MaterialComponents/MDCTextInputControllerOutlinedTextArea.h>
+#import <MaterialComponents/MDCTextInputControllerUnderline.h>
+#import <MaterialComponents/MDCTextInputUnderlineView.h>

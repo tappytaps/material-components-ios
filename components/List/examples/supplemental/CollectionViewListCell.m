@@ -12,10 +12,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "CollectionViewListCell.h"
+#import <MaterialComponents/CollectionViewListCell.h>
 #import <MDFInternationalization/MDFInternationalization.h>
-#import "MaterialInk.h"
-#import "MaterialTypography.h"
+#import <MaterialComponents/MaterialInk.h>
+#import <MaterialComponents/MaterialTypography.h>
 
 static const CGFloat kImagePadding = 16;
 static const CGFloat kImageHeight = 40;

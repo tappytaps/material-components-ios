@@ -14,9 +14,9 @@
 
 #import <XCTest/XCTest.h>
 
-#import "MaterialChips+FontThemer.h"
-#import "MaterialChips.h"
-#import "MaterialThemes.h"
+#import <MaterialComponents/MaterialChips+FontThemer.h>
+#import <MaterialComponents/MaterialChips.h>
+#import <MaterialComponents/MaterialThemes.h>
 
 @interface ChipViewFontThemerTests : XCTestCase
 

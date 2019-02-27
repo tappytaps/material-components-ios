@@ -13,7 +13,7 @@
 // limitations under the License.
 
 #import <MaterialComponents/MaterialDialogs.h>
-#import "MaterialContainerScheme.h"
+#import <MaterialComponents/MaterialContainerScheme.h>
 
 /**
  This category is used to style MDCDialogPresentationController instances to a specific Material

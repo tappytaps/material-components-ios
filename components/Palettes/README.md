@@ -56,7 +56,7 @@ import MaterialComponents.MaterialPalettes
 #### Objective-C
 
 ```objc
-#import "MaterialPalettes.h"
+#import <MaterialComponents/MaterialPalettes.h>
 ```
 <!--</div>-->
 

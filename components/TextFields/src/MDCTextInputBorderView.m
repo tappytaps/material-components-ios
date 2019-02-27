@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCTextInputBorderView.h"
+#import <MaterialComponents/MDCTextInputBorderView.h>
 
 static inline NSString *_Nullable MDCNSStringFromCGLineCap(CGLineCap lineCap) {
   NSString *lineCapString;

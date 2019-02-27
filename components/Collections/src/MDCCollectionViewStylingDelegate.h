@@ -14,7 +14,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MDCCollectionViewStyling.h"
+#import <MaterialComponents/MDCCollectionViewStyling.h>
 
 @class MDCInkTouchController;
 @class MDCInkView;

@@ -12,9 +12,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "AnimationTimingExampleViewControllerSupplemental.h"
+#import <MaterialComponents/AnimationTimingExampleViewControllerSupplemental.h>
 
-#import "MaterialTypography.h"
+#import <MaterialComponents/MaterialTypography.h>
 
 const CGFloat kTopMargin = 16;
 const CGFloat kLeftGutter = 16;

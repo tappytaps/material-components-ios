@@ -14,7 +14,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MaterialTextFields.h"
+#import <MaterialComponents/MaterialTextFields.h>
 
 /**
  Protocol for snapshot testing fakes used in Material Text Fields tests.

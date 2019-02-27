@@ -12,9 +12,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCPathGeneratorNew.h"
+#import <MaterialComponents/MDCPathGeneratorNew.h>
 
-#import "MaterialMath.h"
+#import <MaterialComponents/MaterialMath.h>
 
 @interface MDCPathCommand : NSObject
 - (void)applyToCGPath:(CGMutablePathRef)cgPath transform:(CGAffineTransform *)transform;

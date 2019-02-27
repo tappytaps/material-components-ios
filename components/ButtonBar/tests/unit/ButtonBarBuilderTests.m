@@ -13,9 +13,9 @@
 // limitations under the License.
 
 #import <XCTest/XCTest.h>
-#import "MDCAppBarButtonBarBuilder.h"
-#import "MaterialButtonBar.h"
-#import "MaterialButtons.h"
+#import <MaterialComponents/MDCAppBarButtonBarBuilder.h>
+#import <MaterialComponents/MaterialButtonBar.h>
+#import <MaterialComponents/MaterialButtons.h>
 
 @interface MDCAppBarButtonBarBuilder (UnitTests)
 + (void)configureButton:(MDCButton *)destinationButton

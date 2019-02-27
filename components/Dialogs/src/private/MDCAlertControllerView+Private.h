@@ -14,8 +14,8 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MDCAlertActionManager.h"
-#import "MaterialButtons.h"
+#import <MaterialComponents/MDCAlertActionManager.h>
+#import <MaterialComponents/MaterialButtons.h>
 
 @interface MDCAlertControllerView ()
 

@@ -14,7 +14,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MDCTabBarIndicatorContext.h"
+#import <MaterialComponents/MDCTabBarIndicatorContext.h>
 
 /// Concrete implementation of a tab indicator context.
 @interface MDCTabBarPrivateIndicatorContext : NSObject <MDCTabBarIndicatorContext>

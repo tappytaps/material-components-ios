@@ -17,13 +17,13 @@
  instructions. It is not necessary to import this file to use Material Components for iOS.
  */
 
-#import "DialogDismissalOverPresentedControllerExampleViewController.h"
+#import <MaterialComponents/DialogDismissalOverPresentedControllerExampleViewController.h>
 
-#import "MaterialButtons+Theming.h"
-#import "MaterialButtons.h"
-#import "MaterialContainerScheme.h"
-#import "MaterialDialogs+Theming.h"
-#import "MaterialDialogs.h"
+#import <MaterialComponents/MaterialButtons+Theming.h>
+#import <MaterialComponents/MaterialButtons.h>
+#import <MaterialComponents/MaterialContainerScheme.h>
+#import <MaterialComponents/MaterialDialogs+Theming.h>
+#import <MaterialComponents/MaterialDialogs.h>
 
 #pragma mark - Helper View Controller
 

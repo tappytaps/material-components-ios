@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "FlexibleHeaderTopSafeAreaTestsFakeViewController.h"
+#import <MaterialComponents/FlexibleHeaderTopSafeAreaTestsFakeViewController.h>
 
 @interface FlexibleHeaderTopSafeAreaTestsFakeView : UIView
 @property(nonatomic) CGFloat topSafeAreaInset;

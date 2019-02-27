@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCPageControlTrackLayer.h"
+#import <MaterialComponents/MDCPageControlTrackLayer.h>
 
 static const NSTimeInterval kPageControlAnimationDuration = 0.2;
 static const NSInteger kPageControlKeyframeCount = 2;

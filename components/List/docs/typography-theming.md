@@ -25,7 +25,7 @@ MDCListTypographyThemer.applyTypographyScheme(typographyScheme, to: cell)
 
 ```objc
 // Step 1: Import the Typography extension
-#import "MaterialList+TypographyThemer.h"
+#import <MaterialComponents/MaterialList+TypographyThemer.h>
 
 // Step 2: Create or get a color scheme
 id<MDCTypographyScheming> typographyScheme = [[MDCTypographyScheme alloc] init];

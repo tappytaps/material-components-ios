@@ -15,7 +15,7 @@
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-#import "MDCAbstractTextFieldSnapshotTests+LeadingImage.h"
+#import <MaterialComponents/MDCAbstractTextFieldSnapshotTests+LeadingImage.h>
 
 @implementation MDCAbstractTextFieldSnapshotTests (LeadingImage)
 

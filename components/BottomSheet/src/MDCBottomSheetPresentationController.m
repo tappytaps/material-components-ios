@@ -12,8 +12,8 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCBottomSheetPresentationController.h"
-#import "MaterialMath.h"
+#import <MaterialComponents/MDCBottomSheetPresentationController.h>
+#import <MaterialComponents/MaterialMath.h>
 #import "private/MDCSheetContainerView.h"
 
 static UIScrollView *MDCBottomSheetGetPrimaryScrollView(UIViewController *viewController) {

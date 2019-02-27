@@ -53,7 +53,7 @@ import MaterialComponents.MaterialTypography
 #### Objective-C
 
 ```objc
-#import "MaterialTypography.h"
+#import <MaterialComponents/MaterialTypography.h>
 ```
 <!--</div>-->
 

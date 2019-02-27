@@ -17,7 +17,7 @@
 #import <XCTest/XCTest.h>
 
 #import "../../src/private/MDCFlexibleHeaderMinMaxHeight.h"
-#import "MaterialFlexibleHeader.h"
+#import <MaterialComponents/MaterialFlexibleHeader.h>
 #import "supplemental/FlexibleHeaderTopSafeAreaTestsFakeTopSafeAreaDelegate.h"
 
 @interface FlexibleHeaderMinMaxHeightIncludesSafeAreaTests : XCTestCase

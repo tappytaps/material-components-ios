@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCTabBarIndicatorAttributes.h"
+#import <MaterialComponents/MDCTabBarIndicatorAttributes.h>
 
 @implementation MDCTabBarIndicatorAttributes
 

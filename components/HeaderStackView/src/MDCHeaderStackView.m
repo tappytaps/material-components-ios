@@ -13,7 +13,7 @@
 // limitations under the License.
 #import <CoreGraphics/CoreGraphics.h>
 
-#import "MDCHeaderStackView.h"
+#import <MaterialComponents/MDCHeaderStackView.h>
 
 @implementation MDCHeaderStackView
 

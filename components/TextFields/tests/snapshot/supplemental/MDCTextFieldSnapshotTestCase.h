@@ -15,9 +15,9 @@
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-#import "MaterialSnapshot.h"
-#import "MaterialTextFields.h"
-#import "SnapshotFakeMDCTextField.h"
+#import <MaterialComponents/MaterialSnapshot.h>
+#import <MaterialComponents/MaterialTextFields.h>
+#import <MaterialComponents/SnapshotFakeMDCTextField.h>
 
 /**
  A specialized test case class for testing MDCTextFields with different controllers and

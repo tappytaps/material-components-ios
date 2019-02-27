@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCFontTraits.h"
+#import <MaterialComponents/MDCFontTraits.h>
 
 static NSDictionary<NSString *, MDCFontTraits *> *_body1Traits;
 static NSDictionary<NSString *, MDCFontTraits *> *_body2Traits;

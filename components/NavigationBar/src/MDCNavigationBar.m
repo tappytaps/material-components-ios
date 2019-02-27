@@ -12,15 +12,15 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCNavigationBar.h"
+#import <MaterialComponents/MDCNavigationBar.h>
 
 #import <MDFInternationalization/MDFInternationalization.h>
 #import <objc/runtime.h>
 
 #import <MDFTextAccessibility/MDFTextAccessibility.h>
-#import "MaterialButtonBar.h"
-#import "MaterialMath.h"
-#import "MaterialTypography.h"
+#import <MaterialComponents/MaterialButtonBar.h>
+#import <MaterialComponents/MaterialMath.h>
+#import <MaterialComponents/MaterialTypography.h>
 
 static const NSUInteger kTitleFontSize = 20;
 static const CGFloat kNavigationBarDefaultHeight = 56;

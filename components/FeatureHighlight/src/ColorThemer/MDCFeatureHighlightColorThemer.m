@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCFeatureHighlightColorThemer.h"
+#import <MaterialComponents/MDCFeatureHighlightColorThemer.h>
 
 @implementation MDCFeatureHighlightColorThemer
 

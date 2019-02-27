@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCItemBarCell.h"
+#import <MaterialComponents/MDCItemBarCell.h>
 
 @interface MDCItemBarCell ()
 @property(nonatomic, strong) UILabel *titleLabel;

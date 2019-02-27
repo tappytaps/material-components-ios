@@ -12,9 +12,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCTextInputUnderlineView.h"
+#import <MaterialComponents/MDCTextInputUnderlineView.h>
 
-#import "MaterialPalettes.h"
+#import <MaterialComponents/MaterialPalettes.h>
 
 static const CGFloat MDCTextInputUnderlineDefaultHeight = 1;
 

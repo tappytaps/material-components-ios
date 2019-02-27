@@ -12,11 +12,11 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCAlertTypographyThemer.h"
+#import <MaterialComponents/MDCAlertTypographyThemer.h>
 
-#import "MDCAlertController+ButtonForAction.h"
-#import "MaterialButtons+TypographyThemer.h"
-#import "MaterialTypography.h"
+#import <MaterialComponents/MDCAlertController+ButtonForAction.h>
+#import <MaterialComponents/MaterialButtons+TypographyThemer.h>
+#import <MaterialComponents/MaterialTypography.h>
 
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Wdeprecated-implementations"

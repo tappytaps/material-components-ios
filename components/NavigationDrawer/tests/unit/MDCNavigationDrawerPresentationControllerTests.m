@@ -15,8 +15,8 @@
 #import <XCTest/XCTest.h>
 
 #import "../../src/private/MDCBottomDrawerContainerViewController.h"
-#import "MDCBottomDrawerPresentationController.h"
-#import "MDCBottomDrawerViewController.h"
+#import <MaterialComponents/MDCBottomDrawerPresentationController.h>
+#import <MaterialComponents/MDCBottomDrawerViewController.h>
 
 @interface MDCBottomDrawerPresentationController (Testing)
 @property(nonatomic) UIView *scrimView;

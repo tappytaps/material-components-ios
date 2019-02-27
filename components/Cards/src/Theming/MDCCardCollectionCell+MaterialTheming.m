@@ -12,10 +12,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCCardCollectionCell+MaterialTheming.h"
+#import <MaterialComponents/MDCCardCollectionCell+MaterialTheming.h>
 
-#import "MaterialCards+ColorThemer.h"
-#import "MaterialCards+ShapeThemer.h"
+#import <MaterialComponents/MaterialCards+ColorThemer.h>
+#import <MaterialComponents/MaterialCards+ShapeThemer.h>
 
 static const MDCShadowElevation kNormalElevation = 1;
 static const MDCShadowElevation kHighlightedElevation = 1;

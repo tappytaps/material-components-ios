@@ -12,11 +12,11 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MaterialSnapshot.h"
+#import <MaterialComponents/MaterialSnapshot.h>
 
 #import <UIKit/UIKit.h>
 
-#import "MaterialSlider.h"
+#import <MaterialComponents/MaterialSlider.h>
 
 @interface MDCSliderStatesSnapshotTests : MDCSnapshotTestCase
 @property(nonatomic, strong) MDCSlider *slider;

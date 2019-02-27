@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "BottomSheetDummyStaticViewController.h"
+#import <MaterialComponents/BottomSheetDummyStaticViewController.h>
 
 @implementation BottomSheetDummyStaticViewController {
   // Add a view just beyond the bottom of our bounds so that bottom sheet bounce doesn't reveal the

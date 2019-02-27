@@ -12,16 +12,16 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCAlertController.h"
+#import <MaterialComponents/MDCAlertController.h>
 
 #import <MDFInternationalization/MDFInternationalization.h>
 
-#import "MDCAlertControllerView.h"
-#import "MDCDialogPresentationController.h"
-#import "MDCDialogTransitionController.h"
-#import "MaterialButtons.h"
-#import "MaterialTypography.h"
-#import "UIViewController+MaterialDialogs.h"
+#import <MaterialComponents/MDCAlertControllerView.h>
+#import <MaterialComponents/MDCDialogPresentationController.h>
+#import <MaterialComponents/MDCDialogTransitionController.h>
+#import <MaterialComponents/MaterialButtons.h>
+#import <MaterialComponents/MaterialTypography.h>
+#import <MaterialComponents/UIViewController+MaterialDialogs.h>
 #import "private/MDCAlertActionManager.h"
 #import "private/MDCAlertControllerView+Private.h"
 #import "private/MaterialDialogsStrings.h"

@@ -12,11 +12,11 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "BannerTypicalUseExampleViewController.h"
+#import <MaterialComponents/BannerTypicalUseExampleViewController.h>
 
-#import "MaterialButtons.h"
-#import "MaterialColorScheme.h"
-#import "MaterialTypography.h"
+#import <MaterialComponents/MaterialButtons.h>
+#import <MaterialComponents/MaterialColorScheme.h>
+#import <MaterialComponents/MaterialTypography.h>
 #import "supplemental/MDCBannerView.h"
 
 static const CGFloat exampleListTableViewHeight = 300.0f;

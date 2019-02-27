@@ -14,11 +14,11 @@
 
 #import <UIKit/UIKit.h>
 
-#import "InputChipView.h"
-#import "MDCContainedInputView.h"
-#import "MDCContainerStyleFilled.h"
-#import "MDCContainerStyleOutlined.h"
-#import "MaterialContainerScheme.h"
+#import <MaterialComponents/InputChipView.h>
+#import <MaterialComponents/MDCContainedInputView.h>
+#import <MaterialComponents/MDCContainerStyleFilled.h>
+#import <MaterialComponents/MDCContainerStyleOutlined.h>
+#import <MaterialComponents/MaterialContainerScheme.h>
 
 @interface InputChipViewFilledDensityInformer
     : MDCContainerStyleFilledDensityInformer <MDCContainedInputViewStyleDensityInforming>

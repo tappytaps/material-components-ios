@@ -25,7 +25,7 @@ MDCCardsColorThemer.applySemanticColorScheme(colorScheme, to: component)
 
 ```objc
 // Step 1: Import the ColorThemer extension
-#import "MaterialCards+ColorThemer.h"
+#import <MaterialComponents/MaterialCards+ColorThemer.h>
 
 // Step 2: Create or get a color scheme
 id<MDCColorScheming> colorScheme = [[MDCSemanticColorScheme alloc] initWithDefaults:MDCColorSchemeDefaultsMaterial201804];

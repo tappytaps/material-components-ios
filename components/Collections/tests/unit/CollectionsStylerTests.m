@@ -14,9 +14,9 @@
 
 #import <XCTest/XCTest.h>
 
-#import "MDCCollectionViewStyler.h"
-#import "MaterialCollectionLayoutAttributes.h"
-#import "MaterialCollections.h"
+#import <MaterialComponents/MDCCollectionViewStyler.h>
+#import <MaterialComponents/MaterialCollectionLayoutAttributes.h>
+#import <MaterialComponents/MaterialCollections.h>
 
 static MDCCollectionViewLayoutAttributes* cell00() {
   return [MDCCollectionViewLayoutAttributes

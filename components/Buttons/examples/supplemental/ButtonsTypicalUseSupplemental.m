@@ -17,10 +17,10 @@
  instructions. It is not necessary to import this file to use Material Components for iOS.
  */
 
-#import "ButtonsTypicalUseSupplemental.h"
-#import "MaterialButtons.h"
-#import "MaterialMath.h"
-#import "MaterialTypography.h"
+#import <MaterialComponents/ButtonsTypicalUseSupplemental.h>
+#import <MaterialComponents/MaterialButtons.h>
+#import <MaterialComponents/MaterialMath.h>
+#import <MaterialComponents/MaterialTypography.h>
 
 static const CGFloat kViewOffsetToCenter = 20;
 

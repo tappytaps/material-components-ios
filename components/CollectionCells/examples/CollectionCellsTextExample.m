@@ -13,7 +13,7 @@
 // limitations under the License.
 
 #import "supplemental/CollectionCellsTextExample.h"
-#import "MaterialTypography.h"
+#import <MaterialComponents/MaterialTypography.h>
 
 static NSString *const kReusableIdentifierItem = @"itemCellIdentifier";
 static NSString *const kExampleDetailText =

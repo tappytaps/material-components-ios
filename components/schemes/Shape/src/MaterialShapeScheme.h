@@ -12,5 +12,5 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCShapeCategory.h"
-#import "MDCShapeScheme.h"
+#import <MaterialComponents/MDCShapeCategory.h>
+#import <MaterialComponents/MDCShapeScheme.h>

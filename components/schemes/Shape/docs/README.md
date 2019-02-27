@@ -74,7 +74,7 @@ import MaterialComponents.MaterialShapeScheme
 #### Objective-C
 
 ```objc
-#import "MaterialShapeScheme.h"
+#import <MaterialComponents/MaterialShapeScheme.h>
 ```
 <!--</div>-->
 

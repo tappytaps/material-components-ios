@@ -12,8 +12,8 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCLegacyInkLayer.h"
-#import "MDCLegacyInkLayer+Testing.h"
+#import <MaterialComponents/MDCLegacyInkLayer.h>
+#import <MaterialComponents/MDCLegacyInkLayer+Testing.h>
 
 #import <UIKit/UIKit.h>
 

@@ -12,14 +12,14 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCAppBarButtonBarBuilder.h"
+#import <MaterialComponents/MDCAppBarButtonBarBuilder.h>
 
 #import <MDFInternationalization/MDFInternationalization.h>
 #import <objc/runtime.h>
 
-#import "MDCButtonBar+Private.h"
-#import "MDCButtonBarButton.h"
-#import "MaterialButtons.h"
+#import <MaterialComponents/MDCButtonBar+Private.h>
+#import <MaterialComponents/MDCButtonBarButton.h>
+#import <MaterialComponents/MaterialButtons.h>
 
 // Additional insets for the left-most or right-most items.
 static const CGFloat kEdgeButtonAdditionalMarginPhone = 4;

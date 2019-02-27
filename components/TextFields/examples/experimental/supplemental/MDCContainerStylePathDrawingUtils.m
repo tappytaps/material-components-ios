@@ -12,9 +12,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCContainerStylePathDrawingUtils.h"
+#import <MaterialComponents/MDCContainerStylePathDrawingUtils.h>
 
-#import "MaterialMath.h"
+#import <MaterialComponents/MaterialMath.h>
 
 @implementation MDCContainerStylePathDrawingUtils
 

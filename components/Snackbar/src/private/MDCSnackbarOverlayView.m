@@ -12,18 +12,18 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCSnackbarOverlayView.h"
+#import <MaterialComponents/MDCSnackbarOverlayView.h>
 
 #import <Foundation/Foundation.h>
 
 #import <MDFInternationalization/MDFInternationalization.h>
 
 #import "../MDCSnackbarMessage.h"
-#import "MDCSnackbarMessageViewInternal.h"
-#import "MaterialAnimationTiming.h"
-#import "MaterialApplication.h"
-#import "MaterialKeyboardWatcher.h"
-#import "MaterialOverlay.h"
+#import <MaterialComponents/MDCSnackbarMessageViewInternal.h>
+#import <MaterialComponents/MaterialAnimationTiming.h>
+#import <MaterialComponents/MaterialApplication.h>
+#import <MaterialComponents/MaterialKeyboardWatcher.h>
+#import <MaterialComponents/MaterialOverlay.h>
 
 NSString *const MDCSnackbarOverlayIdentifier = @"MDCSnackbar";
 

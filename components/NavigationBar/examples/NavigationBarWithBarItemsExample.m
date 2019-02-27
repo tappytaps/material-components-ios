@@ -14,8 +14,8 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MaterialNavigationBar+ColorThemer.h"
-#import "MaterialNavigationBar.h"
+#import <MaterialComponents/MaterialNavigationBar+ColorThemer.h>
+#import <MaterialComponents/MaterialNavigationBar.h>
 #import "supplemental/NavigationBarTypicalUseExampleSupplemental.h"
 
 @implementation NavigationBarWithBarItemsExample

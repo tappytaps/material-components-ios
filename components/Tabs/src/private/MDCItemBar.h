@@ -14,7 +14,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MDCItemBarAlignment.h"
+#import <MaterialComponents/MDCItemBarAlignment.h>
 
 @class MDCItemBarStyle;
 @protocol MDCItemBarDelegate;

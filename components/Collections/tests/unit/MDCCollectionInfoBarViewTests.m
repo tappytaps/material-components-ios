@@ -13,7 +13,7 @@
 // limitations under the License.
 
 #import <XCTest/XCTest.h>
-#import "MDCCollectionInfoBarView.h"
+#import <MaterialComponents/MDCCollectionInfoBarView.h>
 
 @interface MDCCollectionInfoBarViewTests : XCTestCase
 

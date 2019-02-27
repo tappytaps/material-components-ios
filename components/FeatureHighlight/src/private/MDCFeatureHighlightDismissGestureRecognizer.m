@@ -14,10 +14,10 @@
 
 #import <UIKit/UIGestureRecognizerSubclass.h>
 
-#import "MDCFeatureHighlightDismissGestureRecognizer.h"
-#import "MDCFeatureHighlightView+Private.h"
+#import <MaterialComponents/MDCFeatureHighlightDismissGestureRecognizer.h>
+#import <MaterialComponents/MDCFeatureHighlightView+Private.h>
 
-#import "MaterialMath.h"
+#import <MaterialComponents/MaterialMath.h>
 
 @interface MDCFeatureHighlightDismissGestureRecognizer ()
 

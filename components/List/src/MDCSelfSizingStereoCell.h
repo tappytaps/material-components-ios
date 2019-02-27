@@ -14,7 +14,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MDCBaseCell.h"
+#import <MaterialComponents/MDCBaseCell.h>
 
 /**
  MDCSelfSizingStereoCell is intended to be an easy to use readymade implementation of a basic

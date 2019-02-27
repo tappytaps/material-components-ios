@@ -12,11 +12,11 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCTextButtonThemer.h"
+#import <MaterialComponents/MDCTextButtonThemer.h>
 
-#import "MaterialButtons+ColorThemer.h"
-#import "MaterialButtons+ShapeThemer.h"
-#import "MaterialButtons+TypographyThemer.h"
+#import <MaterialComponents/MaterialButtons+ColorThemer.h>
+#import <MaterialComponents/MaterialButtons+ShapeThemer.h>
+#import <MaterialComponents/MaterialButtons+TypographyThemer.h>
 
 @implementation MDCTextButtonThemer
 

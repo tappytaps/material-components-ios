@@ -52,7 +52,7 @@ import MaterialComponents.MaterialOverlayWindow
 #### Objective-C
 
 ```objc
-#import "MaterialOverlayWindow.h"
+#import <MaterialComponents/MaterialOverlayWindow.h>
 ```
 <!--</div>-->
 

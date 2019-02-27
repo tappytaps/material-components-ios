@@ -12,10 +12,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCChipTextField.h"
+#import <MaterialComponents/MDCChipTextField.h>
 
-#import "MDCChipTextFieldScrollView.h"
-#import "MaterialChips.h"
+#import <MaterialComponents/MDCChipTextFieldScrollView.h>
+#import <MaterialComponents/MaterialChips.h>
 
 static CGFloat const kChipsSpacing = 0.0f;
 static CGFloat const kTextToEnterPlaceholderLength = 16.0f;

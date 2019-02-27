@@ -87,7 +87,7 @@ import MaterialComponents.MaterialActionSheet
 #### Objective-C
 
 ```objc
-#import "MaterialActionSheet.h"
+#import <MaterialComponents/MaterialActionSheet.h>
 ```
 <!--</div>-->
 
@@ -195,7 +195,7 @@ MDCActionSheetColorThemer.applySemanticColorScheme(colorScheme, to: actionSheet)
 
 ```objc
 // Step 1: Import the ColorThemer extension
-#import "MaterialActionSheet+ColorThemer.h"
+#import <MaterialComponents/MaterialActionSheet+ColorThemer.h>
 
 // Step 2: Create or get a color scheme
 id<MDCColorScheming> colorScheme = [[MDCSematnicColorScheme alloc] init];
@@ -237,7 +237,7 @@ MDCActionSheetTypographyThemer.applyTypographyScheme(typographyScheme, to: actio
 
 ```objc
 // Step 1: Import the ColorThemer extension
-#import "MaterialActionSheet+TypographyThemer.h"
+#import <MaterialComponents/MaterialActionSheet+TypographyThemer.h>
 
 // Step 2: Create or get a color scheme
 id<MDCTypographyScheming> typographyScheme = [[MDCTypographyScheme alloc] init];

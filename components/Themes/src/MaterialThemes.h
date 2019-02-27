@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCColorScheme.h"
-#import "MDCFontScheme.h"
-#import "MDCTonalColorScheme.h"
-#import "MDCTonalPalette.h"
+#import <MaterialComponents/MDCColorScheme.h>
+#import <MaterialComponents/MDCFontScheme.h>
+#import <MaterialComponents/MDCTonalColorScheme.h>
+#import <MaterialComponents/MDCTonalPalette.h>

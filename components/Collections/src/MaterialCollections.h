@@ -12,10 +12,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCCollectionViewController.h"
-#import "MDCCollectionViewEditing.h"
-#import "MDCCollectionViewEditingDelegate.h"
-#import "MDCCollectionViewFlowLayout.h"
-#import "MDCCollectionViewStyling.h"
-#import "MDCCollectionViewStylingDelegate.h"
-#import "MaterialCollectionCells.h"
+#import <MaterialComponents/MDCCollectionViewController.h>
+#import <MaterialComponents/MDCCollectionViewEditing.h>
+#import <MaterialComponents/MDCCollectionViewEditingDelegate.h>
+#import <MaterialComponents/MDCCollectionViewFlowLayout.h>
+#import <MaterialComponents/MDCCollectionViewStyling.h>
+#import <MaterialComponents/MDCCollectionViewStylingDelegate.h>
+#import <MaterialComponents/MaterialCollectionCells.h>

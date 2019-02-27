@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCBottomDrawerHeader.h"
-#import "MDCBottomDrawerPresentationController.h"
-#import "MDCBottomDrawerTransitionController.h"
-#import "MDCBottomDrawerViewController.h"
+#import <MaterialComponents/MDCBottomDrawerHeader.h>
+#import <MaterialComponents/MDCBottomDrawerPresentationController.h>
+#import <MaterialComponents/MDCBottomDrawerTransitionController.h>
+#import <MaterialComponents/MDCBottomDrawerViewController.h>

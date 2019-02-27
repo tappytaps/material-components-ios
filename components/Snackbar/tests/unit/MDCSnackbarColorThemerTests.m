@@ -14,8 +14,8 @@
 
 #import <XCTest/XCTest.h>
 
-#import "MaterialSnackbar+ColorThemer.h"
-#import "MaterialSnackbar.h"
+#import <MaterialComponents/MaterialSnackbar+ColorThemer.h>
+#import <MaterialComponents/MaterialSnackbar.h>
 
 @interface MDCSnackbarColorThemerTests : XCTestCase
 

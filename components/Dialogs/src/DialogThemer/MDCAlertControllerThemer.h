@@ -14,8 +14,8 @@
 
 #import <Foundation/Foundation.h>
 
-#import "MDCAlertScheme.h"
-#import "MaterialDialogs.h"
+#import <MaterialComponents/MDCAlertScheme.h>
+#import <MaterialComponents/MaterialDialogs.h>
 
 __deprecated_msg("Please use MaterialDialogs+Theming.") @interface MDCAlertControllerThemer
     : NSObject

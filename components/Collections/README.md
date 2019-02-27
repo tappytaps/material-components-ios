@@ -90,7 +90,7 @@ import MaterialComponents.MaterialCollections
 
 #### Objective-C
 ```objc
-#import "MaterialCollections.h"
+#import <MaterialComponents/MaterialCollections.h>
 ```
 <!--</div>-->
 
@@ -112,7 +112,7 @@ class MyCollectionsExample: MDCCollectionViewController {
 
 #### Objective-C
 ```objc
-#import "MaterialCollections.h"
+#import <MaterialComponents/MaterialCollections.h>
 
 @interface MyCollectionsExample : MDCCollectionViewController
 @end

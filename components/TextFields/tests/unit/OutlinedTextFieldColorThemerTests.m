@@ -14,10 +14,10 @@
 
 #import <XCTest/XCTest.h>
 
-#import "MDCTextInputBorderView.h"
-#import "MaterialColorScheme.h"
-#import "MaterialTextFields+ColorThemer.h"
-#import "MaterialTextFields.h"
+#import <MaterialComponents/MDCTextInputBorderView.h>
+#import <MaterialComponents/MaterialColorScheme.h>
+#import <MaterialComponents/MaterialTextFields+ColorThemer.h>
+#import <MaterialComponents/MaterialTextFields.h>
 
 @interface OutlinedTextFieldColorThemerTests : XCTestCase
 

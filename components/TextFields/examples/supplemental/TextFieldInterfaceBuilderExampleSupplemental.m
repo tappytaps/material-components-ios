@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "TextFieldInterfaceBuilderExampleSupplemental.h"
+#import <MaterialComponents/TextFieldInterfaceBuilderExampleSupplemental.h>
 
 @implementation TextFieldInterfaceBuilderExample (Supplemental)
 

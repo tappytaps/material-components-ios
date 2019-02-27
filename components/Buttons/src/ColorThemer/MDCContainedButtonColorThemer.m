@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCContainedButtonColorThemer.h"
+#import <MaterialComponents/MDCContainedButtonColorThemer.h>
 
 @implementation MDCContainedButtonColorThemer
 

@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCPageControlIndicator.h"
+#import <MaterialComponents/MDCPageControlIndicator.h>
 
 static const NSTimeInterval kPageControlIndicatorAnimationDuration = 0.3;
 static NSString *const kPageControlIndicatorAnimationKey = @"fadeInScaleUp";

@@ -12,9 +12,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "UIFontDescriptor+MaterialTypography.h"
+#import <MaterialComponents/UIFontDescriptor+MaterialTypography.h>
 
-#import "MaterialApplication.h"
+#import <MaterialComponents/MaterialApplication.h>
 
 #import "private/MDCFontTraits.h"
 

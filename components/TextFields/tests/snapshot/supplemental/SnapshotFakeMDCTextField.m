@@ -14,7 +14,7 @@
 #import <UIKit/UIKit.h>
 
 #import <MDFInternationalization/MDFInternationalization.h>
-#import "SnapshotFakeMDCTextField.h"
+#import <MaterialComponents/SnapshotFakeMDCTextField.h>
 
 @implementation SnapshotFakeMDCTextField {
   BOOL _isEditing;

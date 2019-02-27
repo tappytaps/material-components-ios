@@ -13,10 +13,10 @@
 // limitations under the License.
 
 import UIKit
-import MaterialComponents.MaterialIcons
-import MaterialComponents.MaterialIcons_ic_settings
-import MaterialComponents.MaterialIcons_ic_color_lens
-import MaterialComponents.MaterialIcons_ic_help_outline
+import MaterialComponents.Materialprivate_Icons_Icons
+import MaterialComponents.Materialprivate_Icons_icons_ic_settings_ic_settings
+import MaterialComponents.Materialprivate_Icons_icons_ic_color_lens_ic_color_lens
+import MaterialComponents.Materialprivate_Icons_icons_ic_help_outline_ic_help_outline
 import MaterialComponents.MaterialLibraryInfo
 
 class MDCMenuViewController: UITableViewController {

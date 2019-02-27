@@ -14,7 +14,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MaterialTextFields.h"
+#import <MaterialComponents/MaterialTextFields.h>
 #import "supplemental/MDCAbstractTextFieldSnapshotTests+LeadingImage.h"
 #import "supplemental/MDCAbstractTextFieldSnapshotTests.h"
 #import "supplemental/MDCTextFieldSnapshotTestsStrings.h"

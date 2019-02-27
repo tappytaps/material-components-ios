@@ -12,20 +12,20 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCTextField.h"
+#import <MaterialComponents/MDCTextField.h>
 
 #import <MDFInternationalization/MDFInternationalization.h>
 
-#import "MDCTextFieldPositioningDelegate.h"
-#import "MDCTextInput.h"
-#import "MDCTextInputBorderView.h"
-#import "MDCTextInputCharacterCounter.h"
-#import "MDCTextInputUnderlineView.h"
+#import <MaterialComponents/MDCTextFieldPositioningDelegate.h>
+#import <MaterialComponents/MDCTextInput.h>
+#import <MaterialComponents/MDCTextInputBorderView.h>
+#import <MaterialComponents/MDCTextInputCharacterCounter.h>
+#import <MaterialComponents/MDCTextInputUnderlineView.h>
 #import "private/MDCTextField+Testing.h"
 #import "private/MDCTextInputCommonFundament.h"
 
-#import "MaterialMath.h"
-#import "MaterialTypography.h"
+#import <MaterialComponents/MaterialMath.h>
+#import <MaterialComponents/MaterialTypography.h>
 
 NSString *const MDCTextFieldTextDidSetTextNotification = @"MDCTextFieldTextDidSetTextNotification";
 NSString *const MDCTextInputDidToggleEnabledNotification =

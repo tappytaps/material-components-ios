@@ -14,8 +14,8 @@
 
 #import <XCTest/XCTest.h>
 
-#import "MaterialButtons+TitleColorAccessibilityMutator.h"
-#import "MaterialButtons.h"
+#import <MaterialComponents/MaterialButtons+TitleColorAccessibilityMutator.h>
+#import <MaterialComponents/MaterialButtons.h>
 
 // A value greater than the largest value created by combining normal values of UIControlState.
 // This is a complete hack, but UIControlState doesn't expose anything useful here.

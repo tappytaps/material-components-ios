@@ -14,12 +14,12 @@
 
 #import <UIKit/UIKit.h>
 
-#import "BottomNavigationTypicalUseSupplemental.h"
+#import <MaterialComponents/BottomNavigationTypicalUseSupplemental.h>
 
-#import "MaterialBottomNavigation+ColorThemer.h"
-#import "MaterialBottomNavigation+TypographyThemer.h"
-#import "MaterialBottomNavigation.h"
-#import "MaterialPalettes.h"
+#import <MaterialComponents/MaterialBottomNavigation+ColorThemer.h>
+#import <MaterialComponents/MaterialBottomNavigation+TypographyThemer.h>
+#import <MaterialComponents/MaterialBottomNavigation.h>
+#import <MaterialComponents/MaterialPalettes.h>
 
 @interface BottomNavigationTypicalUseExample () <MDCBottomNavigationBarDelegate>
 

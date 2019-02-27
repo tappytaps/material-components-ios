@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "SnapshotFakeMDCMultilineTextField.h"
+#import <MaterialComponents/SnapshotFakeMDCMultilineTextField.h>
 #import <MDFInternationalization/MDFInternationalization.h>
 
 @implementation SnapshotFakeMDCMultilineTextField {

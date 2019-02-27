@@ -12,12 +12,12 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCCollectionViewFlowLayout.h"
+#import <MaterialComponents/MDCCollectionViewFlowLayout.h>
 
-#import "MDCCollectionViewController.h"
-#import "MDCCollectionViewEditingDelegate.h"
-#import "MDCCollectionViewStyling.h"
-#import "MaterialCollectionLayoutAttributes.h"
+#import <MaterialComponents/MDCCollectionViewController.h>
+#import <MaterialComponents/MDCCollectionViewEditingDelegate.h>
+#import <MaterialComponents/MDCCollectionViewStyling.h>
+#import <MaterialComponents/MaterialCollectionLayoutAttributes.h>
 #import "private/MDCCollectionGridBackgroundView.h"
 #import "private/MDCCollectionInfoBarView.h"
 #import "private/MDCCollectionViewEditor.h"

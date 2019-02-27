@@ -12,11 +12,11 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MaterialSnapshot.h"
+#import <MaterialComponents/MaterialSnapshot.h>
 
 #import <UIKit/UIKit.h>
 
-#import "MaterialButtonBar.h"
+#import <MaterialComponents/MaterialButtonBar.h>
 
 static NSString *const kLeadingTitleLatin = @"Lead";
 static NSString *const kMiddleTitleLatin = @"Mid";

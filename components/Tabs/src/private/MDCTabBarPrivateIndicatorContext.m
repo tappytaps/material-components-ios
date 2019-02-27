@@ -12,9 +12,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCTabBarIndicatorContext.h"
+#import <MaterialComponents/MDCTabBarIndicatorContext.h>
 
-#import "MDCTabBarPrivateIndicatorContext.h"
+#import <MaterialComponents/MDCTabBarPrivateIndicatorContext.h>
 
 @implementation MDCTabBarPrivateIndicatorContext
 @synthesize bounds = _bounds;

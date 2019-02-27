@@ -14,9 +14,9 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MaterialButtons+Theming.h"
-#import "MaterialButtons.h"
-#import "MaterialContainerScheme.h"
+#import <MaterialComponents/MaterialButtons+Theming.h>
+#import <MaterialComponents/MaterialButtons.h>
+#import <MaterialComponents/MaterialContainerScheme.h>
 
 @interface ButtonsContentEdgeInsetsExample : UIViewController
 @property(weak, nonatomic) IBOutlet MDCButton *textButton;

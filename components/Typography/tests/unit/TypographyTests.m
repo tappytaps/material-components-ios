@@ -15,7 +15,7 @@
 #import <XCTest/XCTest.h>
 
 #import "../../src/private/UIFont+MaterialTypographyPrivate.h"
-#import "MaterialTypography.h"
+#import <MaterialComponents/MaterialTypography.h>
 
 static const CGFloat kEpsilon = (CGFloat)0.001;
 static const CGFloat kOpacityLight = (CGFloat)0.54;

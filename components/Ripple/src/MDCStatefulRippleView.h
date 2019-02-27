@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCRippleView.h"
+#import <MaterialComponents/MDCRippleView.h>
 
 /**
  Provides the current state of the ripple. The ripple is either in its normal state, or in the

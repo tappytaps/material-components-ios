@@ -12,12 +12,12 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "ShadowCornerRadiusAnimationViewController.h"
+#import <MaterialComponents/ShadowCornerRadiusAnimationViewController.h>
 
-#import "MaterialAnimationTiming.h"
-#import "MaterialButtons+ButtonThemer.h"
-#import "MaterialButtons.h"
-#import "MaterialShadowLayer.h"
+#import <MaterialComponents/MaterialAnimationTiming.h>
+#import <MaterialComponents/MaterialButtons+ButtonThemer.h>
+#import <MaterialComponents/MaterialButtons.h>
+#import <MaterialComponents/MaterialShadowLayer.h>
 
 static const CGFloat kStartCornerRadius = (CGFloat)0.001;
 static const CGFloat kEndCornerRadius = (CGFloat)25.0;

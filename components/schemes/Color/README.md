@@ -111,7 +111,7 @@ import MaterialComponents.MaterialColorScheme
 #### Objective-C
 
 ```objc
-#import "MaterialColorScheme.h"
+#import <MaterialComponents/MaterialColorScheme.h>
 ```
 <!--</div>-->
 

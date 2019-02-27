@@ -17,10 +17,10 @@
  instructions. It is not necessary to import this file to use Material Components iOS.
  */
 
-#import "FlexibleHeaderTopLayoutGuideSupplemental.h"
+#import <MaterialComponents/FlexibleHeaderTopLayoutGuideSupplemental.h>
 
-#import "MaterialFlexibleHeader.h"
-#import "MaterialPalettes.h"
+#import <MaterialComponents/MaterialFlexibleHeader.h>
+#import <MaterialComponents/MaterialPalettes.h>
 
 @implementation FlexibleHeaderTopLayoutGuideExample (CatalogByConvention)
 

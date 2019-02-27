@@ -12,22 +12,22 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCTextInputCommonFundament.h"
+#import <MaterialComponents/MDCTextInputCommonFundament.h>
 
-#import "MDCMultilineTextField.h"
-#import "MDCMultilineTextInputDelegate.h"
-#import "MDCTextField.h"
-#import "MDCTextFieldPositioningDelegate.h"
-#import "MDCTextInput.h"
-#import "MDCTextInputArt.h"
-#import "MDCTextInputBorderView.h"
-#import "MDCTextInputCommonFundament.h"
-#import "MDCTextInputUnderlineView.h"
+#import <MaterialComponents/MDCMultilineTextField.h>
+#import <MaterialComponents/MDCMultilineTextInputDelegate.h>
+#import <MaterialComponents/MDCTextField.h>
+#import <MaterialComponents/MDCTextFieldPositioningDelegate.h>
+#import <MaterialComponents/MDCTextInput.h>
+#import <MaterialComponents/MDCTextInputArt.h>
+#import <MaterialComponents/MDCTextInputBorderView.h>
+#import <MaterialComponents/MDCTextInputCommonFundament.h>
+#import <MaterialComponents/MDCTextInputUnderlineView.h>
 
-#import "MaterialAnimationTiming.h"
-#import "MaterialMath.h"
-#import "MaterialPalettes.h"
-#import "MaterialTypography.h"
+#import <MaterialComponents/MaterialAnimationTiming.h>
+#import <MaterialComponents/MaterialMath.h>
+#import <MaterialComponents/MaterialPalettes.h>
+#import <MaterialComponents/MaterialTypography.h>
 
 static NSString *const MDCTextInputUnderlineKVOKeyColor = @"color";
 static NSString *const MDCTextInputUnderlineKVOKeyLineHeight = @"lineHeight";

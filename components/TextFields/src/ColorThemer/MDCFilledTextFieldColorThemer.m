@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCFilledTextFieldColorThemer.h"
+#import <MaterialComponents/MDCFilledTextFieldColorThemer.h>
 
 static CGFloat const kFilledTextFieldActiveAlpha = (CGFloat)0.87;
 static CGFloat const kFilledTextFieldOnSurfaceAlpha = (CGFloat)0.6;

@@ -12,12 +12,12 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCButtonBar.h"
+#import <MaterialComponents/MDCButtonBar.h>
 
 #import <MDFInternationalization/MDFInternationalization.h>
 
-#import "MaterialApplication.h"
-#import "MaterialButtons.h"
+#import <MaterialComponents/MaterialApplication.h>
+#import <MaterialComponents/MaterialButtons.h>
 #import "private/MDCAppBarButtonBarBuilder.h"
 
 static const CGFloat kButtonBarMaxHeight = 56;

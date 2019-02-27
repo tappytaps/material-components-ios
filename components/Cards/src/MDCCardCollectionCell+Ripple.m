@@ -15,8 +15,8 @@
 #import <CoreGraphics/CoreGraphics.h>
 #import <UIKit/UIKit.h>
 
-#import "MDCCardCollectionCell+Ripple.h"
-#import "MaterialRipple.h"
+#import <MaterialComponents/MDCCardCollectionCell+Ripple.h>
+#import <MaterialComponents/MaterialRipple.h>
 
 @implementation MDCCardCollectionCell (Ripple)
 

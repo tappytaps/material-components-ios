@@ -14,9 +14,9 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MaterialButtonBar+Theming.h"
-#import "MaterialButtonBar.h"
-#import "MaterialContainerScheme.h"
+#import <MaterialComponents/MaterialButtonBar+Theming.h>
+#import <MaterialComponents/MaterialButtonBar.h>
+#import <MaterialComponents/MaterialContainerScheme.h>
 
 @interface ButtonBarTypicalUseExample : UIViewController
 @property(nonatomic, strong) MDCSemanticColorScheme *colorScheme;

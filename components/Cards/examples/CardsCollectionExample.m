@@ -12,11 +12,11 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "CardsCollectionExample.h"
+#import <MaterialComponents/CardsCollectionExample.h>
 
 #import <MaterialComponentsBeta/MaterialCards+Theming.h>
-#import "MaterialInk.h"
-#import "UICollectionViewController+MDCCardReordering.h"
+#import <MaterialComponents/MaterialInk.h>
+#import <MaterialComponents/UICollectionViewController+MDCCardReordering.h>
 
 @interface CardsCollectionExample ()
 

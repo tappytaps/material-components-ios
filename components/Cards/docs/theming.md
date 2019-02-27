@@ -27,7 +27,7 @@ MDCCardThemer.applyScheme(cardScheme, to: component)
 
 ```objc
 // Step 1: Import the CardThemer extension
-#import "MaterialCards+CardThemer.h"
+#import <MaterialComponents/MaterialCards+CardThemer.h>
 
 // Step 2: Create or get a card scheme
 MDCCardScheme *colorScheme = [[MDCCardScheme alloc] init];

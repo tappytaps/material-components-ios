@@ -13,13 +13,13 @@
 // limitations under the License.
 #import <UIKit/UIKit.h>
 
-#import "MaterialButtons+Theming.h"
-#import "MaterialCollections.h"
-#import "MaterialColorScheme.h"
-#import "MaterialContainerScheme.h"
-#import "MaterialDialogs+Theming.h"
-#import "MaterialDialogs.h"
-#import "MaterialTypographyScheme.h"
+#import <MaterialComponents/MaterialButtons+Theming.h>
+#import <MaterialComponents/MaterialCollections.h>
+#import <MaterialComponents/MaterialColorScheme.h>
+#import <MaterialComponents/MaterialContainerScheme.h>
+#import <MaterialComponents/MaterialDialogs+Theming.h>
+#import <MaterialComponents/MaterialDialogs.h>
+#import <MaterialComponents/MaterialTypographyScheme.h>
 
 #pragma mark - DialogsTypicalUseExampleViewController
 

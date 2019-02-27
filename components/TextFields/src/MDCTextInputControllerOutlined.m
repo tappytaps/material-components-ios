@@ -12,19 +12,19 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCTextInputControllerOutlined.h"
+#import <MaterialComponents/MDCTextInputControllerOutlined.h>
 
 #import <MDFInternationalization/MDFInternationalization.h>
 
-#import "MDCTextInput.h"
-#import "MDCTextInputBorderView.h"
-#import "MDCTextInputController.h"
-#import "MDCTextInputControllerBase.h"
-#import "MDCTextInputControllerFloatingPlaceholder.h"
-#import "MDCTextInputUnderlineView.h"
+#import <MaterialComponents/MDCTextInput.h>
+#import <MaterialComponents/MDCTextInputBorderView.h>
+#import <MaterialComponents/MDCTextInputController.h>
+#import <MaterialComponents/MDCTextInputControllerBase.h>
+#import <MaterialComponents/MDCTextInputControllerFloatingPlaceholder.h>
+#import <MaterialComponents/MDCTextInputUnderlineView.h>
 #import "private/MDCTextInputControllerBase+Subclassing.h"
 
-#import "MaterialMath.h"
+#import <MaterialComponents/MaterialMath.h>
 
 #pragma mark - Class Properties
 

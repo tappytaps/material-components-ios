@@ -12,13 +12,13 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCTextInputControllerLegacyDefault.h"
+#import <MaterialComponents/MDCTextInputControllerLegacyDefault.h>
 
-#import "MDCMultilineTextField.h"
-#import "MDCTextInputUnderlineView.h"
+#import <MaterialComponents/MDCMultilineTextField.h>
+#import <MaterialComponents/MDCTextInputUnderlineView.h>
 #import "private/MDCTextInputArt.h"
 
-#import "MaterialTypography.h"
+#import <MaterialComponents/MaterialTypography.h>
 
 #pragma mark - Constants
 

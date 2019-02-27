@@ -11,7 +11,7 @@ import MaterialComponentsBeta.MaterialRipple
 #### Objective-C
 
 ```objc
-#import "MaterialRipple.h"
+#import <MaterialComponents/MaterialRipple.h>
 ```
 <!--</div>-->
 

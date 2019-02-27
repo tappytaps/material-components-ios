@@ -12,10 +12,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCBottomDrawerPresentationController.h"
+#import <MaterialComponents/MDCBottomDrawerPresentationController.h>
 
-#import "MDCBottomDrawerViewController.h"
-#import "MaterialPalettes.h"
+#import <MaterialComponents/MDCBottomDrawerViewController.h>
+#import <MaterialComponents/MaterialPalettes.h>
 #import "private/MDCBottomDrawerContainerViewController.h"
 
 static CGFloat kTopHandleHeight = (CGFloat)2.0;

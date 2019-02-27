@@ -12,8 +12,8 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCSnackbarMessage.h"
-#import "MDCSnackbarMessageView.h"
+#import <MaterialComponents/MDCSnackbarMessage.h>
+#import <MaterialComponents/MDCSnackbarMessageView.h>
 #import "private/MDCSnackbarMessageInternal.h"
 
 static const NSTimeInterval kDefaultDuration = 4;

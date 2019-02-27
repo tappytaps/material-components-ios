@@ -16,8 +16,8 @@
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-#import "MDCTextFieldSnapshotTestCase.h"
-#import "SnapshotFakeMDCTextField.h"
+#import <MaterialComponents/MDCTextFieldSnapshotTestCase.h>
+#import <MaterialComponents/SnapshotFakeMDCTextField.h>
 
 @implementation MDCTextFieldSnapshotTestCase
 

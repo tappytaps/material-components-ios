@@ -14,8 +14,8 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MDCContainedInputView.h"
-#import "MaterialChips.h"
+#import <MaterialComponents/MDCContainedInputView.h>
+#import <MaterialComponents/MaterialChips.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

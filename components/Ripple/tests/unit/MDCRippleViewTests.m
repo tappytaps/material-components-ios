@@ -14,8 +14,8 @@
 
 #import <XCTest/XCTest.h>
 
-#import "MDCRippleLayer.h"
-#import "MaterialRipple.h"
+#import <MaterialComponents/MDCRippleLayer.h>
+#import <MaterialComponents/MaterialRipple.h>
 
 @interface FakeMDCRippleViewAnimationDelegate : NSObject <MDCRippleViewDelegate>
 @property(nonatomic, strong) MDCRippleView *rippleView;

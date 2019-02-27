@@ -89,7 +89,7 @@ import MaterialComponents.MaterialProgressView
 #### Objective-C
 
 ```objc
-#import "MaterialProgressView.h"
+#import <MaterialComponents/MaterialProgressView.h>
 ```
 <!--</div>-->
 

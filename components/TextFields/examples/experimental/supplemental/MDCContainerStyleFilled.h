@@ -14,7 +14,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MDCContainedInputView.h"
+#import <MaterialComponents/MDCContainedInputView.h>
 
 @interface MDCContainedInputViewColorSchemeFilled : MDCContainedInputViewColorScheme
 @property(strong, nonatomic) UIColor *filledSublayerFillColor;

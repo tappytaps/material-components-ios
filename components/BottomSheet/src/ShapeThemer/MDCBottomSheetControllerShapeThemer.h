@@ -14,10 +14,10 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MaterialBottomSheet.h"
-#import "MaterialShapeLibraryNew.h"
-#import "MaterialShapeScheme.h"
-#import "MaterialShapesNew.h"
+#import <MaterialComponents/MaterialBottomSheet.h>
+#import <MaterialComponents/MaterialShapeLibraryNew.h>
+#import <MaterialComponents/MaterialShapeScheme.h>
+#import <MaterialComponents/MaterialShapesNew.h>
 
 /**
  The Material Design shape system's themer for instances of MDCBottomSheetController.

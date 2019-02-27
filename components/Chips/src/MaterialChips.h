@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCChipCollectionViewCell.h"
-#import "MDCChipCollectionViewFlowLayout.h"
-#import "MDCChipField.h"
-#import "MDCChipView.h"
+#import <MaterialComponents/MDCChipCollectionViewCell.h>
+#import <MaterialComponents/MDCChipCollectionViewFlowLayout.h>
+#import <MaterialComponents/MDCChipField.h>
+#import <MaterialComponents/MDCChipView.h>

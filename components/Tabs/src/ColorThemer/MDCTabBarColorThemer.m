@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCTabBarColorThemer.h"
+#import <MaterialComponents/MDCTabBarColorThemer.h>
 
 static const CGFloat kUnselectedTitleOpacity = (CGFloat)0.6;
 static const CGFloat kUnselectedImageOpacity = (CGFloat)0.54;

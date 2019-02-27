@@ -122,7 +122,7 @@ import MaterialComponents.MaterialTextFields
 #### Objective-C
 
 ```objc
-#import "MaterialTextFields.h"
+#import <MaterialComponents/MaterialTextFields.h>
 ```
 <!--</div>-->
 
@@ -326,7 +326,7 @@ MDCTextFieldColorThemer.applySemanticColorScheme(colorScheme,
 
 ```objc
 // Step 1: Import the ColorThemer extension
-#import "MaterialTextFields+ColorThemer.h"
+#import <MaterialComponents/MaterialTextFields+ColorThemer.h>
 
 // Step 2: Create or get a color scheme
 id<MDCColorScheming> colorScheme = [[MDCSemanticColorScheme alloc] initWithDefaults:MDCColorSchemeDefaultsMaterial201804];
@@ -385,7 +385,7 @@ MDCTextFieldTypographyThemer.apply(typographyScheme,
 
 ```objc
 // Step 1: Import the TypographyThemer extension
-#import "MaterialTextFields+TypographyThemer.h"
+#import <MaterialComponents/MaterialTextFields+TypographyThemer.h>
 
 // Step 2: Create or get a typography scheme
 id<MDCTypographyScheming> typographyScheme = [[MDCTypographyScheme alloc] init];

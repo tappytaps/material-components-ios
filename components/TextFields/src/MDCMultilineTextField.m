@@ -12,19 +12,19 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCMultilineTextField.h"
+#import <MaterialComponents/MDCMultilineTextField.h>
 
-#import "MDCIntrinsicHeightTextView.h"
-#import "MDCTextField.h"
-#import "MDCTextFieldPositioningDelegate.h"
-#import "MDCTextInputBorderView.h"
-#import "MDCTextInputCharacterCounter.h"
-#import "MDCTextInputController.h"
-#import "MDCTextInputUnderlineView.h"
+#import <MaterialComponents/MDCIntrinsicHeightTextView.h>
+#import <MaterialComponents/MDCTextField.h>
+#import <MaterialComponents/MDCTextFieldPositioningDelegate.h>
+#import <MaterialComponents/MDCTextInputBorderView.h>
+#import <MaterialComponents/MDCTextInputCharacterCounter.h>
+#import <MaterialComponents/MDCTextInputController.h>
+#import <MaterialComponents/MDCTextInputUnderlineView.h>
 #import "private/MDCTextInputCommonFundament.h"
 
-#import "MaterialMath.h"
-#import "MaterialTypography.h"
+#import <MaterialComponents/MaterialMath.h>
+#import <MaterialComponents/MaterialTypography.h>
 
 @interface MDCMultilineTextField () {
   UIColor *_cursorColor;

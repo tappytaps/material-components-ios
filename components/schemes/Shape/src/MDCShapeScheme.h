@@ -14,7 +14,7 @@
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
-#import "MDCShapeCategory.h"
+#import <MaterialComponents/MDCShapeCategory.h>
 
 /**
  A simple shape scheme that provides semantic meaning.

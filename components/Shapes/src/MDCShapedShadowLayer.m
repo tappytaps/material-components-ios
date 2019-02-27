@@ -12,9 +12,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCShapedShadowLayerNew.h"
+#import <MaterialComponents/MDCShapedShadowLayerNew.h>
 
-#import "MDCShapeGeneratingNew.h"
+#import <MaterialComponents/MDCShapeGeneratingNew.h>
 
 @implementation MDCShapedShadowLayer
 

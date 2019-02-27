@@ -14,12 +14,12 @@
 
 #import <UIKit/UIKit.h>
 
-#import "ShadowElevationsPointsLabel.h"
+#import <MaterialComponents/ShadowElevationsPointsLabel.h>
 
-#import "MaterialMath.h"
-#import "MaterialShadowElevations.h"
-#import "MaterialShadowLayer.h"
-#import "MaterialSlider.h"
+#import <MaterialComponents/MaterialMath.h>
+#import <MaterialComponents/MaterialShadowElevations.h>
+#import <MaterialComponents/MaterialShadowLayer.h>
+#import <MaterialComponents/MaterialSlider.h>
 
 static NSString *const kDefaultShadowElevationLabelString = @"";
 

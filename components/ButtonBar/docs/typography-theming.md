@@ -25,7 +25,7 @@ MDCButtonBarTypographyThemer.applyTypographyScheme(typographyScheme, to: buttonB
 
 ```objc
 // Step 1: Import the TypographyThemer extension
-#import "MaterialButtonBar+TypographyThemer.h"
+#import <MaterialComponents/MaterialButtonBar+TypographyThemer.h>
 
 // Step 2: Create or get a typography scheme
 id<MDCTypographyScheming> typographyScheme = [[MDCTypographyScheme alloc] init];

@@ -48,7 +48,7 @@ import MaterialComponents.MaterialBottomSheet
 #### Objective-C
 
 ```objc
-#import "MaterialBottomSheet.h"
+#import <MaterialComponents/MaterialBottomSheet.h>
 ```
 <!--</div>-->
 

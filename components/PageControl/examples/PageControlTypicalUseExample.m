@@ -15,7 +15,7 @@
 #import <MDFInternationalization/MDFInternationalization.h>
 #import <UIKit/UIKit.h>
 
-#import "MaterialPageControl.h"
+#import <MaterialComponents/MaterialPageControl.h>
 
 @interface PageControlTypicalUseViewController : UIViewController <UIScrollViewDelegate>
 @end

@@ -12,9 +12,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCFeatureHighlightAnimationController.h"
+#import <MaterialComponents/MDCFeatureHighlightAnimationController.h>
 
-#import "MDCFeatureHighlightView+Private.h"
+#import <MaterialComponents/MDCFeatureHighlightView+Private.h>
 
 const NSTimeInterval kMDCFeatureHighlightPresentationDuration = 0.35;
 const NSTimeInterval kMDCFeatureHighlightDismissalDuration = 0.2;

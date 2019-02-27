@@ -56,7 +56,7 @@ import MaterialComponents
 #### Objective-C
 
 ```objc
-#import "MaterialAnimationTiming.h"
+#import <MaterialComponents/MaterialAnimationTiming.h>
 ```
 <!--</div>-->
 

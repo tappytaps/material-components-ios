@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCCard+MaterialTheming.h"
+#import <MaterialComponents/MDCCard+MaterialTheming.h>
 
 #import <MaterialComponents/MaterialCards+ColorThemer.h>
 #import <MaterialComponents/MaterialCards+ShapeThemer.h>

@@ -12,14 +12,14 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCActivityIndicator.h"
+#import <MaterialComponents/MDCActivityIndicator.h>
 
 #import <MDFInternationalization/MDFInternationalization.h>
 #import <MotionAnimator/MotionAnimator.h>
 #import <QuartzCore/QuartzCore.h>
 
-#import "MaterialApplication.h"
-#import "MaterialPalettes.h"
+#import <MaterialComponents/MaterialApplication.h>
+#import <MaterialComponents/MaterialPalettes.h>
 #import "private/MDCActivityIndicator+Private.h"
 #import "private/MDCActivityIndicatorMotionSpec.h"
 #import "private/MaterialActivityIndicatorStrings.h"

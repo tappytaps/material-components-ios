@@ -12,9 +12,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCListScheme.h"
+#import <MaterialComponents/MDCListScheme.h>
 
-#import "MaterialList.h"
+#import <MaterialComponents/MaterialList.h>
 
 #import <Foundation/Foundation.h>
 

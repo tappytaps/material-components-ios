@@ -14,7 +14,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import "MDCButton.h"
+#import <MaterialComponents/MDCButton.h>
 
 #pragma mark - Soon to be deprecated
 

@@ -14,10 +14,10 @@
 
 #import "supplemental/ChipsExamplesSupplemental.h"
 
-#import "MaterialChips+Theming.h"
-#import "MaterialChips.h"
-#import "MaterialContainerScheme.h"
-#import "MaterialTextFields.h"
+#import <MaterialComponents/MaterialChips+Theming.h>
+#import <MaterialComponents/MaterialChips.h>
+#import <MaterialComponents/MaterialContainerScheme.h>
+#import <MaterialComponents/MaterialTextFields.h>
 
 @interface ChipsInputExampleViewController () <MDCChipFieldDelegate>
 @end

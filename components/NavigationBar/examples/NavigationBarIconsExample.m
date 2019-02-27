@@ -15,12 +15,12 @@
 
 #import <MDFInternationalization/MDFInternationalization.h>
 
-#import "MaterialIcons+ic_arrow_back.h"
-#import "MaterialIcons+ic_info.h"
-#import "MaterialIcons+ic_reorder.h"
-#import "MaterialNavigationBar+ColorThemer.h"
-#import "MaterialNavigationBar+TypographyThemer.h"
-#import "MaterialNavigationBar.h"
+#import <MaterialComponents/MaterialIcons+ic_arrow_back.h>
+#import <MaterialComponents/MaterialIcons+ic_info.h>
+#import <MaterialComponents/MaterialIcons+ic_reorder.h>
+#import <MaterialComponents/MaterialNavigationBar+ColorThemer.h>
+#import <MaterialComponents/MaterialNavigationBar+TypographyThemer.h>
+#import <MaterialComponents/MaterialNavigationBar.h>
 #import "supplemental/NavigationBarTypicalUseExampleSupplemental.h"
 
 @interface NavigationBarIconsExample ()

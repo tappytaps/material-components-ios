@@ -17,10 +17,10 @@
  instructions. It is not necessary to import this file to use Material Components for iOS.
  */
 
-#import "InkTypicalUseSupplemental.h"
+#import <MaterialComponents/InkTypicalUseSupplemental.h>
 
-#import "MaterialPalettes.h"
-#import "MaterialTypography.h"
+#import <MaterialComponents/MaterialPalettes.h>
+#import <MaterialComponents/MaterialTypography.h>
 
 // A set of UILabels in an variety of shapes to tap on.
 

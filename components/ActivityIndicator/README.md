@@ -92,7 +92,7 @@ import MaterialComponents.MaterialActivityIndicator
 #### Objective-C
 
 ```objc
-#import "MaterialActivityIndicator.h"
+#import <MaterialComponents/MaterialActivityIndicator.h>
 ```
 <!--</div>-->
 
@@ -239,7 +239,7 @@ MDCActivityIndicatorColorThemer.applySemanticColorScheme(colorScheme, to: activi
 
 ```objc
 // Step 1: Import the ColorThemer extension
-#import "MaterialActivityIndicator+ColorThemer.h"
+#import <MaterialComponents/MaterialActivityIndicator+ColorThemer.h>
 
 // Step 2: Create or get a color scheme
 id<MDCColorScheming> colorScheme = [[MDCSemanticColorScheme alloc] initWithDefaults:MDCColorSchemeDefaultsMaterial201804];

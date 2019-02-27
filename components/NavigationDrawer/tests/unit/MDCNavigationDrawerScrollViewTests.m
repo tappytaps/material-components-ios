@@ -16,7 +16,7 @@
 
 #import "../../src/private/MDCBottomDrawerContainerViewController.h"
 #import "../../src/private/MDCBottomDrawerHeaderMask.h"
-#import "MDCNavigationDrawerFakes.h"
+#import <MaterialComponents/MDCNavigationDrawerFakes.h>
 
 @interface MDCBottomDrawerDelegateTest
     : UIViewController <MDCBottomDrawerPresentationControllerDelegate>

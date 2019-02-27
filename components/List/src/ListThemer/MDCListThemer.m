@@ -12,10 +12,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCListThemer.h"
+#import <MaterialComponents/MDCListThemer.h>
 
-#import "MaterialList+ColorThemer.h"
-#import "MaterialList+TypographyThemer.h"
+#import <MaterialComponents/MaterialList+ColorThemer.h>
+#import <MaterialComponents/MaterialList+TypographyThemer.h>
 
 @implementation MDCListThemer
 

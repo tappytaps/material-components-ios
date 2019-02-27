@@ -16,13 +16,13 @@
  instructions. It is not necessary to import this file to use Material Components for iOS.
  */
 
-#import "TabBarViewControllerExampleSupplemental.h"
+#import <MaterialComponents/TabBarViewControllerExampleSupplemental.h>
 
-#import "MaterialAppBar+ColorThemer.h"
-#import "MaterialAppBar+TypographyThemer.h"
-#import "MaterialAppBar.h"
-#import "MaterialButtons.h"
-#import "MaterialPalettes.h"
+#import <MaterialComponents/MaterialAppBar+ColorThemer.h>
+#import <MaterialComponents/MaterialAppBar+TypographyThemer.h>
+#import <MaterialComponents/MaterialAppBar.h>
+#import <MaterialComponents/MaterialButtons.h>
+#import <MaterialComponents/MaterialPalettes.h>
 
 @interface TBVCSampleView : UIView
 @end

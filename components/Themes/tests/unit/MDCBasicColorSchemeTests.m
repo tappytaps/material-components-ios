@@ -13,7 +13,7 @@
 // limitations under the License.
 
 #import <XCTest/XCTest.h>
-#import "MaterialThemes.h"
+#import <MaterialComponents/MaterialThemes.h>
 
 @interface MDCBasicColorSchemeTests : XCTestCase
 

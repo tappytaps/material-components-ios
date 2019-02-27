@@ -14,13 +14,13 @@
 
 #import "supplemental/ChipsExamplesSupplemental.h"
 
-#import "MaterialChips+Theming.h"
-#import "MaterialChips.h"
-#import "MaterialContainerScheme.h"
-#import "MaterialShapeLibraryNew.h"
-#import "MaterialShapesNew.h"
-#import "MaterialSlider+ColorThemer.h"
-#import "MaterialSlider.h"
+#import <MaterialComponents/MaterialChips+Theming.h>
+#import <MaterialComponents/MaterialChips.h>
+#import <MaterialComponents/MaterialContainerScheme.h>
+#import <MaterialComponents/MaterialShapeLibraryNew.h>
+#import <MaterialComponents/MaterialShapesNew.h>
+#import <MaterialComponents/MaterialSlider+ColorThemer.h>
+#import <MaterialComponents/MaterialSlider.h>
 
 @implementation ChipsShapingExampleViewController {
   MDCChipView *_chipView;

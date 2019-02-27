@@ -14,9 +14,9 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MaterialContainerScheme.h"
+#import <MaterialComponents/MaterialContainerScheme.h>
 
-#import "MDCContainedInputView.h"
+#import <MaterialComponents/MDCContainedInputView.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

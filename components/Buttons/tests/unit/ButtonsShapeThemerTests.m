@@ -14,9 +14,9 @@
 
 #import <XCTest/XCTest.h>
 
-#import "MaterialButtons+ShapeThemer.h"
-#import "MaterialButtons.h"
-#import "MaterialShapeLibraryNew.h"
+#import <MaterialComponents/MaterialButtons+ShapeThemer.h>
+#import <MaterialComponents/MaterialButtons.h>
+#import <MaterialComponents/MaterialShapeLibraryNew.h>
 
 @interface ButtonsShapeThemerTests : XCTestCase
 

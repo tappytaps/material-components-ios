@@ -87,7 +87,7 @@ import MaterialComponents.MaterialChips
 #### Objective-C
 
 ```objc
-#import "MaterialChips.h"
+#import <MaterialComponents/MaterialChips.h>
 ```
 <!--</div>-->
 
@@ -382,7 +382,7 @@ MDCChipViewColorThemer.applySemanticColorScheme(colorScheme, to: component)
 
 ```objc
 // Step 1: Import the ColorThemer extension
-#import "MaterialChips+ColorThemer.h"
+#import <MaterialComponents/MaterialChips+ColorThemer.h>
 
 // Step 2: Create or get a color scheme
 id<MDCColorScheming> colorScheme = [[MDCSemanticColorScheme alloc] initWithDefaults:MDCColorSchemeDefaultsMaterial201804];
@@ -422,7 +422,7 @@ MDCChipViewTypographyThemer.applyTypographyScheme(typographyScheme, to: componen
 
 ```objc
 // Step 1: Import the TypographyThemer extension
-#import "MaterialChips+TypographyThemer.h"
+#import <MaterialComponents/MaterialChips+TypographyThemer.h>
 
 // Step 2: Create or get a typography scheme
 id<MDCTypographyScheming> typographyScheme = [[MDCTypographyScheme alloc] init];
@@ -462,7 +462,7 @@ MDCChipViewShapeThemer.applyShapeScheme(shapeScheme, to: component)
 
 ```objc
 // Step 1: Import the ShapeThemer extension
-#import "MaterialChips+ShapeThemer.h"
+#import <MaterialComponents/MaterialChips+ShapeThemer.h>
 
 // Step 2: Create or get a shape scheme
 id<MDCShapeScheming> shapeScheme = [[MDCShapeScheme alloc] init];

@@ -11,11 +11,11 @@
 // WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 // See the License for the specific language governing permissions and
 // limitations under the License.
-#import "MDCBottomNavigationItemBadge.h"
+#import <MaterialComponents/MDCBottomNavigationItemBadge.h>
 
 #import <CoreGraphics/CoreGraphics.h>
 
-#import "MaterialMath.h"
+#import <MaterialComponents/MaterialMath.h>
 
 // This is very close to the material.io guidelines article considering the fonts differ.
 static const CGFloat kBadgeFontSize = 8;

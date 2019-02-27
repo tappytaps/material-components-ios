@@ -89,7 +89,7 @@ import MaterialComponents.MaterialPageControl
 #### Objective-C
 
 ```objc
-#import "MaterialPageControl.h"
+#import <MaterialComponents/MaterialPageControl.h>
 ```
 <!--</div>-->
 

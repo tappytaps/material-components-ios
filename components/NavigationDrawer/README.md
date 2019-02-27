@@ -85,7 +85,7 @@ import MaterialComponentsBeta.MaterialNavigationDrawer
 #### Objective-C
 
 ```objc
-#import "MaterialNavigationDrawer.h"
+#import <MaterialComponents/MaterialNavigationDrawer.h>
 ```
 <!--</div>-->
 

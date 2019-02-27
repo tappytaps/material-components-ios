@@ -27,7 +27,7 @@ the MDCIcons class with a static method.
 
 To access an icon's helper methods, import the corresponding header:
 
-    #import "MaterialIcons+ic_arrow_back.h"
+    #import <MaterialComponents/MaterialIcons+ic_arrow_back.h>
 
 To load an icon from disk, use the corresponding `pathFor` method:
 

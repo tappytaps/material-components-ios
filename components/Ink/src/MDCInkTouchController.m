@@ -12,10 +12,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCInkTouchController.h"
+#import <MaterialComponents/MDCInkTouchController.h>
 
-#import "MDCInkGestureRecognizer.h"
-#import "MDCInkView.h"
+#import <MaterialComponents/MDCInkGestureRecognizer.h>
+#import <MaterialComponents/MDCInkView.h>
 
 static const NSTimeInterval kInkTouchDelayInterval = 0.1;
 

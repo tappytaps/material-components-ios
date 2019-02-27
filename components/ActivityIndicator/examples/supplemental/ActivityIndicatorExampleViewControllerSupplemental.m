@@ -17,9 +17,9 @@
  instructions. It is not necessary to import this file to use Material Components for iOS.
  */
 
-#import "ActivityIndicatorExampleViewControllerSupplemental.h"
+#import <MaterialComponents/ActivityIndicatorExampleViewControllerSupplemental.h>
 
-#import "MaterialTypography.h"
+#import <MaterialComponents/MaterialTypography.h>
 
 #define MDC_CATALOG_GREEN [UIColor colorWithRed:0 green:0xe6 / 255.0f blue:0x76 / 255.0f alpha:1]
 

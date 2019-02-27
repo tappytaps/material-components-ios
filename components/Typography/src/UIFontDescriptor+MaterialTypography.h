@@ -14,7 +14,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MDCFontTextStyle.h"
+#import <MaterialComponents/MDCFontTextStyle.h>
 
 @interface UIFontDescriptor (MaterialTypography)
 

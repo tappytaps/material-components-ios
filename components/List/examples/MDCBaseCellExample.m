@@ -12,9 +12,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCBaseCellExample.h"
+#import <MaterialComponents/MDCBaseCellExample.h>
 
-#import "MDCBaseCell.h"
+#import <MaterialComponents/MDCBaseCell.h>
 
 @implementation MDCBaseCellExample
 

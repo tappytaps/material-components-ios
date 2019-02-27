@@ -12,10 +12,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCTabBarUnderlineIndicatorTemplate.h"
+#import <MaterialComponents/MDCTabBarUnderlineIndicatorTemplate.h>
 
-#import "MDCTabBarIndicatorAttributes.h"
-#import "MDCTabBarIndicatorContext.h"
+#import <MaterialComponents/MDCTabBarIndicatorAttributes.h>
+#import <MaterialComponents/MDCTabBarIndicatorContext.h>
 
 /// Height in points of the underline shown under selected items.
 static const CGFloat kUnderlineIndicatorHeight = 2;

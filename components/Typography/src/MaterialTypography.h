@@ -21,8 +21,8 @@
  expand or contract the header file space without consumer modifications.
  */
 
-#import "MDCFontTextStyle.h"
-#import "MDCTypography.h"
-#import "UIFont+MaterialSimpleEquality.h"
-#import "UIFont+MaterialTypography.h"
-#import "UIFontDescriptor+MaterialTypography.h"
+#import <MaterialComponents/MDCFontTextStyle.h>
+#import <MaterialComponents/MDCTypography.h>
+#import <MaterialComponents/UIFont+MaterialSimpleEquality.h>
+#import <MaterialComponents/UIFont+MaterialTypography.h>
+#import <MaterialComponents/UIFontDescriptor+MaterialTypography.h>

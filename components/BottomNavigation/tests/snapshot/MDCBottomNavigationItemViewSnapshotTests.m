@@ -12,10 +12,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MaterialSnapshot.h"
+#import <MaterialComponents/MaterialSnapshot.h>
 
 #import "../../src/private/MDCBottomNavigationItemView.h"
-#import "MaterialBottomNavigation.h"
+#import <MaterialComponents/MaterialBottomNavigation.h>
 
 static NSString *const kLongTitleLatin =
     @"123456789012345678901234567890123456789012345678901234567890";

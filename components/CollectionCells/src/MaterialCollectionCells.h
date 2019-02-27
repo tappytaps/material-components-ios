@@ -12,5 +12,5 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCCollectionViewCell.h"
-#import "MDCCollectionViewTextCell.h"
+#import <MaterialComponents/MDCCollectionViewCell.h>
+#import <MaterialComponents/MDCCollectionViewTextCell.h>

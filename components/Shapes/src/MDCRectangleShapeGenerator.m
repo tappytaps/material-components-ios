@@ -12,12 +12,12 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCRectangleShapeGeneratorNew.h"
+#import <MaterialComponents/MDCRectangleShapeGeneratorNew.h>
 
-#import "MDCCornerTreatmentNew.h"
-#import "MDCEdgeTreatmentNew.h"
-#import "MDCPathGeneratorNew.h"
-#import "MaterialMath.h"
+#import <MaterialComponents/MDCCornerTreatmentNew.h>
+#import <MaterialComponents/MDCEdgeTreatmentNew.h>
+#import <MaterialComponents/MDCPathGeneratorNew.h>
+#import <MaterialComponents/MaterialMath.h>
 
 static inline CGFloat CGPointDistanceToPoint(CGPoint a, CGPoint b) {
   return MDCHypot(a.x - b.x, a.y - b.y);

@@ -106,7 +106,7 @@ import MaterialComponents.MaterialSnackbar
 #### Objective-C
 
 ```objc
-#import "MaterialSnackbar.h"
+#import <MaterialComponents/MaterialSnackbar.h>
 ```
 <!--</div>-->
 
@@ -207,7 +207,7 @@ MDCSnackbarColorThemer.applySemanticColorScheme(colorScheme)
 
 ```objc
 // Step 1: Import the ColorThemer extension
-#import "MaterialSnackbar+ColorThemer.h"
+#import <MaterialComponents/MaterialSnackbar+ColorThemer.h>
 
 // Step 2: Create or get a color scheme
 id<MDCColorScheming> colorScheme = [[MDCSemanticColorScheme alloc] initWithDefaults:MDCColorSchemeDefaultsMaterial201804];
@@ -246,7 +246,7 @@ MDCSnackbarTypographyThemer.applyTypographyScheme(typographyScheme)
 
 ```objc
 // Step 1: Import the TypographyThemer extension
-#import "MaterialSnackbar+TypographyThemer.h"
+#import <MaterialComponents/MaterialSnackbar+TypographyThemer.h>
 
 // Step 2: Create or get a typography scheme
 id<MDCTypographyScheming> typographyScheme = [[MDCTypographyScheme alloc] init];

@@ -12,8 +12,8 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCOutlinedTextFieldColorThemer.h"
-#import "MDCTextInputControllerBase.h"
+#import <MaterialComponents/MDCOutlinedTextFieldColorThemer.h>
+#import <MaterialComponents/MDCTextInputControllerBase.h>
 
 static CGFloat const kOutlinedTextFieldActiveAlpha = (CGFloat)0.87;
 static CGFloat const kOutlinedTextFieldOnSurfaceAlpha = (CGFloat)0.6;

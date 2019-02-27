@@ -17,11 +17,11 @@
 
 #import "../../src/private/MDCBottomNavigationItemView.h"
 
-#import "MaterialBottomNavigation+ColorThemer.h"
-#import "MaterialBottomNavigation+TypographyThemer.h"
-#import "MaterialBottomNavigation.h"
-#import "MaterialInk.h"
-#import "MaterialSnapshot.h"
+#import <MaterialComponents/MaterialBottomNavigation+ColorThemer.h>
+#import <MaterialComponents/MaterialBottomNavigation+TypographyThemer.h>
+#import <MaterialComponents/MaterialBottomNavigation.h>
+#import <MaterialComponents/MaterialInk.h>
+#import <MaterialComponents/MaterialSnapshot.h>
 
 static const CGFloat kWidthWide = 1600;
 static const CGFloat kWidthiPad = 1024;

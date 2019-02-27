@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "BottomSheetAutolayoutDummyViewController.h"
+#import <MaterialComponents/BottomSheetAutolayoutDummyViewController.h>
 
 @implementation BottomSheetAutolayoutDummyViewController
 

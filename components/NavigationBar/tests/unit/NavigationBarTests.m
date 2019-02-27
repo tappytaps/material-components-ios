@@ -14,9 +14,9 @@
 
 #import <XCTest/XCTest.h>
 
-#import "MaterialButtonBar.h"
-#import "MaterialNavigationBar+TypographyThemer.h"
-#import "MaterialNavigationBar.h"
+#import <MaterialComponents/MaterialButtonBar.h>
+#import <MaterialComponents/MaterialNavigationBar+TypographyThemer.h>
+#import <MaterialComponents/MaterialNavigationBar.h>
 
 static const CGFloat kEpsilonAccuracy = (CGFloat)0.001;
 

@@ -14,8 +14,8 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MaterialCards.h"
-#import "MaterialContainerScheme.h"
+#import <MaterialComponents/MaterialCards.h>
+#import <MaterialComponents/MaterialContainerScheme.h>
 
 @interface CardsCollectionTintingExample : UICollectionViewController
 

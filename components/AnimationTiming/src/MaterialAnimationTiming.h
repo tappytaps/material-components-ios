@@ -12,5 +12,5 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "CAMediaTimingFunction+MDCAnimationTiming.h"
-#import "UIView+MDCTimingFunction.h"
+#import <MaterialComponents/CAMediaTimingFunction+MDCAnimationTiming.h>
+#import <MaterialComponents/UIView+MDCTimingFunction.h>

@@ -14,9 +14,9 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MaterialActivityIndicator.h"
-#import "MaterialButtons+ButtonThemer.h"
-#import "MaterialButtons.h"
+#import <MaterialComponents/MaterialActivityIndicator.h>
+#import <MaterialComponents/MaterialButtons+ButtonThemer.h>
+#import <MaterialComponents/MaterialButtons.h>
 
 static const CGFloat kActivityIndicatorExampleArrowHeadSize = 5;
 static const CGFloat kActivityIndicatorExampleStrokeWidth = 2;

@@ -12,8 +12,8 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MaterialFeatureHighlight+ColorThemer.h"
-#import "MaterialFeatureHighlight.h"
+#import <MaterialComponents/MaterialFeatureHighlight+ColorThemer.h>
+#import <MaterialComponents/MaterialFeatureHighlight.h>
 
 #import <XCTest/XCTest.h>
 

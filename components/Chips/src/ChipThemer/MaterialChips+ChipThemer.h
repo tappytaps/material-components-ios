@@ -12,5 +12,5 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCChipViewScheme.h"
-#import "MDCChipViewThemer.h"
+#import <MaterialComponents/MDCChipViewScheme.h>
+#import <MaterialComponents/MDCChipViewThemer.h>

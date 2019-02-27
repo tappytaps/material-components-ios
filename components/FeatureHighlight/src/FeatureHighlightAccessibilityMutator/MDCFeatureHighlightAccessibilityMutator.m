@@ -12,10 +12,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCFeatureHighlightAccessibilityMutator.h"
+#import <MaterialComponents/MDCFeatureHighlightAccessibilityMutator.h>
 
-#import "MaterialFeatureHighlight.h"
-#import "MaterialTypography.h"
+#import <MaterialComponents/MaterialFeatureHighlight.h>
+#import <MaterialComponents/MaterialTypography.h>
 
 @implementation MDCFeatureHighlightAccessibilityMutator
 

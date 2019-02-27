@@ -50,7 +50,7 @@ import MaterialComponents.MaterialCollectionLayoutAttributes
 
 #### Objective-C
 ```objc
-#import "MaterialCollectionLayoutAttributes.h"
+#import <MaterialComponents/MaterialCollectionLayoutAttributes.h>
 ```
 <!--</div>-->
 

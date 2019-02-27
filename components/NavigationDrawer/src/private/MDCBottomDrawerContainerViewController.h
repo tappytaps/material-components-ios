@@ -13,7 +13,7 @@
 // limitations under the License.
 
 #import <UIKit/UIKit.h>
-#import "MDCBottomDrawerState.h"
+#import <MaterialComponents/MDCBottomDrawerState.h>
 
 @class MDCBottomDrawerContainerViewController;
 @protocol MDCBottomDrawerHeader;

@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCContainerScheme.h"
+#import <MaterialComponents/MDCContainerScheme.h>
 
 @implementation MDCContainerScheme
 

@@ -12,13 +12,13 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCSimpleTextField+MaterialTheming.h"
+#import <MaterialComponents/MDCSimpleTextField+MaterialTheming.h>
 
 #import <Foundation/Foundation.h>
 
-#import "MDCContainedInputView.h"
-#import "MDCContainerStyleFilled.h"
-#import "MDCContainerStyleOutlined.h"
+#import <MaterialComponents/MDCContainedInputView.h>
+#import <MaterialComponents/MDCContainerStyleFilled.h>
+#import <MaterialComponents/MDCContainerStyleOutlined.h>
 
 @implementation MDCSimpleTextField (MaterialTheming)
 

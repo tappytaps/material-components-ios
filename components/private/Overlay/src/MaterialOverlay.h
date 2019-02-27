@@ -15,6 +15,6 @@
 #import <Availability.h>
 #import <Foundation/Foundation.h>
 
-#import "MDCOverlayImplementor.h"
-#import "MDCOverlayObserver.h"
-#import "MDCOverlayTransitioning.h"
+#import <MaterialComponents/MDCOverlayImplementor.h>
+#import <MaterialComponents/MDCOverlayObserver.h>
+#import <MaterialComponents/MDCOverlayTransitioning.h>

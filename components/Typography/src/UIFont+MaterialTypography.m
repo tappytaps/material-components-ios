@@ -12,10 +12,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "UIFont+MaterialTypography.h"
+#import <MaterialComponents/UIFont+MaterialTypography.h>
 
-#import "MDCTypography.h"
-#import "UIFontDescriptor+MaterialTypography.h"
+#import <MaterialComponents/MDCTypography.h>
+#import <MaterialComponents/UIFontDescriptor+MaterialTypography.h>
 
 @implementation UIFont (MaterialTypography)
 

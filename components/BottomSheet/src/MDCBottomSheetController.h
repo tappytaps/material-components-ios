@@ -13,8 +13,8 @@
 // limitations under the License.
 
 #import <UIKit/UIKit.h>
-#import "MDCSheetState.h"
-#import "MaterialShapesNew.h"
+#import <MaterialComponents/MDCSheetState.h>
+#import <MaterialComponents/MaterialShapesNew.h>
 
 @protocol MDCBottomSheetControllerDelegate;
 

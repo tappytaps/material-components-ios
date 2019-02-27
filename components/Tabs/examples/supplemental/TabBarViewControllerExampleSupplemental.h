@@ -18,10 +18,10 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MaterialButtons+ButtonThemer.h"
-#import "MaterialColorScheme.h"
-#import "MaterialTabs.h"
-#import "MaterialTypographyScheme.h"
+#import <MaterialComponents/MaterialButtons+ButtonThemer.h>
+#import <MaterialComponents/MaterialColorScheme.h>
+#import <MaterialComponents/MaterialTabs.h>
+#import <MaterialComponents/MaterialTypographyScheme.h>
 
 typedef void (^MDCButtonActionBlock)(void);
 

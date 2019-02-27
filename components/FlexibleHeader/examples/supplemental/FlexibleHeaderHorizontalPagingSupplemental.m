@@ -17,7 +17,7 @@
  It is not necessary to import this file to use Material Components for iOS.
  */
 
-#import "FlexibleHeaderHorizontalPagingSupplemental.h"
+#import <MaterialComponents/FlexibleHeaderHorizontalPagingSupplemental.h>
 
 @implementation FlexibleHeaderHorizontalPagingViewController (CatalogByConvention)
 

@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCNavigationDrawerFakes.h"
+#import <MaterialComponents/MDCNavigationDrawerFakes.h>
 
 @implementation MDCNavigationDrawerFakeHeaderViewController
 - (void)bottomDrawerControllerDidChangeTopInset:(nonnull MDCBottomDrawerViewController *)controller

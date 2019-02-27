@@ -12,10 +12,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCAppBarContainerViewController.h"
-#import "MDCAppBarNavigationController.h"
-#import "MDCAppBarViewController.h"
+#import <MaterialComponents/MDCAppBarContainerViewController.h>
+#import <MaterialComponents/MDCAppBarNavigationController.h>
+#import <MaterialComponents/MDCAppBarViewController.h>
 
 #pragma mark - To be deprecated
 
-#import "MDCAppBar.h"
+#import <MaterialComponents/MDCAppBar.h>

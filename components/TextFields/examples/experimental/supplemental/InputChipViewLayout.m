@@ -12,11 +12,11 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "InputChipViewLayout.h"
+#import <MaterialComponents/InputChipViewLayout.h>
 
 #import <MDFInternationalization/MDFInternationalization.h>
-#import "InputChipView.h"
-#import "MaterialMath.h"
+#import <MaterialComponents/InputChipView.h>
+#import <MaterialComponents/MaterialMath.h>
 
 static const CGFloat kEstimatedCursorWidth = (CGFloat)2.0;
 

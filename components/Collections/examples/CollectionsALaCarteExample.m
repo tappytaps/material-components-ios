@@ -13,7 +13,7 @@
 // limitations under the License.
 
 #import "supplemental/CollectionsALaCarteExample.h"
-#import "MaterialTypography.h"
+#import <MaterialComponents/MaterialTypography.h>
 
 static const NSInteger kSectionCount = 10;
 static const NSInteger kSectionItemCount = 5;

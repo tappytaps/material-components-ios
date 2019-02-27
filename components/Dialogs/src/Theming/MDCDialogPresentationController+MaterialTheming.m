@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCDialogPresentationController+MaterialTheming.h"
+#import <MaterialComponents/MDCDialogPresentationController+MaterialTheming.h>
 
 static const CGFloat kCornerRadius = 4;
 

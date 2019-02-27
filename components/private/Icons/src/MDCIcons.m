@@ -12,9 +12,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCIcons.h"
+#import <MaterialComponents/MDCIcons.h>
 
-#import "MDCIcons+BundleLoader.h"
+#import <MaterialComponents/MDCIcons+BundleLoader.h>
 
 @implementation MDCIcons
 

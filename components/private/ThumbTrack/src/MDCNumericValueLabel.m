@@ -12,9 +12,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCNumericValueLabel.h"
+#import <MaterialComponents/MDCNumericValueLabel.h>
 
-#import "MaterialTypography.h"
+#import <MaterialComponents/MaterialTypography.h>
 
 static const CGFloat kAnchorPointY = (CGFloat)1.15;
 static const CGFloat kBezierSmoothingFactor = (CGFloat)0.0625;

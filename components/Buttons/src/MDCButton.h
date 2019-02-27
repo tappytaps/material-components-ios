@@ -15,9 +15,9 @@
 #import <CoreGraphics/CoreGraphics.h>
 #import <UIKit/UIKit.h>
 
-#import "MaterialInk.h"
-#import "MaterialShadowElevations.h"
-#import "MaterialShapesNew.h"
+#import <MaterialComponents/MaterialInk.h>
+#import <MaterialComponents/MaterialShadowElevations.h>
+#import <MaterialComponents/MaterialShapesNew.h>
 
 /**
  A Material flat, raised or floating button.

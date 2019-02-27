@@ -14,7 +14,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MDCRippleView.h"
+#import <MaterialComponents/MDCRippleView.h>
 
 @protocol MDCRippleTouchControllerDelegate;
 

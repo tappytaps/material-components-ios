@@ -12,9 +12,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MaterialSnapshot.h"
+#import <MaterialComponents/MaterialSnapshot.h>
 
-#import "MaterialBottomAppBar.h"
+#import <MaterialComponents/MaterialBottomAppBar.h>
 
 @interface MDCBottomAppBarSnapshotTests : MDCSnapshotTestCase
 @property(nonatomic, strong) MDCBottomAppBarView *appBar;

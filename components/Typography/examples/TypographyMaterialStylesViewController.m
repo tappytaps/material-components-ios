@@ -12,9 +12,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "TypographyMaterialStylesViewController.h"
+#import <MaterialComponents/TypographyMaterialStylesViewController.h>
 
-#import "MaterialTypography.h"
+#import <MaterialComponents/MaterialTypography.h>
 
 @implementation TypographyMaterialStyleViewController {
   NSArray<NSString *> *_strings;

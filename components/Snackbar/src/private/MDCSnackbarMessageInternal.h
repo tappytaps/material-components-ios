@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCSnackbarMessage.h"
+#import <MaterialComponents/MDCSnackbarMessage.h>
 
 /**
  Internal-only methods used by MDCSnackbarMessage and MDCSnackbarManager.

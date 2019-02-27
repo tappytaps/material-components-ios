@@ -13,7 +13,7 @@
 // limitations under the License.
 
 #import <UIKit/UIKit.h>
-#import "MDCBottomSheetController.h"
+#import <MaterialComponents/MDCBottomSheetController.h>
 
 @class MDCBottomSheetPresentationController;
 

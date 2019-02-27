@@ -12,14 +12,14 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCTabBar.h"
+#import <MaterialComponents/MDCTabBar.h>
 
 #import <MDFInternationalization/MDFInternationalization.h>
 
-#import "MDCTabBarIndicatorTemplate.h"
-#import "MDCTabBarUnderlineIndicatorTemplate.h"
-#import "MaterialInk.h"
-#import "MaterialTypography.h"
+#import <MaterialComponents/MDCTabBarIndicatorTemplate.h>
+#import <MaterialComponents/MDCTabBarUnderlineIndicatorTemplate.h>
+#import <MaterialComponents/MaterialInk.h>
+#import <MaterialComponents/MaterialTypography.h>
 #import "private/MDCItemBar.h"
 #import "private/MDCItemBarAlignment.h"
 #import "private/MDCItemBarStyle.h"

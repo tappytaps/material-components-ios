@@ -12,11 +12,11 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCCornerTreatment+CornerTypeInitalizerNew.h"
-#import "MDCCurvedCornerTreatmentNew.h"
-#import "MDCCurvedRectShapeGeneratorNew.h"
-#import "MDCCutCornerTreatmentNew.h"
-#import "MDCPillShapeGeneratorNew.h"
-#import "MDCRoundedCornerTreatmentNew.h"
-#import "MDCSlantedRectShapeGeneratorNew.h"
-#import "MDCTriangleEdgeTreatmentNew.h"
+#import <MaterialComponents/MDCCornerTreatment+CornerTypeInitalizerNew.h>
+#import <MaterialComponents/MDCCurvedCornerTreatmentNew.h>
+#import <MaterialComponents/MDCCurvedRectShapeGeneratorNew.h>
+#import <MaterialComponents/MDCCutCornerTreatmentNew.h>
+#import <MaterialComponents/MDCPillShapeGeneratorNew.h>
+#import <MaterialComponents/MDCRoundedCornerTreatmentNew.h>
+#import <MaterialComponents/MDCSlantedRectShapeGeneratorNew.h>
+#import <MaterialComponents/MDCTriangleEdgeTreatmentNew.h>

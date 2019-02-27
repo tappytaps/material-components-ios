@@ -16,13 +16,13 @@
  instructions. It is not necessary to import this file to use Material Components for iOS.
  */
 
-#import "TabBarIconExampleSupplemental.h"
+#import <MaterialComponents/TabBarIconExampleSupplemental.h>
 
-#import "MaterialAppBar+ColorThemer.h"
-#import "MaterialAppBar+TypographyThemer.h"
-#import "MaterialButtons+ButtonThemer.h"
-#import "MaterialPalettes.h"
-#import "MaterialTabs+TypographyThemer.h"
+#import <MaterialComponents/MaterialAppBar+ColorThemer.h>
+#import <MaterialComponents/MaterialAppBar+TypographyThemer.h>
+#import <MaterialComponents/MaterialButtons+ButtonThemer.h>
+#import <MaterialComponents/MaterialPalettes.h>
+#import <MaterialComponents/MaterialTabs+TypographyThemer.h>
 
 // Exposing selectors defined in the main example class
 @interface TabBarIconExample ()

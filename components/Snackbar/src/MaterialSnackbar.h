@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCSnackbarAlignment.h"
-#import "MDCSnackbarManager.h"
-#import "MDCSnackbarMessage.h"
-#import "MDCSnackbarMessageView.h"
+#import <MaterialComponents/MDCSnackbarAlignment.h>
+#import <MaterialComponents/MDCSnackbarManager.h>
+#import <MaterialComponents/MDCSnackbarMessage.h>
+#import <MaterialComponents/MDCSnackbarMessageView.h>

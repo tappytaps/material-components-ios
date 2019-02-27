@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCInkGestureRecognizer.h"
+#import <MaterialComponents/MDCInkGestureRecognizer.h>
 
 #import <UIKit/UIGestureRecognizerSubclass.h>
 

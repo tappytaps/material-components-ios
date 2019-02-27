@@ -12,14 +12,14 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCFlexibleHeaderViewController.h"
+#import <MaterialComponents/MDCFlexibleHeaderViewController.h>
 
 #import <MDFTextAccessibility/MDFTextAccessibility.h>
-#import "MDCFlexibleHeaderContainerViewController.h"
-#import "MDCFlexibleHeaderView+ShiftBehavior.h"
-#import "MDCFlexibleHeaderView.h"
-#import "MaterialApplication.h"
-#import "MaterialUIMetrics.h"
+#import <MaterialComponents/MDCFlexibleHeaderContainerViewController.h>
+#import <MaterialComponents/MDCFlexibleHeaderView+ShiftBehavior.h>
+#import <MaterialComponents/MDCFlexibleHeaderView.h>
+#import <MaterialComponents/MaterialApplication.h>
+#import <MaterialComponents/MaterialUIMetrics.h>
 #import "private/MDCFlexibleHeaderView+Private.h"
 
 @interface UIView ()

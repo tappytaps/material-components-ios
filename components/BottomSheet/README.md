@@ -60,7 +60,7 @@ import MaterialComponents.MaterialBottomSheet
 #### Objective-C
 
 ```objc
-#import "MaterialBottomSheet.h"
+#import <MaterialComponents/MaterialBottomSheet.h>
 ```
 <!--</div>-->
 
@@ -138,7 +138,7 @@ MDCBottomSheetControllerShapeThemer.applyShapeScheme(shapeScheme, to: component)
 
 ```objc
 // Step 1: Import the ShapeThemer extension
-#import "MaterialBottomSheet+ShapeThemer.h"
+#import <MaterialComponents/MaterialBottomSheet+ShapeThemer.h>
 
 // Step 2: Create or get a shape scheme
 id<MDCShapeScheming> shapeScheme = [[MDCShapeScheme alloc] init];

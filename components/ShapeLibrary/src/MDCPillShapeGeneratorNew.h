@@ -14,7 +14,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import "MaterialShapesNew.h"
+#import <MaterialComponents/MaterialShapesNew.h>
 
 /**
  A pill shape generator. Rounds the corners such that the shorter sides of the generated shape are

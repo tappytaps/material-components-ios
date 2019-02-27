@@ -12,10 +12,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCBaseCell.h"
+#import <MaterialComponents/MDCBaseCell.h>
 
-#import "MaterialInk.h"
-#import "MaterialShadowLayer.h"
+#import <MaterialComponents/MaterialInk.h>
+#import <MaterialComponents/MaterialShadowLayer.h>
 
 @interface MDCBaseCell ()
 

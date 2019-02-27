@@ -12,33 +12,33 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCShapeSchemeExampleViewController.h"
+#import <MaterialComponents/MDCShapeSchemeExampleViewController.h>
 
 #import "supplemental/MDCBottomSheetControllerShapeThemerDefaultMapping.h"
 #import "supplemental/MDCChipViewShapeThemerDefaultMapping.h"
 #import "supplemental/MDCFloatingButtonShapeThemerDefaultMapping.h"
 #import "supplemental/MDCShapeExamplesDummyCollectionViewController.h"
 
-#import "MaterialAppBar+ColorThemer.h"
-#import "MaterialAppBar+TypographyThemer.h"
-#import "MaterialAppBar.h"
-#import "MaterialBottomSheet+ShapeThemer.h"
-#import "MaterialBottomSheet.h"
-#import "MaterialButtons+ButtonThemer.h"
-#import "MaterialButtons+ShapeThemer.h"
-#import "MaterialButtons+Theming.h"
-#import "MaterialButtons.h"
-#import "MaterialCards+ShapeThemer.h"
-#import "MaterialCards+Theming.h"
-#import "MaterialCards.h"
-#import "MaterialChips+ShapeThemer.h"
-#import "MaterialChips+Theming.h"
-#import "MaterialChips.h"
-#import "MaterialColorScheme.h"
-#import "MaterialContainerScheme.h"
-#import "MaterialShapeLibraryNew.h"
-#import "MaterialShapeScheme.h"
-#import "MaterialTypographyScheme.h"
+#import <MaterialComponents/MaterialAppBar+ColorThemer.h>
+#import <MaterialComponents/MaterialAppBar+TypographyThemer.h>
+#import <MaterialComponents/MaterialAppBar.h>
+#import <MaterialComponents/MaterialBottomSheet+ShapeThemer.h>
+#import <MaterialComponents/MaterialBottomSheet.h>
+#import <MaterialComponents/MaterialButtons+ButtonThemer.h>
+#import <MaterialComponents/MaterialButtons+ShapeThemer.h>
+#import <MaterialComponents/MaterialButtons+Theming.h>
+#import <MaterialComponents/MaterialButtons.h>
+#import <MaterialComponents/MaterialCards+ShapeThemer.h>
+#import <MaterialComponents/MaterialCards+Theming.h>
+#import <MaterialComponents/MaterialCards.h>
+#import <MaterialComponents/MaterialChips+ShapeThemer.h>
+#import <MaterialComponents/MaterialChips+Theming.h>
+#import <MaterialComponents/MaterialChips.h>
+#import <MaterialComponents/MaterialColorScheme.h>
+#import <MaterialComponents/MaterialContainerScheme.h>
+#import <MaterialComponents/MaterialShapeLibraryNew.h>
+#import <MaterialComponents/MaterialShapeScheme.h>
+#import <MaterialComponents/MaterialTypographyScheme.h>
 
 @interface MDCShapeSchemeExampleViewController ()
 @property(strong, nonatomic) MDCSemanticColorScheme *colorScheme;

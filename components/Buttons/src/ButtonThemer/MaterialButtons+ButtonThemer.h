@@ -12,8 +12,8 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCButtonScheme.h"
-#import "MDCContainedButtonThemer.h"
-#import "MDCFloatingActionButtonThemer.h"
-#import "MDCOutlinedButtonThemer.h"
-#import "MDCTextButtonThemer.h"
+#import <MaterialComponents/MDCButtonScheme.h>
+#import <MaterialComponents/MDCContainedButtonThemer.h>
+#import <MaterialComponents/MDCFloatingActionButtonThemer.h>
+#import <MaterialComponents/MDCOutlinedButtonThemer.h>
+#import <MaterialComponents/MDCTextButtonThemer.h>

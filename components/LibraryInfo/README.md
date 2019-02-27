@@ -53,7 +53,7 @@ import MaterialComponents
 #### Objective-C
 
 ```objc
-#import "MaterialLibraryInfo.h"
+#import <MaterialComponents/MaterialLibraryInfo.h>
 ```
 <!--</div>-->
 

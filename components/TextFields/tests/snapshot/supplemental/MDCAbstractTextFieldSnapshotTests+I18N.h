@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCAbstractTextFieldSnapshotTests.h"
+#import <MaterialComponents/MDCAbstractTextFieldSnapshotTests.h>
 
 @interface MDCAbstractTextFieldSnapshotTests (I18N)
 

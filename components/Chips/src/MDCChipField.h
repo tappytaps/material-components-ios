@@ -15,8 +15,8 @@
 #import <CoreGraphics/CoreGraphics.h>
 #import <UIKit/UIKit.h>
 
-#import "MDCChipView.h"
-#import "MaterialTextFields.h"
+#import <MaterialComponents/MDCChipView.h>
+#import <MaterialComponents/MaterialTextFields.h>
 
 /**
  Note: There is a UIKit bug affecting iOS 8.0-8.2 where UITextFields do not properly call the

@@ -26,7 +26,7 @@ MDCListColorThemer.applySemanticColorScheme(colorScheme, to: cell)
 
 ```objc
 // Step 1: Import the ColorThemer extension
-#import "MaterialList+ColorThemer.h"
+#import <MaterialComponents/MaterialList+ColorThemer.h>
 
 // Step 2: Create or get a color scheme
 id<MDCColorScheming> colorScheme = [[MDCSematnicColorScheme alloc] init];

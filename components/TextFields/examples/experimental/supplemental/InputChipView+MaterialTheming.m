@@ -12,13 +12,13 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "InputChipView+MaterialTheming.h"
+#import <MaterialComponents/InputChipView+MaterialTheming.h>
 
 #import <Foundation/Foundation.h>
 
-#import "MDCContainedInputView.h"
-#import "MDCContainerStyleFilled.h"
-#import "MDCContainerStyleOutlined.h"
+#import <MaterialComponents/MDCContainedInputView.h>
+#import <MaterialComponents/MDCContainerStyleFilled.h>
+#import <MaterialComponents/MDCContainerStyleOutlined.h>
 
 @implementation InputChipView (MaterialTheming)
 

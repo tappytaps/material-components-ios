@@ -12,22 +12,22 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCTextInputControllerBase.h"
+#import <MaterialComponents/MDCTextInputControllerBase.h>
 #import "private/MDCTextInputControllerBase+Subclassing.h"
 
-#import "MDCMultilineTextField.h"
-#import "MDCTextField.h"
-#import "MDCTextInput.h"
-#import "MDCTextInputBorderView.h"
-#import "MDCTextInputCharacterCounter.h"
-#import "MDCTextInputController.h"
-#import "MDCTextInputControllerFloatingPlaceholder.h"
-#import "MDCTextInputUnderlineView.h"
+#import <MaterialComponents/MDCMultilineTextField.h>
+#import <MaterialComponents/MDCTextField.h>
+#import <MaterialComponents/MDCTextInput.h>
+#import <MaterialComponents/MDCTextInputBorderView.h>
+#import <MaterialComponents/MDCTextInputCharacterCounter.h>
+#import <MaterialComponents/MDCTextInputController.h>
+#import <MaterialComponents/MDCTextInputControllerFloatingPlaceholder.h>
+#import <MaterialComponents/MDCTextInputUnderlineView.h>
 
-#import "MaterialAnimationTiming.h"
-#import "MaterialMath.h"
-#import "MaterialPalettes.h"
-#import "MaterialTypography.h"
+#import <MaterialComponents/MaterialAnimationTiming.h>
+#import <MaterialComponents/MaterialMath.h>
+#import <MaterialComponents/MaterialPalettes.h>
+#import <MaterialComponents/MaterialTypography.h>
 
 #pragma mark - Constants
 

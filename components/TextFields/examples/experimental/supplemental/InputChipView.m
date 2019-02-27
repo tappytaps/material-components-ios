@@ -12,16 +12,16 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "InputChipView.h"
-#import "InputChipViewLayout.h"
+#import <MaterialComponents/InputChipView.h>
+#import <MaterialComponents/InputChipViewLayout.h>
 
 #import <CoreGraphics/CoreGraphics.h>
 #import <MDFInternationalization/MDFInternationalization.h>
 #import <QuartzCore/QuartzCore.h>
 
-#import "MDCContainedInputView.h"
+#import <MaterialComponents/MDCContainedInputView.h>
 
-#import "MaterialMath.h"
+#import <MaterialComponents/MaterialMath.h>
 
 static const CGFloat kFloatingPlaceholderAnimationVelocityInPointsPerSecond = (CGFloat)200;
 

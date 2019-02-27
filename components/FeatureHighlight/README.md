@@ -72,7 +72,7 @@ import MaterialComponents.MaterialFeatureHighlight
 #### Objective-C
 
 ```objc
-#import "MaterialFeatureHighlight.h"
+#import <MaterialComponents/MaterialFeatureHighlight.h>
 ```
 <!--</div>-->
 
@@ -177,7 +177,7 @@ MDCFeatureHighlightColorThemer.applySemanticColorScheme(colorScheme, to: compone
 
 ```objc
 // Step 1: Import the ColorThemer extension
-#import "MaterialFeatureHighlight+ColorThemer.h"
+#import <MaterialComponents/MaterialFeatureHighlight+ColorThemer.h>
 
 // Step 2: Create or get a color scheme
 id<MDCColorScheming> colorScheme = [[MDCSemanticColorScheme alloc] initWithDefaults:MDCColorSchemeDefaultsMaterial201804];
@@ -217,7 +217,7 @@ MDCFeatureHighlightTypographyThemer.applyTypographyScheme(typographyScheme, to: 
 
 ```objc
 // Step 1: Import the TypographyThemer extension
-#import "MaterialFeatureHighlight+TypographyThemer.h"
+#import <MaterialComponents/MaterialFeatureHighlight+TypographyThemer.h>
 
 // Step 2: Create or get a typography scheme
 id<MDCTypographyScheming> typographyScheme = [[MDCTypographyScheme alloc] init];

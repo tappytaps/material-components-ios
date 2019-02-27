@@ -12,5 +12,5 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCButton+MaterialTheming.h"
-#import "MDCFloatingButton+MaterialTheming.h"
+#import <MaterialComponents/MDCButton+MaterialTheming.h>
+#import <MaterialComponents/MDCFloatingButton+MaterialTheming.h>

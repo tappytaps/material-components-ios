@@ -25,7 +25,7 @@ MDCAppBarTypographyThemer.applyTypographyScheme(typographyScheme, to: component)
 
 ```objc
 // Step 1: Import the TypographyThemer extension
-#import "MaterialAppBar+TypographyThemer.h"
+#import <MaterialComponents/MaterialAppBar+TypographyThemer.h>
 
 // Step 2: Create or get a typography scheme
 id<MDCTypographyScheming> typographyScheme = [[MDCTypographyScheme alloc] init];

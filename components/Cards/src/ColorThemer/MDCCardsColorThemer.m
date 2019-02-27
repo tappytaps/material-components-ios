@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCCardsColorThemer.h"
+#import <MaterialComponents/MDCCardsColorThemer.h>
 
 static const CGFloat kStrokeVariantBorderOpacity = (CGFloat)0.37;
 

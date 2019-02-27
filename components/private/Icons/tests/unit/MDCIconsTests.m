@@ -13,13 +13,13 @@
 // limitations under the License.
 
 #import <XCTest/XCTest.h>
-#import "MaterialIcons+ic_arrow_back.h"
-#import "MaterialIcons+ic_check.h"
-#import "MaterialIcons+ic_check_circle.h"
-#import "MaterialIcons+ic_chevron_right.h"
-#import "MaterialIcons+ic_info.h"
-#import "MaterialIcons+ic_radio_button_unchecked.h"
-#import "MaterialIcons+ic_reorder.h"
+#import <MaterialComponents/MaterialIcons+ic_arrow_back.h>
+#import <MaterialComponents/MaterialIcons+ic_check.h>
+#import <MaterialComponents/MaterialIcons+ic_check_circle.h>
+#import <MaterialComponents/MaterialIcons+ic_chevron_right.h>
+#import <MaterialComponents/MaterialIcons+ic_info.h>
+#import <MaterialComponents/MaterialIcons+ic_radio_button_unchecked.h>
+#import <MaterialComponents/MaterialIcons+ic_reorder.h>
 
 @interface MDCIconsTests : XCTestCase
 @end

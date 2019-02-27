@@ -14,8 +14,8 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MaterialBottomSheet.h"
-#import "MaterialButtons.h"
+#import <MaterialComponents/MaterialBottomSheet.h>
+#import <MaterialComponents/MaterialButtons.h>
 #import "supplemental/BottomSheetDummyStaticViewController.h"
 #import "supplemental/BottomSheetSupplemental.h"
 

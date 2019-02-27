@@ -12,13 +12,13 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCBottomDrawerContainerViewController.h"
+#import <MaterialComponents/MDCBottomDrawerContainerViewController.h>
 
-#import "MDCBottomDrawerHeader.h"
-#import "MDCBottomDrawerHeaderMask.h"
-#import "MaterialMath.h"
-#import "MaterialShadowLayer.h"
-#import "MaterialUIMetrics.h"
+#import <MaterialComponents/MDCBottomDrawerHeader.h>
+#import <MaterialComponents/MDCBottomDrawerHeaderMask.h>
+#import <MaterialComponents/MaterialMath.h>
+#import <MaterialComponents/MaterialShadowLayer.h>
+#import <MaterialComponents/MaterialUIMetrics.h>
 
 static const CGFloat kVerticalShadowAnimationDistance = 10;
 static const CGFloat kVerticalDistanceThresholdForDismissal = 40;

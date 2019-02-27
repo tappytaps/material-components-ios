@@ -14,7 +14,7 @@
 
 #import <CoreGraphics/CoreGraphics.h>
 
-#import "MDCChipCollectionViewCell.h"
+#import <MaterialComponents/MDCChipCollectionViewCell.h>
 
 #import "private/MDCChipView+Private.h"
 

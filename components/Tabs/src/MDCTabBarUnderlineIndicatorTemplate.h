@@ -14,7 +14,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MDCTabBarIndicatorTemplate.h"
+#import <MaterialComponents/MDCTabBarIndicatorTemplate.h>
 
 /*
  Default indicator template which produces a fixed-height solid line underneath the selected tab.

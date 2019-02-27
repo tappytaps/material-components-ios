@@ -20,7 +20,7 @@ import MaterialComponents.MaterialAppBar_ColorThemer
 import MaterialComponents.MaterialAppBar_TypographyThemer
 import MaterialComponents.MaterialBottomSheet
 import MaterialComponents.MaterialCollections
-import MaterialComponents.MaterialIcons_ic_more_horiz
+import MaterialComponents.Materialprivate_Icons_icons_ic_more_horiz_ic_more_horiz
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate, MDCAppBarNavigationControllerDelegate {

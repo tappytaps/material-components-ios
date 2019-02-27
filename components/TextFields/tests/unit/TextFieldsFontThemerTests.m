@@ -14,9 +14,9 @@
 
 #import <XCTest/XCTest.h>
 
-#import "MaterialTextFields+FontThemer.h"
-#import "MaterialTextFields.h"
-#import "MaterialThemes.h"
+#import <MaterialComponents/MaterialTextFields+FontThemer.h>
+#import <MaterialComponents/MaterialTextFields.h>
+#import <MaterialComponents/MaterialThemes.h>
 
 @interface TextFieldsFontThemerTests : XCTestCase
 

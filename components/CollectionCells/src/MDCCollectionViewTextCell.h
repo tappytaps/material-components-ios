@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCCollectionViewCell.h"
+#import <MaterialComponents/MDCCollectionViewCell.h>
 
 /** Default cell height for single line of text. Defaults to 48. */
 extern const CGFloat MDCCellDefaultOneLineHeight;

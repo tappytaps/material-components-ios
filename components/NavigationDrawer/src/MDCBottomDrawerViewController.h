@@ -13,8 +13,8 @@
 // limitations under the License.
 
 #import <UIKit/UIKit.h>
-#import "MDCBottomDrawerPresentationController.h"
-#import "MDCBottomDrawerState.h"
+#import <MaterialComponents/MDCBottomDrawerPresentationController.h>
+#import <MaterialComponents/MDCBottomDrawerState.h>
 
 @protocol MDCBottomDrawerHeader;
 @protocol MDCBottomDrawerViewControllerDelegate;

@@ -12,4 +12,4 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCFlexibleHeaderView+canAlwaysExpandToMaximumHeight.h"
+#import <MaterialComponents/MDCFlexibleHeaderView+canAlwaysExpandToMaximumHeight.h>

@@ -12,6 +12,6 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCRippleTouchController.h"
-#import "MDCRippleView.h"
-#import "MDCStatefulRippleView.h"
+#import <MaterialComponents/MDCRippleTouchController.h>
+#import <MaterialComponents/MDCRippleView.h>
+#import <MaterialComponents/MDCStatefulRippleView.h>

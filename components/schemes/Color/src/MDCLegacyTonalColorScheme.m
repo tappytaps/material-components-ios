@@ -12,9 +12,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCLegacyTonalColorScheme.h"
+#import <MaterialComponents/MDCLegacyTonalColorScheme.h>
 
-#import "MDCLegacyTonalPalette.h"
+#import <MaterialComponents/MDCLegacyTonalPalette.h>
 
 @interface MDCTonalColorScheme ()
 

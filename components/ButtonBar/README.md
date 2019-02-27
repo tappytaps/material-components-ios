@@ -78,7 +78,7 @@ import MaterialComponents.MaterialButtonBar
 #### Objective-C
 
 ```objc
-#import "MaterialButtonBar.h"
+#import <MaterialComponents/MaterialButtonBar.h>
 ```
 <!--</div>-->
 
@@ -204,7 +204,7 @@ MDCButtonBarColorThemer.applySemanticColorScheme(colorScheme, to:buttonBar)
 
 ```objc
 // Step 1: Import the ColorThemer extension
-#import "MaterialButtonBar+ColorThemer.h"
+#import <MaterialComponents/MaterialButtonBar+ColorThemer.h>
 
 // Step 2: Create or get a color scheme
 id<MDCColorScheming> colorScheme = [[MDCSemanticColorScheme alloc] initWithDefaults:MDCColorSchemeDefaultsMaterial201804];
@@ -244,7 +244,7 @@ MDCButtonBarTypographyThemer.applyTypographyScheme(typographyScheme, to: buttonB
 
 ```objc
 // Step 1: Import the TypographyThemer extension
-#import "MaterialButtonBar+TypographyThemer.h"
+#import <MaterialComponents/MaterialButtonBar+TypographyThemer.h>
 
 // Step 2: Create or get a typography scheme
 id<MDCTypographyScheming> typographyScheme = [[MDCTypographyScheme alloc] init];

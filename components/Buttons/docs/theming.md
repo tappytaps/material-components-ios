@@ -194,7 +194,7 @@ let buttonScheme = MDCButtonScheme()
 
 ```objc
 // Step 1: Import the ButtonThemer extension
-#import "MaterialButtons+ButtonThemer.h"
+#import <MaterialComponents/MaterialButtons+ButtonThemer.h>
 
 // Step 2: Create or get a button scheme
 MDCButtonScheme *buttonScheme = [[MDCButtonScheme alloc] init];

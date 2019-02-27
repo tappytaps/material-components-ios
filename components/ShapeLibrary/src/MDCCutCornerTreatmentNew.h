@@ -14,7 +14,7 @@
 
 #import <CoreGraphics/CoreGraphics.h>
 
-#import "MaterialShapesNew.h"
+#import <MaterialComponents/MaterialShapesNew.h>
 
 /**
  A cut corner treatment subclassing MDCCornerTreatment.

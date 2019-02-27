@@ -12,16 +12,16 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCFeatureHighlightView+Private.h"
+#import <MaterialComponents/MDCFeatureHighlightView+Private.h>
 
 #import <MDFTextAccessibility/MDFTextAccessibility.h>
-#import "MDCFeatureHighlightDismissGestureRecognizer.h"
-#import "MDCFeatureHighlightLayer.h"
+#import <MaterialComponents/MDCFeatureHighlightDismissGestureRecognizer.h>
+#import <MaterialComponents/MDCFeatureHighlightLayer.h>
 
-#import "MaterialFeatureHighlightStrings.h"
-#import "MaterialFeatureHighlightStrings_table.h"
-#import "MaterialMath.h"
-#import "MaterialTypography.h"
+#import <MaterialComponents/MaterialFeatureHighlightStrings.h>
+#import <MaterialComponents/MaterialFeatureHighlightStrings_table.h>
+#import <MaterialComponents/MaterialMath.h>
+#import <MaterialComponents/MaterialTypography.h>
 
 static inline CGFloat CGPointDistanceToPoint(CGPoint a, CGPoint b) {
   return MDCHypot(a.x - b.x, a.y - b.y);

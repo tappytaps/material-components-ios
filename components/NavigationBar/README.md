@@ -102,7 +102,7 @@ import MaterialComponents.MaterialNavigationBar
 #### Objective-C
 
 ```objc
-#import "MaterialNavigationBar.h"
+#import <MaterialComponents/MaterialNavigationBar.h>
 ```
 <!--</div>-->
 
@@ -195,7 +195,7 @@ MDCNavigationBarColorThemer.applySemanticColorScheme(colorScheme, to: component)
 
 ```objc
 // Step 1: Import the ColorThemer extension
-#import "MaterialNavigationBar+ColorThemer.h"
+#import <MaterialComponents/MaterialNavigationBar+ColorThemer.h>
 
 // Step 2: Create or get a color scheme
 id<MDCColorScheming> colorScheme = [[MDCSemanticColorScheme alloc] initWithDefaults:MDCColorSchemeDefaultsMaterial201804];
@@ -235,7 +235,7 @@ MDCNavigationBarTypographyThemer.applyTypographyScheme(typographyScheme, to: com
 
 ```objc
 // Step 1: Import the TypographyThemer extension
-#import "MaterialNavigationBar+TypographyThemer.h"
+#import <MaterialComponents/MaterialNavigationBar+TypographyThemer.h>
 
 // Step 2: Create or get a typography scheme
 id<MDCTypographyScheming> typographyScheme = [[MDCTypographyScheme alloc] init];

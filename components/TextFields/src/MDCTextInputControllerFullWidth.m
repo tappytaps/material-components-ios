@@ -12,19 +12,19 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCTextInputControllerFullWidth.h"
+#import <MaterialComponents/MDCTextInputControllerFullWidth.h>
 
-#import "MDCIntrinsicHeightTextView.h"
-#import "MDCMultilineTextField.h"
-#import "MDCTextField.h"
-#import "MDCTextInput.h"
-#import "MDCTextInputCharacterCounter.h"
-#import "MDCTextInputUnderlineView.h"
+#import <MaterialComponents/MDCIntrinsicHeightTextView.h>
+#import <MaterialComponents/MDCMultilineTextField.h>
+#import <MaterialComponents/MDCTextField.h>
+#import <MaterialComponents/MDCTextInput.h>
+#import <MaterialComponents/MDCTextInputCharacterCounter.h>
+#import <MaterialComponents/MDCTextInputUnderlineView.h>
 
-#import "MaterialAnimationTiming.h"
-#import "MaterialMath.h"
-#import "MaterialPalettes.h"
-#import "MaterialTypography.h"
+#import <MaterialComponents/MaterialAnimationTiming.h>
+#import <MaterialComponents/MaterialMath.h>
+#import <MaterialComponents/MaterialPalettes.h>
+#import <MaterialComponents/MaterialTypography.h>
 
 static const CGFloat MDCTextInputControllerFullWidthHintTextOpacity = (CGFloat)0.54;
 static const CGFloat MDCTextInputControllerFullWidthHorizontalInnerPadding = 8;

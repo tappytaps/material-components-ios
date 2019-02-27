@@ -13,9 +13,9 @@
 // limitations under the License.
 
 #import <UIKit/UIKit.h>
-#import "MaterialCards.h"
+#import <MaterialComponents/MaterialCards.h>
 
-#import "MaterialContainerScheme.h"
+#import <MaterialComponents/MaterialContainerScheme.h>
 
 @interface CardsCollectionExample : UICollectionViewController
 

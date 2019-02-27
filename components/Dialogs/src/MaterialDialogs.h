@@ -12,8 +12,8 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCAlertController.h"
-#import "MDCAlertControllerView.h"
-#import "MDCDialogPresentationController.h"
-#import "MDCDialogTransitionController.h"
-#import "UIViewController+MaterialDialogs.h"
+#import <MaterialComponents/MDCAlertController.h>
+#import <MaterialComponents/MDCAlertControllerView.h>
+#import <MaterialComponents/MDCDialogPresentationController.h>
+#import <MaterialComponents/MDCDialogTransitionController.h>
+#import <MaterialComponents/UIViewController+MaterialDialogs.h>

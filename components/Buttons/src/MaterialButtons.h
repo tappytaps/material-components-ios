@@ -12,8 +12,8 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCButton.h"
-#import "MDCFlatButton.h"
-#import "MDCFloatingButton+Animation.h"
-#import "MDCFloatingButton.h"
-#import "MDCRaisedButton.h"
+#import <MaterialComponents/MDCButton.h>
+#import <MaterialComponents/MDCFlatButton.h>
+#import <MaterialComponents/MDCFloatingButton+Animation.h>
+#import <MaterialComponents/MDCFloatingButton.h>
+#import <MaterialComponents/MDCRaisedButton.h>

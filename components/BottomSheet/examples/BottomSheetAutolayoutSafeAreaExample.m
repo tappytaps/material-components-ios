@@ -14,8 +14,8 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MaterialApplication.h"
-#import "MaterialBottomSheet.h"
+#import <MaterialComponents/MaterialApplication.h>
+#import <MaterialComponents/MaterialBottomSheet.h>
 #import "supplemental/BottomSheetSupplemental.h"
 
 static const CGFloat kSafeContentHeight = 150;

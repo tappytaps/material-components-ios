@@ -12,11 +12,11 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCFlexibleHeaderView.h"
+#import <MaterialComponents/MDCFlexibleHeaderView.h>
 
-#import "MDCFlexibleHeaderView+ShiftBehavior.h"
-#import "MaterialApplication.h"
-#import "MaterialUIMetrics.h"
+#import <MaterialComponents/MDCFlexibleHeaderView+ShiftBehavior.h>
+#import <MaterialComponents/MaterialApplication.h>
+#import <MaterialComponents/MaterialUIMetrics.h>
 #import "private/MDCFlexibleHeaderMinMaxHeight.h"
 #import "private/MDCFlexibleHeaderTopSafeArea.h"
 #import "private/MDCFlexibleHeaderView+Private.h"

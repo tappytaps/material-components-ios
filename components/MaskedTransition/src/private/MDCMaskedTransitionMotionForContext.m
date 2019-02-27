@@ -14,7 +14,7 @@
 
 #import <CoreGraphics/CoreGraphics.h>
 
-#import "MDCMaskedTransitionMotionForContext.h"
+#import <MaterialComponents/MDCMaskedTransitionMotionForContext.h>
 
 MDCMaskedTransitionMotionSpec MDCMaskedTransitionMotionSpecForContext(
     UIView *containerView, UIViewController *presentedViewController) {

@@ -12,9 +12,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCDialogTransitionController.h"
+#import <MaterialComponents/MDCDialogTransitionController.h>
 
-#import "MDCDialogPresentationController.h"
+#import <MaterialComponents/MDCDialogPresentationController.h>
 
 @implementation MDCDialogTransitionController
 

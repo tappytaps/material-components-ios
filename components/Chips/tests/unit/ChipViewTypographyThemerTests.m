@@ -14,8 +14,8 @@
 
 #import <XCTest/XCTest.h>
 
-#import "MaterialChips+TypographyThemer.h"
-#import "MaterialChips.h"
+#import <MaterialComponents/MaterialChips+TypographyThemer.h>
+#import <MaterialComponents/MaterialChips.h>
 
 @interface ChipViewTypographyThemerTests : XCTestCase
 

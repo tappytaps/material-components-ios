@@ -12,11 +12,11 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCOverlayWindow.h"
+#import <MaterialComponents/MDCOverlayWindow.h>
 
 #import <objc/runtime.h>
 
-#import "MaterialApplication.h"
+#import <MaterialComponents/MaterialApplication.h>
 
 /**
  A container view for overlay views.

@@ -102,7 +102,7 @@ import MaterialComponents.MaterialTabs
 #### Objective-C
 
 ```objc
-#import "MaterialTabs.h"
+#import <MaterialComponents/MaterialTabs.h>
 ```
 <!--</div>-->
 
@@ -125,7 +125,7 @@ import MaterialComponents
 #### Objective-C
 
 ```objc
-#import "MaterialTabs.h"
+#import <MaterialComponents/MaterialTabs.h>
 ```
 
 <!--</div>-->
@@ -238,7 +238,7 @@ MDCTabBarColorThemer.applySurfaceVariant(withColorScheme: colorScheme, toTabs: c
 
 ```objc
 // Step 1: Import the ColorThemer extension
-#import "MaterialTabs+ColorThemer.h"
+#import <MaterialComponents/MaterialTabs+ColorThemer.h>
 
 // Step 2: Create or get a color scheme
 id<MDCColorScheming> colorScheme = [[MDCSemanticColorScheme alloc] initWithDefaults:MDCColorSchemeDefaultsMaterial201804];
@@ -280,7 +280,7 @@ MDCTabBarTypographyThemer.applyTypographyScheme(typographyScheme, to: component)
 
 ```objc
 // Step 1: Import the TypographyThemer extension
-#import "MaterialTabs+TypographyThemer.h"
+#import <MaterialComponents/MaterialTabs+TypographyThemer.h>
 
 // Step 2: Create or get a typography scheme
 id<MDCTypographyScheming> typographyScheme = [[MDCTypographyScheme alloc] init];

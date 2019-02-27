@@ -13,14 +13,14 @@
 // limitations under the License.
 #import <CoreGraphics/CoreGraphics.h>
 
-#import "MDCBottomNavigationItemView.h"
+#import <MaterialComponents/MDCBottomNavigationItemView.h>
 
 #import <MDFInternationalization/MDFInternationalization.h>
 
-#import "MDCBottomNavigationItemBadge.h"
-#import "MaterialBottomNavigationStrings.h"
-#import "MaterialBottomNavigationStrings_table.h"
-#import "MaterialMath.h"
+#import <MaterialComponents/MDCBottomNavigationItemBadge.h>
+#import <MaterialComponents/MaterialBottomNavigationStrings.h>
+#import <MaterialComponents/MaterialBottomNavigationStrings_table.h>
+#import <MaterialComponents/MaterialMath.h>
 
 // A number large enough to be larger than any reasonable screen dimension but small enough that
 // CGFloat doesn't lose precision.

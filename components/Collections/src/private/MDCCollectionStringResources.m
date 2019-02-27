@@ -12,10 +12,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCCollectionStringResources.h"
+#import <MaterialComponents/MDCCollectionStringResources.h>
 
-#import "MaterialCollectionsStrings.h"
-#import "MaterialCollectionsStrings_table.h"
+#import <MaterialComponents/MaterialCollectionsStrings.h>
+#import <MaterialComponents/MaterialCollectionsStrings_table.h>
 
 // The Bundle for string resources.
 static NSString *const kBundleName = @"MaterialCollections.bundle";

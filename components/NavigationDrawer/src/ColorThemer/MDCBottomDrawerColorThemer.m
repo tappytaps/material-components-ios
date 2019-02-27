@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCBottomDrawerColorThemer.h"
+#import <MaterialComponents/MDCBottomDrawerColorThemer.h>
 
 static const CGFloat kScrimAlpha = (CGFloat)0.32;
 

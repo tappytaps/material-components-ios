@@ -86,7 +86,7 @@ An easy way to create beautiful apps with modular and customizable UI&nbsp;compo
     #### Objective-C
 
     ```objc
-    #import "MaterialButtons.h"
+    #import <MaterialComponents/MaterialButtons.h>
 
     @implementation ViewController
 

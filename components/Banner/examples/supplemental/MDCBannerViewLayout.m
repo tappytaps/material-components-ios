@@ -14,8 +14,8 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MDCBannerView.h"
-#import "MDCBannerViewLayout.h"
+#import <MaterialComponents/MDCBannerView.h>
+#import <MaterialComponents/MDCBannerViewLayout.h>
 
 static const CGFloat kLeadingPadding = 16.0f;
 static const CGFloat kTrailingPadding = 8.0f;

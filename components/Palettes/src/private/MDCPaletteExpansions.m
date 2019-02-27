@@ -16,7 +16,7 @@
 
 #include <Foundation/Foundation.h>
 
-#import "MDCPaletteNames.h"
+#import <MaterialComponents/MDCPaletteNames.h>
 
 // Observed saturation ranges for tints 50, 500, 900.
 static const CGFloat kSaturation50Min = (CGFloat)0.06;

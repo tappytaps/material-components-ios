@@ -14,9 +14,9 @@
 
 #import <XCTest/XCTest.h>
 #import "../../src/private/MDCBottomNavigationItemView.h"
-#import "MaterialBottomNavigation+ColorThemer.h"
-#import "MaterialBottomNavigation.h"
-#import "MaterialColorScheme.h"
+#import <MaterialComponents/MaterialBottomNavigation+ColorThemer.h>
+#import <MaterialComponents/MaterialBottomNavigation.h>
+#import <MaterialComponents/MaterialColorScheme.h>
 
 @interface FakeColorScheme : NSObject <MDCColorScheme>
 @property(nonatomic, strong) UIColor *primaryColor;

@@ -12,10 +12,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MaterialDialogs+ColorThemer.h"
-#import "MaterialDialogs.h"
+#import <MaterialComponents/MaterialDialogs+ColorThemer.h>
+#import <MaterialComponents/MaterialDialogs.h>
 
-#import "MDCAlertControllerView+Private.h"
+#import <MaterialComponents/MDCAlertControllerView+Private.h>
 
 #import <XCTest/XCTest.h>
 

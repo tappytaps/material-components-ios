@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCTypographyScheme.h"
+#import <MaterialComponents/MDCTypographyScheme.h>
 
 #import <CoreText/CoreText.h>
 

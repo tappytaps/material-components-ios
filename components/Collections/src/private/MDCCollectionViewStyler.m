@@ -12,11 +12,11 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCCollectionViewStyler.h"
+#import <MaterialComponents/MDCCollectionViewStyler.h>
 
-#import "MDCCollectionViewStylingDelegate.h"
-#import "MaterialCollectionLayoutAttributes.h"
-#import "MaterialPalettes.h"
+#import <MaterialComponents/MDCCollectionViewStylingDelegate.h>
+#import <MaterialComponents/MaterialCollectionLayoutAttributes.h>
+#import <MaterialComponents/MaterialPalettes.h>
 
 #include <tgmath.h>
 

@@ -25,7 +25,7 @@ MDCSnackbarColorThemer.applySemanticColorScheme(colorScheme)
 
 ```objc
 // Step 1: Import the ColorThemer extension
-#import "MaterialSnackbar+ColorThemer.h"
+#import <MaterialComponents/MaterialSnackbar+ColorThemer.h>
 
 // Step 2: Create or get a color scheme
 id<MDCColorScheming> colorScheme = [[MDCSemanticColorScheme alloc] initWithDefaults:MDCColorSchemeDefaultsMaterial201804];

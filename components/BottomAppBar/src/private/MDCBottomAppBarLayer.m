@@ -12,10 +12,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCBottomAppBarLayer.h"
+#import <MaterialComponents/MDCBottomAppBarLayer.h>
 
-#import "MDCBottomAppBarAttributes.h"
-#import "MaterialMath.h"
+#import <MaterialComponents/MDCBottomAppBarAttributes.h>
+#import <MaterialComponents/MaterialMath.h>
 
 @interface MDCBottomAppBarLayer (PathGenerators)
 - (UIBezierPath *)drawWithPathToCut:(UIBezierPath *)bottomBarPath

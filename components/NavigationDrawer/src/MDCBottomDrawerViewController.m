@@ -12,10 +12,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCBottomDrawerViewController.h"
+#import <MaterialComponents/MDCBottomDrawerViewController.h>
 
-#import "MDCBottomDrawerTransitionController.h"
-#import "MaterialUIMetrics.h"
+#import <MaterialComponents/MDCBottomDrawerTransitionController.h>
+#import <MaterialComponents/MaterialUIMetrics.h>
 #import "private/MDCBottomDrawerHeaderMask.h"
 
 @interface MDCBottomDrawerViewController () <MDCBottomDrawerPresentationControllerDelegate>

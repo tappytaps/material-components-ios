@@ -14,9 +14,9 @@
  limitations under the License.
  */
 
-#import "MDCFlexibleHeaderTopSafeArea.h"
+#import <MaterialComponents/MDCFlexibleHeaderTopSafeArea.h>
 
-#import "MDCFlexibleHeaderView.h"
+#import <MaterialComponents/MDCFlexibleHeaderView.h>
 
 // The default status bar height for non-X devices.
 static const CGFloat kNonXStatusBarHeight = 20;

@@ -13,7 +13,7 @@
 // limitations under the License.
 
 #import <UIKit/UIKit.h>
-#import "MDCSheetState.h"
+#import <MaterialComponents/MDCSheetState.h>
 
 @protocol MDCSheetContainerViewDelegate;
 

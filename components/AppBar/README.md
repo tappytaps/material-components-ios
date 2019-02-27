@@ -118,7 +118,7 @@ import MaterialComponents.MaterialAppBar
 #### Objective-C
 
 ```objc
-#import "MaterialAppBar.h"
+#import <MaterialComponents/MaterialAppBar.h>
 ```
 <!--</div>-->
 
@@ -665,7 +665,7 @@ MDCAppBarColorThemer.applySemanticColorScheme(colorScheme, to: component)
 
 ```objc
 // Step 1: Import the ColorThemer extension
-#import "MaterialAppBar+ColorThemer.h"
+#import <MaterialComponents/MaterialAppBar+ColorThemer.h>
 
 // Step 2: Create or get a color scheme
 id<MDCColorScheming> colorScheme = [[MDCSemanticColorScheme alloc] initWithDefaults:MDCColorSchemeDefaultsMaterial201804];
@@ -705,7 +705,7 @@ MDCAppBarTypographyThemer.applyTypographyScheme(typographyScheme, to: component)
 
 ```objc
 // Step 1: Import the TypographyThemer extension
-#import "MaterialAppBar+TypographyThemer.h"
+#import <MaterialComponents/MaterialAppBar+TypographyThemer.h>
 
 // Step 2: Create or get a typography scheme
 id<MDCTypographyScheming> typographyScheme = [[MDCTypographyScheme alloc] init];

@@ -12,11 +12,11 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCContainedInputView.h"
+#import <MaterialComponents/MDCContainedInputView.h>
 
-#import "MDCContainerStylePathDrawingUtils.h"
+#import <MaterialComponents/MDCContainerStylePathDrawingUtils.h>
 
-#import "MDCContainerStyleOutlined.h"
+#import <MaterialComponents/MDCContainerStyleOutlined.h>
 
 #import <Foundation/Foundation.h>
 

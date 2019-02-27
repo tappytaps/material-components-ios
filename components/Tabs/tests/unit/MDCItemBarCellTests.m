@@ -14,9 +14,9 @@
 
 #import <XCTest/XCTest.h>
 
-#import "MDCItemBarCell+Private.h"
-#import "MDCItemBarCell.h"
-#import "MDCItemBarStyle.h"
+#import <MaterialComponents/MDCItemBarCell+Private.h>
+#import <MaterialComponents/MDCItemBarCell.h>
+#import <MaterialComponents/MDCItemBarStyle.h>
 
 @interface MDCItemBarCellTests : XCTestCase
 

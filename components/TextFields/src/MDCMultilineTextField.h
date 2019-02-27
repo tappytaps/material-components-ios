@@ -14,7 +14,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MDCTextInput.h"
+#import <MaterialComponents/MDCTextInput.h>
 
 @class MDCIntrinsicHeightTextView;
 

@@ -12,9 +12,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MaterialTextFields+ColorThemer.h"
-#import "MaterialTextFields+TypographyThemer.h"
-#import "MaterialTextFields.h"
+#import <MaterialComponents/MaterialTextFields+ColorThemer.h>
+#import <MaterialComponents/MaterialTextFields+TypographyThemer.h>
+#import <MaterialComponents/MaterialTextFields.h>
 #import "supplemental/MDCAbstractTextFieldSnapshotTests.h"
 #import "supplemental/SnapshotFakeMDCMultilineTextField.h"
 

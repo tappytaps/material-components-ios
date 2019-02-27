@@ -12,9 +12,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCFloatingButton.h"
+#import <MaterialComponents/MDCFloatingButton.h>
 
-#import "MaterialShadowElevations.h"
+#import <MaterialComponents/MaterialShadowElevations.h>
 #import "private/MDCButton+Subclassing.h"
 
 #import <MDFInternationalization/MDFInternationalization.h>

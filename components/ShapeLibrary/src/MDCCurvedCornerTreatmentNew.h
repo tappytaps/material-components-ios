@@ -14,7 +14,7 @@
 
 #import <CoreGraphics/CoreGraphics.h>
 
-#import "MaterialShapesNew.h"
+#import <MaterialComponents/MaterialShapesNew.h>
 
 /**
  A curved corner treatment. Distinct from MDCRoundedCornerTreatment in that MDCurvedCornerTreatment

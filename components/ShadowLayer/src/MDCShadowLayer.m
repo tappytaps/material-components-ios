@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCShadowLayer.h"
+#import <MaterialComponents/MDCShadowLayer.h>
 
 static const CGFloat kShadowElevationDialog = 24.0;
 static const float kKeyShadowOpacity = (float)0.26;

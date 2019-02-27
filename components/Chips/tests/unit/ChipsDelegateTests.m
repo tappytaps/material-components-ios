@@ -15,8 +15,8 @@
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-#import "MDCTextField+Testing.h"
-#import "MaterialChips.h"
+#import <MaterialComponents/MDCTextField+Testing.h>
+#import <MaterialComponents/MaterialChips.h>
 
 @interface ChipsDelegateTests : XCTestCase <MDCChipFieldDelegate>
 

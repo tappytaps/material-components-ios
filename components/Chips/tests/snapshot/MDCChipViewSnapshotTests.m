@@ -12,9 +12,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MaterialChips+Theming.h"
-#import "MaterialChips.h"
-#import "MaterialSnapshot.h"
+#import <MaterialComponents/MaterialChips+Theming.h>
+#import <MaterialComponents/MaterialChips.h>
+#import <MaterialComponents/MaterialSnapshot.h>
 
 @interface MDCChipViewSnapshotTests : MDCSnapshotTestCase
 

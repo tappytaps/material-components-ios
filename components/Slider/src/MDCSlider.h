@@ -15,7 +15,7 @@
 #import <CoreGraphics/CoreGraphics.h>
 #import <UIKit/UIKit.h>
 
-#import "MaterialShadowElevations.h"
+#import <MaterialComponents/MaterialShadowElevations.h>
 
 @protocol MDCSliderDelegate;
 

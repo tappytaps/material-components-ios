@@ -12,9 +12,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "ChipsExamplesSupplemental.h"
+#import <MaterialComponents/ChipsExamplesSupplemental.h>
 
-#import "MaterialChips.h"
+#import <MaterialComponents/MaterialChips.h>
 
 static UIImage *DoneImage() {
   NSBundle *bundle = [NSBundle bundleForClass:[ChipsTypicalUseViewController class]];

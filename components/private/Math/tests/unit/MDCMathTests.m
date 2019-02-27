@@ -13,7 +13,7 @@
 // limitations under the License.
 
 #import <XCTest/XCTest.h>
-#import "MDCMath.h"
+#import <MaterialComponents/MDCMath.h>
 
 @interface MDCMathTests : XCTestCase
 

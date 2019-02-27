@@ -14,12 +14,12 @@
 
 #import <QuartzCore/QuartzCore.h>
 
-#import "MDCSnackbarManager.h"
-#import "MDCSnackbarMessage.h"
-#import "MDCSnackbarMessageView.h"
+#import <MaterialComponents/MDCSnackbarManager.h>
+#import <MaterialComponents/MDCSnackbarMessage.h>
+#import <MaterialComponents/MDCSnackbarMessageView.h>
 
-#import "MaterialAnimationTiming.h"
-#import "MaterialTypography.h"
+#import <MaterialComponents/MaterialAnimationTiming.h>
+#import <MaterialComponents/MaterialTypography.h>
 #import "private/MDCSnackbarMessageViewInternal.h"
 #import "private/MDCSnackbarOverlayView.h"
 #import "private/MaterialSnackbarStrings.h"

@@ -12,9 +12,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCCardScheme.h"
+#import <MaterialComponents/MDCCardScheme.h>
 
-#import "MaterialCards.h"
+#import <MaterialComponents/MaterialCards.h>
 
 #import <Foundation/Foundation.h>
 

@@ -12,11 +12,11 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "DialogsRoundedCornerExampleViewController.h"
-#import "MaterialButtons+Theming.h"
-#import "MaterialButtons.h"
-#import "MaterialDialogs+Theming.h"
-#import "MaterialDialogs.h"
+#import <MaterialComponents/DialogsRoundedCornerExampleViewController.h>
+#import <MaterialComponents/MaterialButtons+Theming.h>
+#import <MaterialComponents/MaterialButtons.h>
+#import <MaterialComponents/MaterialDialogs+Theming.h>
+#import <MaterialComponents/MaterialDialogs.h>
 
 @interface DialogsRoundedCornerSimpleController : UIViewController
 

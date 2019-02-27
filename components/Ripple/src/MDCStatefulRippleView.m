@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCStatefulRippleView.h"
+#import <MaterialComponents/MDCStatefulRippleView.h>
 #import "private/MDCRippleLayer.h"
 
 static const CGFloat kDefaultRippleAlpha = (CGFloat)0.12;

@@ -12,13 +12,13 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MaterialSnapshot.h"
+#import <MaterialComponents/MaterialSnapshot.h>
 
-#import "MaterialColorScheme.h"
-#import "MaterialContainerScheme.h"
-#import "MaterialDialogs+Theming.h"
-#import "MaterialDialogs.h"
-#import "MaterialTypographyScheme.h"
+#import <MaterialComponents/MaterialColorScheme.h>
+#import <MaterialComponents/MaterialContainerScheme.h>
+#import <MaterialComponents/MaterialDialogs+Theming.h>
+#import <MaterialComponents/MaterialDialogs.h>
+#import <MaterialComponents/MaterialTypographyScheme.h>
 
 static NSString *const kActionHighTitleLatin = @"High";
 static NSString *const kActionMediumTitleLatin = @"Medium";

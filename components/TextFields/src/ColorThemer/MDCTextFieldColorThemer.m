@@ -12,10 +12,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCTextFieldColorThemer.h"
+#import <MaterialComponents/MDCTextFieldColorThemer.h>
 
-#import "MaterialTextFields.h"
-#import "MaterialThemes.h"
+#import <MaterialComponents/MaterialTextFields.h>
+#import <MaterialComponents/MaterialThemes.h>
 
 @implementation MDCTextFieldColorThemer
 

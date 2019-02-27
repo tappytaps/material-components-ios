@@ -14,8 +14,8 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MDCBottomNavigationBar.h"
-#import "MaterialInk.h"
+#import <MaterialComponents/MDCBottomNavigationBar.h>
+#import <MaterialComponents/MaterialInk.h>
 
 @interface MDCBottomNavigationItemView : UIView
 

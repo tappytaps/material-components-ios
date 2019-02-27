@@ -15,7 +15,7 @@
 #import <Foundation/Foundation.h>
 #import <MotionTransitioning/MotionTransitioning.h>
 
-#import "MDCMaskedTransitionMotionSpecs.h"
+#import <MaterialComponents/MDCMaskedTransitionMotionSpecs.h>
 
 FOUNDATION_EXPORT
 MDCMaskedTransitionMotionSpec MDCMaskedTransitionMotionSpecForContext(

@@ -12,12 +12,12 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MaterialCollections.h"
-#import "MaterialColorScheme.h"
-#import "MaterialPalettes.h"
-#import "MaterialSlider+ColorThemer.h"
-#import "MaterialSlider.h"
-#import "MaterialTypographyScheme.h"
+#import <MaterialComponents/MaterialCollections.h>
+#import <MaterialComponents/MaterialColorScheme.h>
+#import <MaterialComponents/MaterialPalettes.h>
+#import <MaterialComponents/MaterialSlider+ColorThemer.h>
+#import <MaterialComponents/MaterialSlider.h>
+#import <MaterialComponents/MaterialTypographyScheme.h>
 #import "supplemental/SliderCollectionSupplemental.h"
 
 static NSString *const kReusableIdentifierItem = @"sliderItemCellIdentifier";

@@ -12,13 +12,13 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCOverlayObserver.h"
+#import <MaterialComponents/MDCOverlayObserver.h>
 
 #import <CoreFoundation/CoreFoundation.h>
 #import <CoreGraphics/CoreGraphics.h>
 #import <UIKit/UIKit.h>
 
-#import "MDCOverlayImplementor.h"
+#import <MaterialComponents/MDCOverlayImplementor.h>
 #import "private/MDCOverlayAnimationObserver.h"
 #import "private/MDCOverlayObserverOverlay.h"
 #import "private/MDCOverlayObserverTransition.h"

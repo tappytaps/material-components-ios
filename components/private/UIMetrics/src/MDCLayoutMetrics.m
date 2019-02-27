@@ -12,9 +12,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCLayoutMetrics.h"
+#import <MaterialComponents/MDCLayoutMetrics.h>
 
-#import "MaterialApplication.h"
+#import <MaterialComponents/MaterialApplication.h>
 
 static const CGFloat kFixedStatusBarHeightOnPreiPhoneXDevices = 20;
 

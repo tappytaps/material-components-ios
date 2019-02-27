@@ -17,9 +17,9 @@
  instructions. It is not necessary to import this file to use Material Components iOS.
  */
 
-#import "FlexibleHeaderPageControlSupplemental.h"
+#import <MaterialComponents/FlexibleHeaderPageControlSupplemental.h>
 
-#import "MaterialFlexibleHeader.h"
+#import <MaterialComponents/MaterialFlexibleHeader.h>
 
 @implementation FlexibleHeaderPageControlExample (CatalogByConvention)
 

@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCBottomDrawerContainerViewController.h"
+#import <MaterialComponents/MDCBottomDrawerContainerViewController.h>
 
 extern NSString *_Nonnull const kMDCBottomDrawerScrollViewAccessibilityIdentifier;
 

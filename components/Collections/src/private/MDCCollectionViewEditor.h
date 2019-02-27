@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCCollectionViewEditing.h"
+#import <MaterialComponents/MDCCollectionViewEditing.h>
 
 /**
  The MDCCollectionViewEditingManager class provides an implementation for a UICollectionView to

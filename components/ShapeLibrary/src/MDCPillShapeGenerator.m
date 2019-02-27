@@ -14,10 +14,10 @@
 
 #import <CoreGraphics/CoreGraphics.h>
 
-#import "MDCPillShapeGeneratorNew.h"
+#import <MaterialComponents/MDCPillShapeGeneratorNew.h>
 
-#import "MDCRoundedCornerTreatmentNew.h"
-#import "MaterialMath.h"
+#import <MaterialComponents/MDCRoundedCornerTreatmentNew.h>
+#import <MaterialComponents/MaterialMath.h>
 
 @implementation MDCPillShapeGenerator {
   MDCRectangleShapeGenerator *_rectangleGenerator;

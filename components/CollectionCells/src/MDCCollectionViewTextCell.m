@@ -12,11 +12,11 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCCollectionViewTextCell.h"
+#import <MaterialComponents/MDCCollectionViewTextCell.h>
 
 #import <MDFInternationalization/MDFInternationalization.h>
-#import "MaterialMath.h"
-#import "MaterialTypography.h"
+#import <MaterialComponents/MaterialMath.h>
+#import <MaterialComponents/MaterialTypography.h>
 
 #include <tgmath.h>
 

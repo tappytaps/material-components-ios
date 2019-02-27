@@ -12,5 +12,5 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCCardScheme.h"
-#import "MDCCardThemer.h"
+#import <MaterialComponents/MDCCardScheme.h>
+#import <MaterialComponents/MDCCardThemer.h>

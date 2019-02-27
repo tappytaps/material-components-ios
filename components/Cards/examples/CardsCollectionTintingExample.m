@@ -12,10 +12,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "CardsCollectionTintingExample.h"
+#import <MaterialComponents/CardsCollectionTintingExample.h>
 
 #import <MaterialComponentsBeta/MaterialCards+Theming.h>
-#import "MaterialInk.h"
+#import <MaterialComponents/MaterialInk.h>
 #import "supplemental/CardTintExampleCell.h"
 
 @interface CardsCollectionTintingExample ()

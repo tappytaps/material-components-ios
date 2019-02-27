@@ -14,7 +14,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import "TextFieldControllerStylesExampleSupplemental.h"
+#import <MaterialComponents/TextFieldControllerStylesExampleSupplemental.h>
 
 @implementation TextFieldControllerStylesExample (Supplemental)
 

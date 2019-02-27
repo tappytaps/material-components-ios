@@ -39,8 +39,8 @@ MDCBottomAppBarColorThemer.applySurfaceVariant(withSemanticColorScheme: colorSch
 
 ```objc
 // Step 1: Import the ColorThemer extension and Buttons Themers
-#import "MaterialBottomAppBar+ColorThemer.h"
-#import "MaterialButtons+ButtonThemer.h"
+#import <MaterialComponents/MaterialBottomAppBar+ColorThemer.h>
+#import <MaterialComponents/MaterialButtons+ButtonThemer.h>
 
 // Step 2: Create or get a color scheme and typography scheme
 id<MDCColorScheming> colorScheme = [[MDCSemanticColorScheme alloc] initWithDefaults:MDCColorSchemeDefaultsMaterial201804];

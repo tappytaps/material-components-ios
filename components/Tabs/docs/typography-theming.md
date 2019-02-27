@@ -24,7 +24,7 @@ MDCTabBarTypographyThemer.applyTypographyScheme(typographyScheme, to: component)
 
 ```objc
 // Step 1: Import the TypographyThemer extension
-#import "MaterialTabs+TypographyThemer.h"
+#import <MaterialComponents/MaterialTabs+TypographyThemer.h>
 
 // Step 2: Create or get a typography scheme
 id<MDCTypographyScheming> typographyScheme = [[MDCTypographyScheme alloc] init];

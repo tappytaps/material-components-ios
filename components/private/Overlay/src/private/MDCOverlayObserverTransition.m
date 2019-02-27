@@ -12,10 +12,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCOverlayObserverTransition.h"
+#import <MaterialComponents/MDCOverlayObserverTransition.h>
 
-#import "MDCOverlayObserverOverlay.h"
-#import "MDCOverlayUtilities.h"
+#import <MaterialComponents/MDCOverlayObserverOverlay.h>
+#import <MaterialComponents/MDCOverlayUtilities.h>
 
 #import <QuartzCore/QuartzCore.h>
 

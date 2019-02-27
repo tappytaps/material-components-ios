@@ -12,15 +12,15 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCThumbTrack.h"
+#import <MaterialComponents/MDCThumbTrack.h>
 #import "private/MDCThumbTrack+Private.h"
 
 #import <MDFInternationalization/MDFInternationalization.h>
 
-#import "MDCNumericValueLabel.h"
-#import "MDCThumbView.h"
-#import "MaterialInk.h"
-#import "MaterialMath.h"
+#import <MaterialComponents/MDCNumericValueLabel.h>
+#import <MaterialComponents/MDCThumbView.h>
+#import <MaterialComponents/MaterialInk.h>
+#import <MaterialComponents/MaterialMath.h>
 
 #pragma mark - ThumbTrack constants
 

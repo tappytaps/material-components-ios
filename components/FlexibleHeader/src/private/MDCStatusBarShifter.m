@@ -12,9 +12,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCStatusBarShifter.h"
+#import <MaterialComponents/MDCStatusBarShifter.h>
 
-#import "MaterialApplication.h"
+#import <MaterialComponents/MaterialApplication.h>
 
 static NSTimeInterval kStatusBarBecomesInvalidAnimationDuration = 0.2;
 

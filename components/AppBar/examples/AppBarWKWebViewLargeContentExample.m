@@ -15,9 +15,9 @@
 #import <UIKit/UIKit.h>
 #import <WebKit/WebKit.h>
 
-#import "MaterialAppBar+ColorThemer.h"
-#import "MaterialAppBar+TypographyThemer.h"
-#import "MaterialAppBar.h"
+#import <MaterialComponents/MaterialAppBar+ColorThemer.h>
+#import <MaterialComponents/MaterialAppBar+TypographyThemer.h>
+#import <MaterialComponents/MaterialAppBar.h>
 
 // This demonstrates that a WKWebView with large content as the tracking scroll view is able to
 // scroll as expected, even with the useAdditionalSafeAreaInsetsForWebKitScrollViews flag enabled.

@@ -14,11 +14,11 @@
 
 #import <XCTest/XCTest.h>
 
-#import "MDCSemanticColorScheme.h"
-#import "MaterialTextFields+ColorThemer.h"
-#import "MaterialTextFields.h"
-#import "MaterialThemes.h"
-#import "MaterialTypographyScheme.h"
+#import <MaterialComponents/MDCSemanticColorScheme.h>
+#import <MaterialComponents/MaterialTextFields+ColorThemer.h>
+#import <MaterialComponents/MaterialTextFields.h>
+#import <MaterialComponents/MaterialThemes.h>
+#import <MaterialComponents/MaterialTypographyScheme.h>
 
 @interface MDCTextFieldColorThemer (ResetDefaults)
 

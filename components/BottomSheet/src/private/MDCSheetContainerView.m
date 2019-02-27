@@ -12,11 +12,11 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCSheetContainerView.h"
+#import <MaterialComponents/MDCSheetContainerView.h>
 
-#import "MDCDraggableView.h"
-#import "MDCSheetBehavior.h"
-#import "MaterialKeyboardWatcher.h"
+#import <MaterialComponents/MDCDraggableView.h>
+#import <MaterialComponents/MDCSheetBehavior.h>
+#import <MaterialComponents/MaterialKeyboardWatcher.h>
 
 // KVO key for monitoring the content size for the content view if it is a scrollview.
 static NSString *kContentSizeKey = nil;

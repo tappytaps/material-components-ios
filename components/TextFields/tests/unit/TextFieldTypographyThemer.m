@@ -14,9 +14,9 @@
 
 #import <XCTest/XCTest.h>
 
-#import "MaterialTextFields+TypographyThemer.h"
-#import "MaterialTextFields.h"
-#import "MaterialThemes.h"
+#import <MaterialComponents/MaterialTextFields+TypographyThemer.h>
+#import <MaterialComponents/MaterialTextFields.h>
+#import <MaterialComponents/MaterialThemes.h>
 
 @interface MDCTextFieldTypographyThemer (ResetDefaults)
 

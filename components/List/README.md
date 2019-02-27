@@ -95,7 +95,7 @@ import MaterialComponents.MaterialList
 #### Objective-C
 
 ```objc
-#import "MaterialList.h"
+#import <MaterialComponents/MaterialList.h>
 ```
 <!--</div>-->
 
@@ -166,7 +166,7 @@ MDCListColorThemer.applySemanticColorScheme(colorScheme, to: cell)
 
 ```objc
 // Step 1: Import the ColorThemer extension
-#import "MaterialList+ColorThemer.h"
+#import <MaterialComponents/MaterialList+ColorThemer.h>
 
 // Step 2: Create or get a color scheme
 id<MDCColorScheming> colorScheme = [[MDCSematnicColorScheme alloc] init];
@@ -206,7 +206,7 @@ MDCListTypographyThemer.applyTypographyScheme(typographyScheme, to: cell)
 
 ```objc
 // Step 1: Import the Typography extension
-#import "MaterialList+TypographyThemer.h"
+#import <MaterialComponents/MaterialList+TypographyThemer.h>
 
 // Step 2: Create or get a color scheme
 id<MDCTypographyScheming> typographyScheme = [[MDCTypographyScheme alloc] init];

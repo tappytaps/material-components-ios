@@ -78,7 +78,7 @@ import MaterialComponents.MaterialSlider
 #### Objective-C
 
 ```objc
-#import "MaterialSlider.h"
+#import <MaterialComponents/MaterialSlider.h>
 ```
 <!--</div>-->
 
@@ -212,7 +212,7 @@ MDCSliderColorThemer.applySemanticColorScheme(colorScheme, to: component)
 
 ```objc
 // Step 1: Import the ColorThemer extension
-#import "MaterialSlider+ColorThemer.h"
+#import <MaterialComponents/MaterialSlider+ColorThemer.h>
 
 // Step 2: Create or get a color scheme
 id<MDCColorScheming> colorScheme = [[MDCSemanticColorScheme alloc] initWithDefaults:MDCColorSchemeDefaultsMaterial201804];

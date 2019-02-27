@@ -14,7 +14,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MDCTabBar.h"
+#import <MaterialComponents/MDCTabBar.h>
 
 @protocol MDCTabBarControllerDelegate;
 

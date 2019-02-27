@@ -12,8 +12,8 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCInkLayer.h"
-#import "MaterialMath.h"
+#import <MaterialComponents/MDCInkLayer.h>
+#import <MaterialComponents/MaterialMath.h>
 
 static const CGFloat MDCInkLayerCommonDuration = (CGFloat)0.083;
 static const CGFloat MDCInkLayerEndFadeOutDuration = (CGFloat)0.15;

@@ -12,6 +12,6 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCFilledTextFieldColorThemer.h"
-#import "MDCOutlinedTextFieldColorThemer.h"
-#import "MDCTextFieldColorThemer.h"
+#import <MaterialComponents/MDCFilledTextFieldColorThemer.h>
+#import <MaterialComponents/MDCOutlinedTextFieldColorThemer.h>
+#import <MaterialComponents/MDCTextFieldColorThemer.h>

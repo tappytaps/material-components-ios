@@ -12,10 +12,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCAppBarColorThemer.h"
+#import <MaterialComponents/MDCAppBarColorThemer.h>
 
-#import "MaterialFlexibleHeader+ColorThemer.h"
-#import "MaterialNavigationBar+ColorThemer.h"
+#import <MaterialComponents/MaterialFlexibleHeader+ColorThemer.h>
+#import <MaterialComponents/MaterialNavigationBar+ColorThemer.h>
 
 @implementation MDCAppBarColorThemer
 

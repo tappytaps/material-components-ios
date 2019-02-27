@@ -15,7 +15,7 @@
 #import <CoreGraphics/CoreGraphics.h>
 #import <XCTest/XCTest.h>
 
-#import "MaterialFlexibleHeader.h"
+#import <MaterialComponents/MaterialFlexibleHeader.h>
 
 #import "supplemental/FlexibleHeaderTopSafeAreaTestsFakeTopSafeAreaDelegate.h"
 

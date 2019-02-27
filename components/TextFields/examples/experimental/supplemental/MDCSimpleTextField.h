@@ -14,9 +14,9 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MaterialColorScheme.h"
+#import <MaterialComponents/MaterialColorScheme.h>
 
-#import "MDCContainedInputView.h"
+#import <MaterialComponents/MDCContainedInputView.h>
 
 /**
  A UITextField subclass that attempts to do the following:

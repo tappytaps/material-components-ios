@@ -59,7 +59,7 @@ import MaterialComponents.MaterialThemes
 #### Objective-C
 
 ```objc
-#import "MaterialThemes.h"
+#import <MaterialComponents/MaterialThemes.h>
 ```
 <!--</div>-->
 

@@ -25,7 +25,7 @@ MDCChipViewShapeThemer.applyShapeScheme(shapeScheme, to: component)
 
 ```objc
 // Step 1: Import the ShapeThemer extension
-#import "MaterialChips+ShapeThemer.h"
+#import <MaterialComponents/MaterialChips+ShapeThemer.h>
 
 // Step 2: Create or get a shape scheme
 id<MDCShapeScheming> shapeScheme = [[MDCShapeScheme alloc] init];

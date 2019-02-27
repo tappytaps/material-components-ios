@@ -12,11 +12,11 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MaterialChips+ChipThemer.h"
+#import <MaterialComponents/MaterialChips+ChipThemer.h>
 
-#import "MaterialChips+ColorThemer.h"
-#import "MaterialChips+ShapeThemer.h"
-#import "MaterialChips+TypographyThemer.h"
+#import <MaterialComponents/MaterialChips+ColorThemer.h>
+#import <MaterialComponents/MaterialChips+ShapeThemer.h>
+#import <MaterialComponents/MaterialChips+TypographyThemer.h>
 
 @implementation MDCChipViewThemer
 

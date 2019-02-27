@@ -78,7 +78,7 @@ class ShadowedView: UIView {
 
 #### Objective-C
 ```objc
-#import "MaterialShadowElevations.h"
+#import <MaterialComponents/MaterialShadowElevations.h>
 
 @interface ShadowedView: UIView
 

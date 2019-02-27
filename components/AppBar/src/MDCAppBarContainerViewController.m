@@ -12,10 +12,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCAppBarContainerViewController.h"
+#import <MaterialComponents/MDCAppBarContainerViewController.h>
 
-#import "MDCAppBarViewController.h"
-#import "MaterialFlexibleHeader.h"
+#import <MaterialComponents/MDCAppBarViewController.h>
+#import <MaterialComponents/MaterialFlexibleHeader.h>
 
 @implementation MDCAppBarContainerViewController {
   MDCAppBar *_appBar;

@@ -13,7 +13,7 @@
 // limitations under the License.
 
 import MDFTextAccessibility
-import MaterialComponents.MaterialIcons_ic_check
+import MaterialComponents.Materialprivate_Icons_icons_ic_check_ic_check
 import MaterialComponents.MaterialPalettes
 import MaterialComponents.MaterialThemes
 import MaterialComponentsBeta.MaterialContainerScheme

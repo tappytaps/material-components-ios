@@ -17,9 +17,9 @@
  instructions. It is not necessary to import this file to use Material Components for iOS.
  */
 
-#import "NavigationBarTypicalUseExampleSupplemental.h"
+#import <MaterialComponents/NavigationBarTypicalUseExampleSupplemental.h>
 
-#import "MaterialPalettes.h"
+#import <MaterialComponents/MaterialPalettes.h>
 
 @interface ExampleInstructionsViewNavigationBarTypicalUseExample : UIView
 

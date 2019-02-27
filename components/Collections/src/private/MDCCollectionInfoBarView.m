@@ -12,11 +12,11 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCCollectionInfoBarView.h"
+#import <MaterialComponents/MDCCollectionInfoBarView.h>
 
-#import "MaterialPalettes.h"
-#import "MaterialShadowLayer.h"
-#import "MaterialTypography.h"
+#import <MaterialComponents/MaterialPalettes.h>
+#import <MaterialComponents/MaterialShadowLayer.h>
+#import <MaterialComponents/MaterialTypography.h>
 
 const CGFloat MDCCollectionInfoBarAnimationDuration = (CGFloat)0.3;
 const CGFloat MDCCollectionInfoBarHeaderHeight = 48;

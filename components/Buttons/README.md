@@ -96,7 +96,7 @@ import MaterialComponents.MaterialButtons
 #### Objective-C
 
 ```objc
-#import "MaterialButtons.h"
+#import <MaterialComponents/MaterialButtons.h>
 ```
 <!--</div>-->
 
@@ -421,7 +421,7 @@ let buttonScheme = MDCButtonScheme()
 
 ```objc
 // Step 1: Import the ButtonThemer extension
-#import "MaterialButtons+ButtonThemer.h"
+#import <MaterialComponents/MaterialButtons+ButtonThemer.h>
 
 // Step 2: Create or get a button scheme
 MDCButtonScheme *buttonScheme = [[MDCButtonScheme alloc] init];
@@ -539,7 +539,7 @@ MDCTextButtonColorThemer.applySemanticColorScheme(colorScheme, to: component)
 
 ```objc
 // Step 1: Import the ColorThemer extension
-#import "MaterialButtons+ColorThemer.h"
+#import <MaterialComponents/MaterialButtons+ColorThemer.h>
 
 // Step 2: Create or get a color scheme
 id<MDCColorScheming> colorScheme = [[MDCSemanticColorScheme alloc] initWithDefaults:MDCColorSchemeDefaultsMaterial201804];
@@ -583,7 +583,7 @@ MDCButtonTypographyThemer.applyTypographyScheme(typographyScheme, to: component)
 
 ```objc
 // Step 1: Import the TypographyThemer extension
-#import "MaterialButtons+TypographyThemer.h"
+#import <MaterialComponents/MaterialButtons+TypographyThemer.h>
 
 // Step 2: Create or get a typography scheme
 id<MDCTypographyScheming> typographyScheme = [[MDCTypographyScheme alloc] init];
@@ -624,7 +624,7 @@ MDCFloatingButtonShapeThemer.applyShapeScheme(shapeScheme, to: component)
 
 ```objc
 // Step 1: Import the ShapeThemer extension
-#import "MaterialButtons+ShapeThemer.h"
+#import <MaterialComponents/MaterialButtons+ShapeThemer.h>
 
 // Step 2: Create or get a shape scheme
 id<MDCShapeScheming> shapeScheme = [[MDCShapeScheme alloc] init];

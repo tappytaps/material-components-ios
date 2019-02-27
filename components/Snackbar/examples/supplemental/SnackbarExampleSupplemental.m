@@ -12,9 +12,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "SnackbarExampleSupplemental.h"
-#import "MaterialSnackbar+ColorThemer.h"
-#import "MaterialSnackbar+TypographyThemer.h"
+#import <MaterialComponents/SnackbarExampleSupplemental.h>
+#import <MaterialComponents/MaterialSnackbar+ColorThemer.h>
+#import <MaterialComponents/MaterialSnackbar+TypographyThemer.h>
 
 static NSString *const kCellIdentifier = @"Cell";
 

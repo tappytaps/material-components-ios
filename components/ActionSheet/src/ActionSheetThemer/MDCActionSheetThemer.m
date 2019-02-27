@@ -12,10 +12,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCActionSheetThemer.h"
+#import <MaterialComponents/MDCActionSheetThemer.h>
 
-#import "MaterialActionSheet+ColorThemer.h"
-#import "MaterialActionSheet+TypographyThemer.h"
+#import <MaterialComponents/MaterialActionSheet+ColorThemer.h>
+#import <MaterialComponents/MaterialActionSheet+TypographyThemer.h>
 
 @implementation MDCActionSheetThemer
 

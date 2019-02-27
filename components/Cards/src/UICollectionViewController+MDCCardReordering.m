@@ -12,10 +12,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "UICollectionViewController+MDCCardReordering.h"
+#import <MaterialComponents/UICollectionViewController+MDCCardReordering.h>
 
-#import "MDCCardCollectionCell.h"
-#import "MaterialInk.h"
+#import <MaterialComponents/MDCCardCollectionCell.h>
+#import <MaterialComponents/MaterialInk.h>
 
 @implementation UICollectionViewController (MDCCardReordering)
 

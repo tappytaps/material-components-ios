@@ -12,10 +12,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCDialogShadowedView.h"
+#import <MaterialComponents/MDCDialogShadowedView.h>
 
-#import "MaterialShadowElevations.h"
-#import "MaterialShadowLayer.h"
+#import <MaterialComponents/MaterialShadowElevations.h>
+#import <MaterialComponents/MaterialShadowLayer.h>
 
 @implementation MDCDialogShadowedView
 

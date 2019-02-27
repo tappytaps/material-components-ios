@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCBottomNavigationBarColorThemer.h"
+#import <MaterialComponents/MDCBottomNavigationBarColorThemer.h>
 
 static const CGFloat kUnselectedOpacity = (CGFloat)0.6;
 

@@ -28,7 +28,7 @@ MDCTabBarColorThemer.applySurfaceVariant(withColorScheme: colorScheme, toTabs: c
 
 ```objc
 // Step 1: Import the ColorThemer extension
-#import "MaterialTabs+ColorThemer.h"
+#import <MaterialComponents/MaterialTabs+ColorThemer.h>
 
 // Step 2: Create or get a color scheme
 id<MDCColorScheming> colorScheme = [[MDCSemanticColorScheme alloc] initWithDefaults:MDCColorSchemeDefaultsMaterial201804];

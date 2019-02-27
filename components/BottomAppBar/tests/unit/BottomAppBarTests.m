@@ -12,13 +12,13 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MaterialBottomAppBar.h"
+#import <MaterialComponents/MaterialBottomAppBar.h>
 
 #import <CoreGraphics/CoreGraphics.h>
 #import <XCTest/XCTest.h>
 
 #import "../../src/private/MDCBottomAppBarLayer.h"
-#import "MaterialNavigationBar.h"
+#import <MaterialComponents/MaterialNavigationBar.h>
 
 @interface MDCBottomAppBarLayer (Testing)
 - (UIBezierPath *)drawWithPathToCut:(UIBezierPath *)bottomBarPath

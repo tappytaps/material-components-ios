@@ -12,8 +12,8 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MaterialList+TypographyThemer.h"
-#import "MaterialList.h"
+#import <MaterialComponents/MaterialList+TypographyThemer.h>
+#import <MaterialComponents/MaterialList.h>
 
 #import <XCTest/XCTest.h>
 

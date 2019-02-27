@@ -12,5 +12,5 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCAlertController+MaterialTheming.h"
-#import "MDCDialogPresentationController+MaterialTheming.h"
+#import <MaterialComponents/MDCAlertController+MaterialTheming.h>
+#import <MaterialComponents/MDCDialogPresentationController+MaterialTheming.h>

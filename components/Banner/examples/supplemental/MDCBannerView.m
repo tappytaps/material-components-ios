@@ -12,10 +12,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCBannerView.h"
+#import <MaterialComponents/MDCBannerView.h>
 
-#import "MDCBannerViewLayout.h"
-#import "MaterialButtons.h"
+#import <MaterialComponents/MDCBannerViewLayout.h>
+#import <MaterialComponents/MaterialButtons.h>
 
 static const CGFloat kIconImageContainerSideLength = 40.0f;
 static const CGFloat kIconImageSideLength = 24.0f;

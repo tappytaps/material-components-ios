@@ -61,7 +61,7 @@ import MaterialComponents
 #### Objective-C
 
 ```objc
-#import "MaterialInk.h"
+#import <MaterialComponents/MaterialInk.h>
 ```
 <!--</div>-->
 

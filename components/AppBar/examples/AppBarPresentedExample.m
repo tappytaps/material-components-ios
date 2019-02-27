@@ -14,11 +14,11 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MaterialAppBar+ColorThemer.h"
-#import "MaterialAppBar+TypographyThemer.h"
-#import "MaterialAppBar.h"
-#import "MaterialButtons+ButtonThemer.h"
-#import "MaterialButtons.h"
+#import <MaterialComponents/MaterialAppBar+ColorThemer.h>
+#import <MaterialComponents/MaterialAppBar+TypographyThemer.h>
+#import <MaterialComponents/MaterialAppBar.h>
+#import <MaterialComponents/MaterialButtons+ButtonThemer.h>
+#import <MaterialComponents/MaterialButtons.h>
 
 @interface PresentedDemoViewController : UICollectionViewController
 @property(nonatomic, strong) MDCAppBarViewController *appBarViewController;

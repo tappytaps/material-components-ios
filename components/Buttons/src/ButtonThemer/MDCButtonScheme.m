@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCButtonScheme.h"
+#import <MaterialComponents/MDCButtonScheme.h>
 
 @implementation MDCButtonScheme
 

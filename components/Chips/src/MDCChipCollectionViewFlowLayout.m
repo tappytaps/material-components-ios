@@ -13,7 +13,7 @@
 // limitations under the License.
 #import <CoreGraphics/CoreGraphics.h>
 
-#import "MDCChipCollectionViewFlowLayout.h"
+#import <MaterialComponents/MDCChipCollectionViewFlowLayout.h>
 
 /* Left aligns one rect to another with a given padding */
 static inline CGRect CGRectLeftAlignToRect(CGRect rect, CGRect staticRect, CGFloat padding) {

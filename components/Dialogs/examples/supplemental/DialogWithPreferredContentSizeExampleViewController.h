@@ -19,7 +19,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import "MaterialContainerScheme.h"
+#import <MaterialComponents/MaterialContainerScheme.h>
 
 @interface DialogWithPreferredContentSizeExampleViewController : UIViewController
 

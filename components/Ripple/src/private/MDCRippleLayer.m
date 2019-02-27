@@ -12,9 +12,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCRippleLayer.h"
-#import "MaterialAnimationTiming.h"
-#import "MaterialMath.h"
+#import <MaterialComponents/MDCRippleLayer.h>
+#import <MaterialComponents/MaterialAnimationTiming.h>
+#import <MaterialComponents/MaterialMath.h>
 
 static const CGFloat kExpandRippleBeyondSurface = 10;
 static const CGFloat kRippleStartingScale = (CGFloat)0.6;

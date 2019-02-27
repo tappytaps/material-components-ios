@@ -17,7 +17,7 @@
  instructions. It is not necessary to import this file to use Material Components iOS.
  */
 
-#import "FlexibleHeaderWrappedSupplemental.h"
+#import <MaterialComponents/FlexibleHeaderWrappedSupplemental.h>
 
 @implementation FlexibleHeaderWrappedExample (CatalogByConvention)
 

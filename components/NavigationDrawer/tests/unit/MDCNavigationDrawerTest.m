@@ -14,9 +14,9 @@
 
 #import <XCTest/XCTest.h>
 
-#import "MaterialNavigationDrawer.h"
+#import <MaterialComponents/MaterialNavigationDrawer.h>
 
-#import "MDCNavigationDrawerFakes.h"
+#import <MaterialComponents/MDCNavigationDrawerFakes.h>
 
 @interface MDCNavigationDrawerTest : XCTestCase
 @property(nonatomic, strong) MDCBottomDrawerViewController *navigationDrawer;

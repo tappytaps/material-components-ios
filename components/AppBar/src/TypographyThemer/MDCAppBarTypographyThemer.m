@@ -12,9 +12,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCAppBarTypographyThemer.h"
+#import <MaterialComponents/MDCAppBarTypographyThemer.h>
 
-#import "MaterialNavigationBar+TypographyThemer.h"
+#import <MaterialComponents/MaterialNavigationBar+TypographyThemer.h>
 
 @implementation MDCAppBarTypographyThemer
 

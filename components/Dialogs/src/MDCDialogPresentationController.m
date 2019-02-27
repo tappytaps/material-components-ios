@@ -12,10 +12,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "MDCDialogPresentationController.h"
+#import <MaterialComponents/MDCDialogPresentationController.h>
 
-#import "MaterialKeyboardWatcher.h"
-#import "MaterialShadowLayer.h"
+#import <MaterialComponents/MaterialKeyboardWatcher.h>
+#import <MaterialComponents/MaterialShadowLayer.h>
 #import "private/MDCDialogShadowedView.h"
 
 static CGFloat MDCDialogMinimumWidth = 280;

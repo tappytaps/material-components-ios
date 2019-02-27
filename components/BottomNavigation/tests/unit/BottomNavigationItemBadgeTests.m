@@ -16,7 +16,7 @@
 #import <XCTest/XCTest.h>
 
 #import "../../src/private/MDCBottomNavigationItemBadge.h"
-#import "MaterialBottomNavigation.h"
+#import <MaterialComponents/MaterialBottomNavigation.h>
 
 @interface BottomNavigationItemBadgeTests : XCTestCase
 @property(nonatomic, strong) MDCBottomNavigationItemBadge *badge;

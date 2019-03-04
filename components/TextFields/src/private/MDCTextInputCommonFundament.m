@@ -905,8 +905,8 @@ static inline UIColor *MDCTextInputUnderlineColor() {
 
 - (void)updatePlaceholderPosition {
   self.placeholderTop.constant = _textInput.textInsets.top;
-  self.placeholderLeading.constant = _textInput.textInsets.left;
-  self.placeholderTrailing.constant = -1 * _textInput.textInsets.right;
+  self.placeholderLeading.constant = _textInput.textInsets.left + 16;
+  self.placeholderTrailing.constant = -1 * _textInput.textInsets.right - 16;
 
   [self updatePlaceholderToOverlayViewsPosition];
   [self.textInput invalidateIntrinsicContentSize];

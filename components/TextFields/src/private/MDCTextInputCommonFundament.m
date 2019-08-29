@@ -622,18 +622,16 @@ static inline UIColor *MDCTextInputUnderlineColor() {
   }
 
   [self.textInput clearText];
-  if (self.textInput.isFirstResponder) {
-    if ([self.textInput isKindOfClass:[MDCMultilineTextField class]]) {
-      MDCMultilineTextField *textField = (MDCMultilineTextField *)self.textInput;
-      [[NSNotificationCenter defaultCenter] postNotificationName:UITextViewTextDidChangeNotification
-                                                          object:textField.textView];
-    } else if ([self.textInput isKindOfClass:[UITextField class]]) {
-      UITextField *textField = (UITextField *)self.textInput;
-      [[NSNotificationCenter defaultCenter]
-          postNotificationName:UITextFieldTextDidChangeNotification
-                        object:self.textInput];
-      [textField sendActionsForControlEvents:UIControlEventEditingChanged];
-    }
+  if ([self.textInput isKindOfClass:[MDCMultilineTextField class]]) {
+    MDCMultilineTextField *textField = (MDCMultilineTextField *)self.textInput;
+    [[NSNotificationCenter defaultCenter] postNotificationName:UITextViewTextDidChangeNotification
+                                                        object:textField.textView];
+  } else if ([self.textInput isKindOfClass:[UITextField class]]) {
+    UITextField *textField = (UITextField *)self.textInput;
+    [[NSNotificationCenter defaultCenter]
+        postNotificationName:UITextFieldTextDidChangeNotification
+                      object:self.textInput];
+    [textField sendActionsForControlEvents:UIControlEventEditingChanged];
   }
 }
 
